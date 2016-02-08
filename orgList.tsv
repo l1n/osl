@@ -1,9 +1,57 @@
+2	American Society of Mechanical Engineers	Career/Professional
+5	Biology Council of Majors	Academic/Departmental
+6	Chemistry/Biochemistry Council of Majors	Academic/Departmental
+10	Dance Council of Majors	Academic/Departmental
+13	English Council of Majors	Academic/Departmental
+14	Filmmakers Anonymous	Media
+16	Health Administration & Policy C.O.M.	Academic/Departmental
+17	History Student Council	Academic/Departmental
+18	Information Systems Council of Majors	Academic/Departmental
+19	Interdisciplinary Studies Council of Majors	Academic/Departmental
+20	Linux User's Group	Career/Professional
+24	National Society of Black Engineers	Career/Professional
+25	Philosophers Anonymous	Academic/Departmental
+28	Pre-Dental Society	Career/Professional
+30	Pre-Medical Society	Career/Professional
+31	Pre-Pharmacy Society	Career/Professional
+33	Social Work Student Association	Academic/Departmental
+35	Society of Automotive Engineers	Academic/Departmental
+36	Society of Women Engineers	Career/Professional
+41	Theatre Council of Majors	Arts/Performance
+46	African Student Association	Cultural/Ethnic
+47	Asian Student Connection	Cultural/Ethnic
+48	Black Student Union	Cultural/Ethnic
+51	Chinese Students Association	Cultural/Ethnic
+53	Ethiopian-Eritrean Student Association	Cultural/Ethnic
+55	Hindu Students Council	Cultural/Ethnic
+56	Hispanic Latino Student Union	Cultural/Ethnic
+58	Korean Student Association	Cultural/Ethnic
+60	Muslim Student Association	Religion/Spirituality
+62	Persian Student Association	Cultural/Ethnic
+63	South Asian Students Association	Cultural/Ethnic
+66	Vietnamese Student Association	Cultural/Ethnic
+68	Resident Student Association	Governance
+69	Student Government Association	Governance
+70	Alpha Kappa Alpha Lambda Phi Chapter Sorority Inc.	Fraternities/Sororities
+72	Alpha Sigma Alpha	Fraternities/Sororities
+73	Delta Phi Epsilon	Fraternities/Sororities
+74	Delta Sigma Theta Sorority, Inc	Fraternities/Sororities
+75	Interfraternity Council	Fraternities/Sororities
+78	Lambda Chi Alpha Fraternity	Fraternities/Sororities
+84	Phi Beta Sigma Fraternity, Inc.	Fraternities/Sororities
+85	Phi Mu Fraternity for Women	Fraternities/Sororities
+87	Pi Kappa Phi	Fraternities/Sororities
+91	Triangle Fraternity	Fraternities/Sororities
+92	Golden Key International Honour Society	Honor Societies
+94	National Society of Collegiate Scholars	Honor Societies
+97	Psi Chi Honor Society (Psychology)	Honor Societies
+98	Tau Beta Pi (Engineering)	Honor Societies
+99	Chess Club	Intellectual Sports
 103	Mock Trial Team	Intellectual Sports
 104	Model United Nations	Intellectual Sports
 106	Bartleby (The Creative Arts Journal of UMBC)	Academic/Departmental
 107	Retriever Weekly	Media
 109	WMBC	Media
-10	Dance Council of Majors	Academic/Departmental
 113	College Democrats	Political
 114	College Republicans	Political
 115	Freedom Alliance (GLBTA)	Cultural/Ethnic
@@ -16,11 +64,9 @@
 133	Pagan Student Union	Religion/Spirituality
 137	Anime Society	Hobbies
 139	Habitat for Humanity	Service/Social Action
-13	English Council of Majors	Academic/Departmental
 140	Students for Environmental Awareness	Service/Social Action
 141	Army R.O.T.C.	Career/Professional
 145	Aikido Club	Sports/Recreation
-14	Filmmakers Anonymous	Media
 150	Crew/Rowing	Sports/Recreation
 151	Cycling Club	Sports/Recreation
 152	Fencing Club	Sports/Recreation
@@ -36,51 +82,37 @@
 167	Tae Kwon Do Club	Sports/Recreation
 168	Ultimate Frisbee Team	Sports/Recreation
 169	Volleyball (Men's)	Sports/Recreation
-16	Health Administration & Policy C.O.M.	Academic/Departmental
 170	Volleyball (Women's)	Sports/Recreation
 171	Wrestling Team	Sports/Recreation
 173	Equestrian Club	Sports/Recreation
-17	History Student Council	Academic/Departmental
 182	Institute of Electrical and Electronics Engineers	Academic/Departmental
 185	Alpha Sigma Kappa	Fraternities/Sororities
 186	Phi Kappa Sigma	Fraternities/Sororities
 187	Phi Sigma Sigma	Fraternities/Sororities
 189	Lutheran and Episcopal Campus Ministry	Religion/Spirituality
-18	Information Systems Council of Majors	Academic/Departmental
 190	Tau Kappa Epsilon	Fraternities/Sororities
-19	Interdisciplinary Studies Council of Majors	Academic/Departmental
 200	Club Cheer	Arts/Performance
 202	Students for Life	Political
-20	Linux User's Group	Career/Professional
 213	Mama's Boys	Arts/Performance
 225	Sigma Alpha Lambda	Honor Societies
 227	Panhellenic Association	Fraternities/Sororities
 237	22 Yards: Cricket Club	Sports/Recreation
 238	Accounting Club	Academic/Departmental
-24	National Society of Black Engineers	Career/Professional
-25	Philosophers Anonymous	Academic/Departmental
 270	Bengali Student Council	Cultural/Ethnic
 282	Cleftomaniacs	Arts/Performance
-28	Pre-Dental Society	Career/Professional
 294	Game Developer's Club	Career/Professional
 296	Go Club	Intellectual Sports
-2	American Society of Mechanical Engineers	Career/Professional
 302	Korean Bible Study	Religion/Spirituality
 308	Multicultural Greek Council	Fraternities/Sororities
-30	Pre-Medical Society	Career/Professional
 312	National Pan Hellenic Council	Fraternities/Sororities
 316	Perfected Praise Liturgical Dance Ministry	Religion/Spirituality
-31	Pre-Pharmacy Society	Career/Professional
 329	Student Events Board	Governance
 330	Student-Athlete Advisory Committee	Governance
 333	Taiwanese Student Association	Cultural/Ethnic
 335	Tennis Club	Sports/Recreation
-33	Social Work Student Association	Academic/Departmental
 344	Women Involved in Learning and Leadership (WILL)	Service/Social Action
 346	Wushu/Tai Chi Club	Sports/Recreation
-35	Society of Automotive Engineers	Academic/Departmental
 365	Billiards Club	Hobbies
-36	Society of Women Engineers	Career/Professional
 370	Musical Theatre Club	Arts/Performance
 378	Major Definition	Arts/Performance
 382	Amateur Radio Club	Hobbies
@@ -94,7 +126,6 @@
 417	Media and Communication Studies Council of Majors	Academic/Departmental
 418	Amnesty International	Service/Social Action
 419	Lacrosse (Women's)	Sports/Recreation
-41	Theatre Council of Majors	Arts/Performance
 421	Russian Club	Cultural/Ethnic
 422	Pre-Veterinary Society	Career/Professional
 423	Tau Sigma National Honor Society	Honor Societies
@@ -112,19 +143,15 @@
 464	Bethel Campus Fellowship	Religion/Spirituality
 465	Taal-Capella	Arts/Performance
 466	Debate Club	Intellectual Sports
-46	African Student Association	Cultural/Ethnic
 470	Caribbean Students Council	Cultural/Ethnic
 472	Sigma Alpha Epsilon	Fraternities/Sororities
-47	Asian Student Connection	Cultural/Ethnic
 483	Adaa	Arts/Performance
 484	Humans vs. Zombies Club, UMBC	Hobbies
 486	Coptic Club	Religion/Spirituality
-48	Black Student Union	Cultural/Ethnic
 490	Vegetarians, UMBC	Service/Social Action
 506	CWIT Student Council	Academic/Departmental
 512	Rock Climbing Club, UMBC	Hobbies
 518	Kendo Club, UMBC	Sports/Recreation
-51	Chinese Students Association	Cultural/Ethnic
 527	Splash! UMBC	Service/Social Action
 528	QUMBC	Service/Social Action
 532	Pre-Physical Therapy Society	Career/Professional
@@ -132,14 +159,11 @@
 535	Pandemic Steelband	Arts/Performance
 537	Gender and Women's Studies Council of Majors	Academic/Departmental
 539	CamDi (Campus Disciples)	Religion/Spirituality
-53	Ethiopian-Eritrean Student Association	Cultural/Ethnic
 540	American Institute of Chemical Engineers (AIChE)	Career/Professional
 545	Entrepreneurial Society	Career/Professional
 546	Cyber Defense Team	Career/Professional
 550	UMBC Gaming	Hobbies
 553	alpha Kappa Delta Phi	Fraternities/Sororities
-55	Hindu Students Council	Cultural/Ethnic
-56	Hispanic Latino Student Union	Cultural/Ethnic
 571	Ultimate Frisbee (Women's)	Sports/Recreation
 572	Student Alumni Association	Service/Social Action
 574	Chi Alpha Christian Fellowship	Religion/Spirituality
@@ -152,16 +176,13 @@
 583	Active Minds	Service/Social Action
 586	Honors College Council 	Academic/Departmental
 587	Outdoor Recreation Club	Hobbies
-58	Korean Student Association	Cultural/Ethnic
 591	Astronomy Club	Hobbies
 592	Geography and Environmental Systems Council of Majors	Academic/Departmental
 596	Phi Alpha National Social Work Honor Society	Honor Societies
 598	Council of Computing Majors	Academic/Departmental
-5	Biology Council of Majors	Academic/Departmental
 605	Global Brigades	Service/Social Action
 608	AF Theatre Company	Arts/Performance
 609	Saudi Students Club	Cultural/Ethnic
-60	Muslim Student Association	Religion/Spirituality
 611	Rockets and More	Hobbies
 612	Christians On Campus	Religion/Spirituality
 613	Circle K	Service/Social Action
@@ -172,8 +193,6 @@
 625	Information Systems Security Association 	Career/Professional
 627	American Red Cross Club	Service/Social Action
 629	Salvation and Praise	Religion/Spirituality
-62	Persian Student Association	Cultural/Ethnic
-63	South Asian Students Association	Cultural/Ethnic
 646	Rifle and Pistol Club (Firearm Safety and Education)	Hobbies
 651	Ampersand Creative Writing Club	Hobbies
 652	Environmental Task Force	Service/Social Action
@@ -181,7 +200,6 @@
 663	Anomaly	Religion/Spirituality
 666	Circus Arts Club	Hobbies
 667	Retriever Robotics	Intellectual Sports
-66	Vietnamese Student Association	Cultural/Ethnic
 670	The Garden	Service/Social Action
 671	Mincha	Religion/Spirituality
 672	United Christian Council	Governance
@@ -191,15 +209,12 @@
 684	Linguistics Club	Academic/Departmental
 688	Comics and Other Media [com]	Hobbies
 689	Pre-Physician Assistant Society	Career/Professional
-68	Resident Student Association	Governance
 690	Create With Care	Service/Social Action
 693	Lambda Theta Alpha Latin Sorority, Inc	Fraternities/Sororities
 694	Apples and Floss for Baltimore	Service/Social Action
 696	Students for a Healthy Baltimore	Service/Social Action
 697	Scuba Diving Club	Hobbies
 699	SUCCESS Buddies	Service/Social Action
-69	Student Government Association	Governance
-6	Chemistry/Biochemistry Council of Majors	Academic/Departmental
 700	B-More Bhangra	Arts/Performance
 701	Ishara: The Indian Classical Dance Team	Arts/Performance
 702	Irish Dance and Music Club	Arts/Performance
@@ -209,7 +224,6 @@
 706	People United	Service/Social Action
 707	Hillel Student Organization	Religion/Spirituality
 709	Chinmaya Yuva Kendra (CHYK)	Religion/Spirituality
-70	Alpha Kappa Alpha Lambda Phi Chapter Sorority Inc.	Fraternities/Sororities
 711	Bhagavad-Gita Club	Cultural/Ethnic
 712	Asian Studies Council of Majors	Academic/Departmental
 713	Psychology Club	Academic/Departmental
@@ -224,7 +238,6 @@
 727	Vinyl Spinners	Hobbies
 728	Photography Club	Arts/Performance
 729	UAV (Unmanned Aerial Vehicles)	Academic/Departmental
-72	Alpha Sigma Alpha	Fraternities/Sororities
 731	Dog-Collar Comedy Troupe	Arts/Performance
 732	The Communicators	Career/Professional
 733	Global Studies Council of Majors	Academic/Departmental
@@ -232,7 +245,6 @@
 736	Jared Box Project	Service/Social Action
 738	Spanish Conversation Club 	Academic/Departmental
 739	Society of Hispanic Professional Engineers	Career/Professional
-73	Delta Phi Epsilon	Fraternities/Sororities
 740	Speech Team	Intellectual Sports
 741	Destination H.O.M.E. (Helping Others More Everyday)	Service/Social Action
 742	On Demand: Entertainment and Media Club 	Hobbies
@@ -242,14 +254,12 @@
 746	Phi Delta Epsilon International Medical Fraternity	Fraternities/Sororities
 747	Model African Union	Intellectual Sports
 749	Meditation at UMBC	Religion/Spirituality
-74	Delta Sigma Theta Sorority, Inc	Fraternities/Sororities
 750	Pre-Nursing Society	Career/Professional
 754	Moot Court Club	Intellectual Sports
 755	Lisa Simpson Book Club	Hobbies
 757	Power of Grace	Religion/Spirituality
 758	The Reach Initaitive	Service/Social Action
 759	Culture Chords 	Arts/Performance
-75	Interfraternity Council	Fraternities/Sororities
 761	Chemical Engineering Car Development Team	Academic/Departmental
 763	The S.T.A.R. Program 	Service/Social Action
 764	Latin Dance Club	Cultural/Ethnic
@@ -260,13 +270,3 @@
 770	Super Smash Bros. Club	Hobbies
 771	Culture Shock	Cultural/Ethnic
 774	The Charm City Connection	Service/Social Action
-78	Lambda Chi Alpha Fraternity	Fraternities/Sororities
-84	Phi Beta Sigma Fraternity, Inc.	Fraternities/Sororities
-85	Phi Mu Fraternity for Women	Fraternities/Sororities
-87	Pi Kappa Phi	Fraternities/Sororities
-91	Triangle Fraternity	Fraternities/Sororities
-92	Golden Key International Honour Society	Honor Societies
-94	National Society of Collegiate Scholars	Honor Societies
-97	Psi Chi Honor Society (Psychology)	Honor Societies
-98	Tau Beta Pi (Engineering)	Honor Societies
-99	Chess Club	Intellectual Sports
