@@ -1,0 +1,7062 @@
+$VAR1 = {
+  'from' => [
+    '4:00 PM',
+    '03/ 4/2016'
+  ],
+  'to' => [
+    '5:00 PM',
+    '03/ 5/2016'
+  ],
+  'type' => 'On Campus',
+  'eventName' => 'UMBC Debate Tournament- A Weekend At Hogwarts School of Witchcraft and Wizardry',
+  'attendees' => {
+    'other' => 85,
+    'umbc' => 15
+  },
+  'legislation' => {
+    'abstaining' => '1',
+    'id' => '98-1516',
+    'author' => 'Trent Bae',
+    'for' => '6',
+    'introduced' => 'February 9th, 2016',
+    'opposed' => '0',
+    'absent' => '0',
+    'voted' => 'February 9th, 2016'
+  },
+  'charge' => {
+    'other' => '90',
+    'umbc' => '0'
+  },
+  'approval' => '02/ 2/2016',
+  'cosponsor' => [],
+  'officer' => {
+    'phone' => '3016938609',
+    'position' => 'President',
+    'email' => 'amariam1@umbc.edu',
+    'name' => 'Asfiya Mariam'
+  },
+  'id' => '498',
+  'preTotal' => '1447.36',
+  'where' => 'All over UMBC Campus',
+  'budget' => {
+    'approved' => {
+      'Total' => '696.74',
+      'Breakfast' => '0.00',
+      'Estimated Event planning costs (Based on previous tournament)' => '320.00',
+      'Food' => '376.74'
+    },
+    'requested' => {
+      'Estimated Event planning costs (Based on previous tournament)' => '890.00',
+      'Dinner' => '368.26',
+      'Total' => '1447.36',
+      'Breakfast' => '189.10'
+    }
+  },
+  'outsideFunding' => 'maybe'
+};
+$VAR1 = {
+  'to' => [
+    '9:30 PM',
+    '03/ 4/2016'
+  ],
+  'where' => 'ITE 104',
+  'eventName' => 'Improv Show',
+  'officer' => {
+    'email' => 'sseiss1@umbc.edu',
+    'position' => 'Treasurer',
+    'phone' => '410-615-4652',
+    'name' => 'Scott Seiss'
+  },
+  'description' => '   We are requesting funds for a standard non-ticketed event marketing package because we have found that our attendance greatly increases when we advertise our efforts. We are also requesting funds to provide compensation for student marshals at the event and housekeeping afterwards because our audience is usually over 150 people minimum. We are also requesting a small amount of funds for a microphone and a projector in order to make sure the audience can hear us and show comedy sketches/our logo
+
+',
+  'budget' => {
+    'approved' => {
+      'Security' => '80.00',
+      'Total' => '550',
+      'Marketing Package' => '200.00',
+      'Housekeeping' => '250.00',
+      'Audio/Visual' => '20.00'
+    },
+    'requested' => {
+      'Audio/Visual' => '20.00',
+      'Marketing Package' => '200.00',
+      'Housekeeping' => '250.00',
+      'Total' => '550',
+      'Security' => '80.00'
+    }
+  },
+  'approval' => '01/27/2016',
+  'from' => [
+    '8:00 PM',
+    '03/ 4/2016'
+  ],
+  'charge' => {
+    'other' => '0',
+    'umbc' => '0'
+  },
+  'preTotal' => '550',
+  'cosponsor' => [],
+  'id' => '493',
+  'outsideFunding' => 'no',
+  'attendees' => {
+    'other' => 25,
+    'umbc' => 175
+  },
+  'legislation' => {
+    'author' => 'Trent Bae',
+    'introduced' => 'February 9th, 2016',
+    'absent' => '0',
+    'voted' => 'February 9th, 2016',
+    'id' => '101-1516',
+    'abstaining' => '0',
+    'opposed' => '0',
+    'for' => '7'
+  },
+  'type' => 'On Campus'
+};
+$VAR1 = {
+  'where' => 'Rutgers University ',
+  'description' => '   The purpose of our request is to attend Annual East Coast Asian Amerian Student Union (ECAASU) Conference this year hosted at Rutgers University. Every year ECAASU hosts this conference to develop cultural awareness and ethnic empowerment amongst the Asian student community which we feel will benefit the UMBC student body.
+
+',
+  'eventName' => 'ECAASU Conference Trip',
+  'id' => '490',
+  'to' => [
+    '6:00 PM',
+    '02/28/2016'
+  ],
+  'officer' => {
+    'position' => 'President',
+    'email' => 'valyu1@umbc.edu',
+    'name' => 'Valerie Yu',
+    'phone' => '2403885538'
+  },
+  'charge' => {
+    'other' => '0',
+    'umbc' => '0'
+  },
+  'approval' => '01/27/2016',
+  'attendees' => {
+    'umbc' => 10,
+    'other' => 0
+  },
+  'cosponsor' => [],
+  'type' => 'Off Campus',
+  'budget' => {
+    'approved' => {
+      'Conference/Competition Registration' => '800.00',
+      'Lodging' => '180.00',
+      'Transportation (Tickets or Rentals)' => '0.00',
+      'Gas' => '0.00',
+      'Total' => '980'
+    },
+    'requested' => {
+      'Total' => '1358',
+      'Gas' => '0.00',
+      'Conference/Competition Registration' => '800.00',
+      'Lodging' => '558.00',
+      'Transportation (Tickets or Rentals)' => '0.00'
+    }
+  },
+  'outsideFunding' => 'no',
+  'preTotal' => '1358',
+  'legislation' => {
+    'introduced' => 'February 2nd, 2016',
+    'absent' => '0',
+    'voted' => 'February 2nd, 2016',
+    'id' => '92-1516',
+    'author' => 'Trent Bae',
+    'opposed' => '0',
+    'abstaining' => '1',
+    'for' => '5'
+  },
+  'from' => [
+    '12:00 PM',
+    '02/26/2016'
+  ]
+};
+$VAR1 = {
+  'preTotal' => '4011.55',
+  'attendees' => {
+    'umbc' => 250,
+    'other' => 0
+  },
+  'description' => '   This request includes expenses for food, decorations, and outside performers.
+
+',
+  'to' => [
+    '12:00 AM',
+    '03/28/2'
+  ],
+  'cosponsor' => [],
+  'charge' => {
+    'other' => '5',
+    'umbc' => '0'
+  },
+  'approval' => '01/23/2016',
+  'legislation' => {
+    'voted' => 'February 5th, 2016',
+    'opposed' => '0',
+    'id' => '93-1516',
+    'introduced' => 'February 2nd, 2016',
+    'absent' => '0',
+    'abstaining' => '0',
+    'for' => '6',
+    'author' => 'Trent Bae'
+  },
+  'outsideFunding' => 'no',
+  'officer' => {
+    'position' => 'President',
+    'name' => 'Alejandro Ramirez Polania',
+    'phone' => '9194757757',
+    'email' => 'alej1@umbc.edu'
+  },
+  'where' => 'University Center Ballroom (UC Ballroom)',
+  'id' => '488',
+  'type' => 'On Campus',
+  'eventName' => 'El Encuentro',
+  'from' => [
+    '7:00 PM',
+    '03/28/2016'
+  ],
+  'budget' => {
+    'approved' => {
+      'Security' => '300.00',
+      'DJ' => '300.00',
+      'Food' => '2000.00',
+      'Setup' => '191.55',
+      'A/V' => '650.00',
+      'Housekeeping' => '250.00',
+      'Marketing' => '200.00',
+      'Total' => '4011.55',
+      'Ticketing Staff' => '120.00'
+    },
+    'requested' => {
+      'DJ' => '300.00',
+      'Security' => '300.00',
+      'Food' => '2000.00',
+      'Setup' => '191.55',
+      'A/V' => '650.00',
+      'Ticketing Staff' => '120.00',
+      'Total' => '4011.55',
+      'Marketing' => '200.00',
+      'Housekeeping' => '250.00'
+    }
+  }
+};
+$VAR1 = {
+  'charge' => {
+    'umbc' => '0',
+    'other' => '5'
+  },
+  'where' => 'University Center Ballroom',
+  'outsideFunding' => 'yes',
+  'officer' => {
+    'phone' => '(301) 569-0251',
+    'name' => 'Julia Gottlieb',
+    'position' => 'President',
+    'email' => 'julia16@umbc.edu'
+  },
+  'type' => 'On Campus',
+  'eventName' => 'The Vagina Monologues',
+  'cosponsor' => [
+    'Gender and Women\'s Studies Council of Majors',
+    'The Mosaic: Center for Culture and Diversity'
+  ],
+  'attendees' => {
+    'other' => 30,
+    'umbc' => 120
+  },
+  'description' => '   WILL is requesting funds for The Vagina Monologues, a play by Eve Ensler based on her interviews with more than 200 women that sheds light on violence against women and girls. Through this event we want to bring the crucial conversation of gender-based violence to college campuses, educating and empowering UMBC students to tell their stories. WILL\'s goal in performing The Vagina Monologues is to not only educate but end gendered violence.
+
+',
+  'legislation' => {
+    'abstaining' => 'This document has been presented to the Student Government Association Finance Board of the University of',
+    'id' => '99-1516',
+    'author' => 'Trent Bae',
+    'introduced' => 'February 9th, 2014',
+    'opposed' => '',
+    'voted' => '____________________________________ Date: _____________________',
+    'for' => 'February 9th, 2016',
+    'absent' => 'Maryland, Baltimore County, and has received the votes indicated above.'
+  },
+  'budget' => {
+    'requested' => {
+      'Set-up' => '91.00',
+      'Food' => '0.00',
+      'Contracts' => '0.00',
+      'Marketing' => '200.00',
+      'Housekeeping' => '250.00',
+      'Decorations' => '0.00',
+      'Security' => '48.00',
+      'Audio-Visual' => '285.00',
+      'Total' => '1034',
+      'Ticket Staff' => '60.00',
+      'Other (Rights to Play)' => '100.00'
+    },
+    'approved' => {}
+  },
+  'preTotal' => '1034',
+  'approval' => '01/21/2016',
+  'id' => '487',
+  'to' => [
+    '9:30 PM',
+    '03/30/2016'
+  ],
+  'from' => [
+    '7:30 PM',
+    '03/30/2016'
+  ]
+};
+$VAR1 = {
+  'description' => '   We\'re doing another DJ night, except this time it\'s Valentine\'s themed. Music, dancing, neat decorations, the whole nine yards.
+
+',
+  'charge' => {
+    'umbc' => '0',
+    'other' => '0'
+  },
+  'to' => [
+    '12:00 AM',
+    '02/27/2016'
+  ],
+  'cosponsor' => [],
+  'id' => '486',
+  'attendees' => {
+    'other' => 0,
+    'umbc' => 50
+  },
+  'legislation' => {
+    'opposed' => '0',
+    'id' => '95-1516',
+    'abstaining' => '0',
+    'voted' => 'February 9th, 2016',
+    'author' => 'Trent Bae',
+    'introduced' => 'February 9th, 2016',
+    'for' => '6',
+    'absent' => '1'
+  },
+  'approval' => '01/ 8/2016',
+  'type' => 'On Campus',
+  'eventName' => 'DJ Night (Special Valentines Day Edition)',
+  'budget' => {
+    'approved' => {
+      'Lower Flat Tuesdays reservation' => '160.00',
+      'Total' => '210.98',
+      'Decorations' => '50.98'
+    },
+    'requested' => {
+      'Decorations' => '60.00',
+      'Total' => '220',
+      'Lower Flat Tuesdays reservation' => '160.00'
+    }
+  },
+  'outsideFunding' => 'no',
+  'officer' => {
+    'name' => 'Drew Spera',
+    'phone' => '(443) 789-9064',
+    'email' => 'dre2@umbc.edu',
+    'position' => 'Financial Manager'
+  },
+  'where' => 'Lower Flat Tuesdays',
+  'from' => [
+    '6:00 PM',
+    '02/26/2016'
+  ],
+  'preTotal' => '220'
+};
+$VAR1 = {
+  'budget' => {
+    'requested' => {
+      'Total' => '3000',
+      'Bartleby 2016 Edition Publication' => '3000.00'
+    },
+    'approved' => {}
+  },
+  'from' => [
+    '12:00 AM',
+    '03/ 4/2016'
+  ],
+  'where' => 'N/A',
+  'type' => 'On Campus',
+  'to' => [
+    '12:00 AM',
+    '03/ 4/2016'
+  ],
+  'id' => '485',
+  'legislation' => {
+    'abstaining' => '1',
+    'voted' => 'February 2nd, 2016',
+    'introduced' => 'February 2nd, 2016',
+    'author' => 'Trent Bae',
+    'absent' => '0',
+    'id' => '90-1516',
+    'opposed' => '0',
+    'for' => '5'
+  },
+  'officer' => {
+    'position' => 'Senior Managing Editor',
+    'email' => 'dani30@umbc.edu',
+    'phone' => '301-785-0358',
+    'name' => 'Daniela Mujica'
+  },
+  'approval' => '12/21/2015',
+  'outsideFunding' => 'yes',
+  'description' => '   Bartleby, one of the oldest UMBC student organizations, is the entirely student-run creative arts journal on campus. Every year we publish a book of students\' creative works, including art, short fiction, creative non-fiction, and poetry. This UMBC literary and creative arts journal has been published for several years, and similarly, this year, we are once again requesting funding from the SGA in order to be able to publish around 1500 copies of the 2016 edition.
+
+',
+  'attendees' => {
+    'umbc' => '0',
+    'total' => '0'
+  },
+  'eventName' => 'UMBC Creative Arts Journal Bartleby 2016 - Publication Funds',
+  'charge' => {
+    'other' => '0',
+    'umbc' => '0'
+  },
+  'cosponsor' => [
+    'Office of Undergraduate Education (will contribute $2000 toward publication funding, as in years past)'
+  ],
+  'preTotal' => '3000'
+};
+$VAR1 = {
+  'cosponsor' => [],
+  'type' => 'On Campus',
+  'approval' => '12/10/2015',
+  'attendees' => {
+    'other' => 0,
+    'umbc' => 75
+  },
+  'charge' => {
+    'other' => '0',
+    'umbc' => '0'
+  },
+  'id' => '484',
+  'description' => '   Retriever Bowl is an annual (this will be the 4th annual) team trivia competition where students will test their knowledge and wits by answering questions from various subjects, supplied by UMBC professors and alumni. As part of this event, we offer 1st, 2nd and 3rd place teams the choice between various prizes, including gift certificates to various restaurants and tickets to different events.
+
+',
+  'budget' => {
+    'requested' => {
+      'Total' => '168',
+      'Audio/Visual' => '63.00',
+      'CommonVision (300 8.5x11 posters)' => '105.00'
+    },
+    'approved' => {
+      'Total' => '168',
+      'Audio/Visual' => '63.00',
+      'CommonVision (300 8.5x11 posters)' => '105.00'
+    }
+  },
+  'legislation' => {
+    'abstaining' => '0',
+    'author' => 'Trent Bae',
+    'for' => '6',
+    'absent' => '1',
+    'introduced' => 'February 9th, 2016',
+    'voted' => 'February 9th, 2016',
+    'opposed' => '0',
+    'id' => '97-1516'
+  },
+  'outsideFunding' => 'no',
+  'officer' => {
+    'name' => 'Marina Mizell',
+    'position' => 'President',
+    'email' => 'mizell1@umbc.edu',
+    'phone' => '4438037903'
+  }
+};
+$VAR1 = {
+  'legislation' => {
+    'absent' => '2',
+    'opposed' => '0',
+    'id' => '88-1516',
+    'voted' => 'December 8th, 2015',
+    'introduced' => 'December 8th, 2016',
+    'for' => '5',
+    'author' => 'Trent Bae',
+    'abstaining' => '0'
+  },
+  'type' => 'On Campus',
+  'attendees' => {
+    'other' => 10,
+    'umbc' => 40
+  },
+  'description' => '   This event is UMBC Anime Society\'s weekly meeting. The club has been meeting for a little more than 20 years, providing an opportunity for students and non-students alike to learn and appreciate Japanese culture through the medium of animation.
+
+',
+  'from' => [
+    '6:00 PM',
+    '01/29/2016'
+  ],
+  'approval' => '12/ 4/2015',
+  'preTotal' => '250',
+  'officer' => {
+    'phone' => '443-769-4860',
+    'position' => 'President',
+    'email' => 'rachel28@umbc.edu',
+    'name' => 'Rachel Crane'
+  },
+  'outsideFunding' => 'no',
+  'where' => 'ADMIN 101',
+  'id' => '483',
+  'budget' => {
+    'requested' => {
+      'A/V contract (projector use)' => '250.00',
+      'Total' => '250'
+    },
+    'approved' => {
+      'Total' => '250',
+      'A/V contract (projector use)' => '250.00'
+    }
+  },
+  'to' => [
+    '11:00 PM',
+    '01/29/2016'
+  ],
+  'charge' => {
+    'other' => '0',
+    'umbc' => '0'
+  },
+  'eventName' => 'Anime Society Weekly Meetings',
+  'cosponsor' => []
+};
+$VAR1 = {
+  'attendees' => {
+    'umbc' => 15,
+    'other' => 285
+  },
+  'from' => [
+    '5:00 PM',
+    '02/11/2016'
+  ],
+  'to' => [
+    '11:00 AM',
+    '02/14/2016'
+  ],
+  'description' => '   UMBC TSA would like to request funding for the admission of the annual Intercollegiate Taiwanese American Student Association East Coast Convention that is held this year at UMCP.
+
+',
+  'type' => 'Off Campus',
+  'budget' => {
+    'approved' => {
+      'Total' => '772.35',
+      'Registration Fee' => '772.35'
+    },
+    'requested' => {
+      'Registration Fee' => '772.35',
+      'Total' => '772.35'
+    }
+  },
+  'eventName' => 'UMBC TSA funding for ITASA ECC 2016',
+  'charge' => {
+    'umbc' => '51',
+    'other' => '51'
+  },
+  'cosponsor' => [],
+  'legislation' => {
+    'abstaining' => '0',
+    'opposed' => '0',
+    'id' => '87-1516',
+    'author' => 'Trent Bae',
+    'introduced' => 'December 8th, 2016',
+    'for' => '5',
+    'absent' => '2',
+    'voted' => 'December 8th, 2015'
+  },
+  'outsideFunding' => 'no',
+  'id' => '481',
+  'where' => 'University of Maryland, College Park',
+  'officer' => {
+    'email' => 'melinda5@umbc.edu',
+    'position' => 'Treasurer',
+    'phone' => '2408384145',
+    'name' => 'Melinda Tung'
+  },
+  'approval' => '12/ 3/2015',
+  'preTotal' => '772.35'
+};
+$VAR1 = {
+  'attendees' => {
+    'other' => 50,
+    'umbc' => 300
+  },
+  'where' => 'UC Ballroom',
+  'id' => '480',
+  'charge' => {
+    'other' => '10',
+    'umbc' => '0'
+  },
+  'approval' => '12/ 1/2015',
+  'officer' => {
+    'email' => 'hanna6@umbc.edu',
+    'position' => 'Treasurer',
+    'phone' => '240-543-1631',
+    'name' => 'Shaneka Hannam'
+  },
+  'budget' => {
+    'approved' => {
+      'Total' => '250',
+      'Food' => '0.00',
+      'Decorations' => '0.00',
+      'Security' => '195.00',
+      'Set-up' => '0.00',
+      'Audio-Visual' => '0.00',
+      'Marketing' => '0.00',
+      'Housekeeping' => '0.00',
+      'Ticket Staff' => '55.00',
+      'Contracts' => '0.00'
+    },
+    'requested' => {
+      'Contracts' => '0.00',
+      'Ticket Staff' => '55.00',
+      'Security' => '195.00',
+      'Decorations' => '0.00',
+      'Set-up' => '0.00',
+      'Housekeeping' => '0.00',
+      'Marketing' => '0.00',
+      'Audio-Visual' => '0.00',
+      'Food' => '0.00',
+      'Total' => '250'
+    }
+  },
+  'eventName' => 'Bashment 2015',
+  'from' => [
+    '8:00 PM',
+    '12/ 4/2015'
+  ],
+  'legislation' => {
+    'voted' => 'December 1st, 2015',
+    'for' => '5',
+    'abstaining' => '0',
+    'absent' => '2',
+    'id' => '84-1516',
+    'introduced' => 'December 1st, 2015',
+    'opposed' => '0',
+    'author' => 'Trent Bae'
+  },
+  'to' => [
+    '1:00 AM',
+    '12/ 5/2015'
+  ],
+  'outsideFunding' => 'yes',
+  'preTotal' => '250',
+  'cosponsor' => [],
+  'type' => 'On Campus'
+};
+$VAR1 = {
+  'eventName' => '7th Annual Coalescence Hip-Hop Showcase Weekend',
+  'budget' => {
+    'approved' => {
+      'Lodging' => '340.00',
+      'Transportation (Tickets or Rentals)' => '0.00',
+      'Total' => '390',
+      'Gas' => '0.00',
+      'Conference/Competition Registration' => '50.00'
+    },
+    'requested' => {
+      'Transportation (Tickets or Rentals)' => '50.00',
+      'Lodging' => '340.00',
+      'Gas' => '234.00',
+      'Conference/Competition Registration' => '50.00',
+      'Total' => '674'
+    }
+  },
+  'from' => [
+    '9:00 AM',
+    '02/ 6/2016'
+  ],
+  'outsideFunding' => 'no',
+  'description' => '   To allocate funds towards Major Definition in order for our team to represent UMBCs Dance culture at the 7th Annual Coalescence Hip-Hop Showcase in Virginia.
+
+',
+  'where' => '395 S High St, Harrisonburg, Virginia 22801',
+  'preTotal' => '674',
+  'legislation' => {
+    'opposed' => '0',
+    'abstaining' => '0',
+    'author' => 'Trent Bae',
+    'for' => '5',
+    'id' => '86-1516',
+    'introduced' => 'December 8th, 2015',
+    'voted' => 'December 8th, 2015',
+    'absent' => '2'
+  },
+  'id' => '463',
+  'attendees' => {
+    'other' => 575,
+    'umbc' => 25
+  },
+  'approval' => '11/30/2015',
+  'type' => 'Off Campus',
+  'charge' => {
+    'umbc' => '0',
+    'other' => '0'
+  },
+  'cosponsor' => [],
+  'officer' => {
+    'name' => 'Anthony Everette',
+    'position' => 'Treasurer',
+    'email' => 'anth2@umbc.edu',
+    'phone' => '4435345358'
+  },
+  'to' => [
+    '12:00 PM',
+    '02/ 7/2016'
+  ]
+};
+$VAR1 = {
+  'preTotal' => '5638.5',
+  'from' => [
+    '5:20 PM',
+    '04/ 3/2016'
+  ],
+  'eventName' => 'Eliot Chang Comedy Show',
+  'type' => 'On Campus',
+  'charge' => {
+    'other' => '0',
+    'umbc' => '0'
+  },
+  'firstTime' => 'yes',
+  'attendees' => {
+    'umbc' => 350,
+    'other' => 50
+  },
+  'legislation' => {
+    'abstaining' => '1',
+    'author' => 'Trent Bae',
+    'introduced' => 'February 9th, 2016',
+    'absent' => '1',
+    'opposed' => '0',
+    'id' => '96-1516',
+    'voted' => 'February 9th, 2016',
+    'for' => '5'
+  },
+  'description' => '   A two hour show. Part comedy, part work shop discussing the portrayal of Asians in popular culture.
+
+',
+  'officer' => {
+    'email' => 'nguyenk1@umbc.edu',
+    'name' => 'Kevin Nguyen',
+    'phone' => '3012500818',
+    'position' => 'President'
+  },
+  'where' => 'UC Ballroom',
+  'to' => [
+    '8:00 PM',
+    '04/ 3/2016'
+  ],
+  'outsideFunding' => 'yes',
+  'id' => '475',
+  'budget' => {
+    'approved' => {
+      'Total' => '5638.5',
+      'AV' => '375.00',
+      'Ticket Staff' => '160.00',
+      'Set-Up' => '202.50',
+      'Marketing' => '200.00',
+      'Contract' => '4200.00',
+      'Housekeeping' => '245.00',
+      'Security' => '256.00'
+    },
+    'requested' => {
+      'Contract' => '4200.00',
+      'Housekeeping' => '245.00',
+      'Security' => '256.00',
+      'Marketing' => '200.00',
+      'Set-Up' => '202.50',
+      'Ticket Staff' => '160.00',
+      'Total' => '5638.5',
+      'AV' => '375.00'
+    }
+  },
+  'cosponsor' => [],
+  'approval' => '11/30/2015'
+};
+$VAR1 = {
+  'officer' => {
+    'email' => 'gordon7@umbc.edu',
+    'position' => 'Treasurer',
+    'phone' => '443-878-0776',
+    'name' => 'Jay Gordon'
+  },
+  'outsideFunding' => 'no',
+  'firstTime' => 'yes',
+  'from' => [
+    '1:15 PM',
+    '11/28/2015'
+  ],
+  'charge' => {
+    'other' => '0',
+    'umbc' => '0'
+  },
+  'legislation' => {
+    'voted' => 'February 9th, 2016',
+    'abstaining' => '0',
+    'id' => '100-1516',
+    'absent' => '0',
+    'author' => 'Trent Bae',
+    'introduced' => 'February 9th, 2016',
+    'opposed' => '0',
+    'for' => '7'
+  },
+  'to' => [
+    '1:30 PM',
+    '11/28/2015'
+  ],
+  'description' => '   We have a communial dart box where players return darts to when they have finished playing throughout the night. In the past players that have graduated have donated darts to the box, so that players can use their darts, but must return borrowed ones at the end of the night. We have ran into an issue were players will take darts, but never return them. We have emphasized that people are to return the darts and this has stemmed the loss of darts, but the box is still depleted.
+
+',
+  'attendees' => {
+    'total' => '0',
+    'umbc' => '0'
+  },
+  'id' => '474',
+  'type' => 'On Campus',
+  'preTotal' => '90',
+  'where' => 'Student Org Cabinet',
+  'cosponsor' => [],
+  'eventName' => 'Darts for the Dart Box',
+  'approval' => '11/28/2015',
+  'budget' => {
+    'requested' => {
+      'Nerf darts' => '90.00',
+      'Total' => '90'
+    },
+    'approved' => {
+      'Nerf darts' => '90.00',
+      'Total' => '90'
+    }
+  }
+};
+$VAR1 = {
+  'attendees' => {
+    'other' => 2,
+    'umbc' => 5
+  },
+  'officer' => {
+    'email' => 'mvepa1@umbc.edu',
+    'position' => 'Treasurer',
+    'phone' => '443-285-9868',
+    'name' => 'Manisha Vepa'
+  },
+  'outsideFunding' => 'yes',
+  'to' => [
+    '9:00 PM',
+    '01/16/2016'
+  ],
+  'legislation' => {
+    'author' => 'Trent Bae',
+    'for' => '5',
+    'abstaining' => '0',
+    'absent' => '2',
+    'voted' => 'December 1st, 2015',
+    'opposed' => '0',
+    'id' => '83-1516',
+    'introduced' => 'December 1st, 2015'
+  },
+  'preTotal' => '775',
+  'budget' => {
+    'approved' => {
+      'Conference/Competition Registration' => '175.00',
+      'Total' => '775',
+      'Lodging (Tax)' => '200.00',
+      'Transportation (Tickets or Rentals)' => '400.00'
+    },
+    'requested' => {
+      'Total' => '775',
+      'Lodging (Tax)' => '200.00',
+      'Conference/Competition Registration' => '175.00',
+      'Transportation (Tickets or Rentals)' => '400.00'
+    }
+  },
+  'type' => 'Off Campus',
+  'firstTime' => 'yes',
+  'charge' => {
+    'other' => '0',
+    'umbc' => '0'
+  },
+  'description' => '   On November 6-7th, 2015, the Moot Court team competed in the American Moot Court Collegiate Association Regional Tournament in Virginia Beach.One of the teams successfully made it through the qualifying rounds, and continued their success and reached the semi-finals, thus earning a bid to the National Tournament to be held in Long Beach, California. The tournament will take place in January 15-16, 2016, and the team is looking forward to continue the success at the national level.
+
+',
+  'approval' => '11/24/2015',
+  'from' => [
+    '12:00 PM',
+    '01/15/2016'
+  ],
+  'eventName' => 'Moot Court National Competition Funding Request',
+  'id' => '470',
+  'cosponsor' => [],
+  'where' => 'Long Beach, California'
+};
+$VAR1 = {
+  'legislation' => {
+    'author' => 'Trent Bae',
+    'opposed' => '0',
+    'introduced' => 'November 24th, 2015',
+    'id' => '81-1516',
+    'absent' => '3',
+    'for' => '3',
+    'voted' => 'November 24th, 2015',
+    'abstaining' => '1'
+  },
+  'charge' => {
+    'other' => '0',
+    'umbc' => '0'
+  },
+  'attendees' => {
+    'umbc' => 75,
+    'other' => 35
+  },
+  'officer' => {
+    'position' => 'Treasurer',
+    'name' => 'Brenda Gutierrez',
+    'email' => 'bgutie1@umbc.edu',
+    'phone' => '602-332-7362'
+  },
+  'id' => '472',
+  'outsideFunding' => 'no',
+  'description' => '   We want to buy supplies for UMBC students to use for teaching and lesson planning as well as funds for the end of the year poster symposium hosted by UMBC students from the STAR Program and other student organizations. Faculty will be invited to come and interact with the students as well.
+
+',
+  'cosponsor' => [],
+  'firstTime' => 'yes',
+  'approval' => '11/24/2015',
+  'budget' => {
+    'requested' => {
+      'Teaching Supplies' => '947.17',
+      'Teaching Supplies Green Paw' => '94.72',
+      'Decorations' => '89.99',
+      'Total' => '2372.43',
+      'Food' => '830.81',
+      'Advertising' => '240.00',
+      'Decorations Green Paw' => '169.74'
+    },
+    'approved' => {
+      'Decorations Green Paw' => '0.00',
+      'Advertising' => '240.00',
+      'Food' => '355.95',
+      'Total' => '1633.11',
+      'Decorations' => '89.99',
+      'Teaching Supplies Green Paw' => '0.00',
+      'Teaching Supplies' => '947.17'
+    }
+  },
+  'type' => 'On Campus'
+};
+$VAR1 = {
+  'firstTime' => 'yes',
+  'id' => '468',
+  'preTotal' => '7163.2',
+  'attendees' => {
+    'umbc' => 450,
+    'other' => 0
+  },
+  'outsideFunding' => 'no',
+  'officer' => {
+    'name' => 'Kevin Bochinski',
+    'position' => 'President',
+    'phone' => '410-917-9447',
+    'email' => 'kboch1@umbc.edu'
+  },
+  'approval' => '11/20/2015',
+  'to' => [
+    '10:00 PM',
+    '03/ 8/2016'
+  ],
+  'eventName' => 'The Maze',
+  'charge' => {
+    'other' => '0',
+    'umbc' => '0'
+  },
+  'description' => '   A mystery performance piece that has traveled the world, the MAZE has bewildered audiences for the past decade with its unique and innovative approach to entertainment. The MAZE now includes magicians Jim Munroe, Zak Mirzadeh, and Stewart True. The anticipated event would be open to all UMBC students to enjoy.
+
+',
+  'cosponsor' => [],
+  'legislation' => {
+    'for' => 'December 8th, 2015',
+    'opposed' => '',
+    'introduced' => 'December 8th, 2016',
+    'abstaining' => 'This document has been presented to the Student Government Association Finance Board of the University of',
+    'voted' => '____________________________________ Date: _____________________',
+    'id' => '89-1516',
+    'author' => 'Trent Bae',
+    'absent' => 'Maryland, Baltimore County, and has received the votes indicated above.'
+  },
+  'from' => [
+    '7:00 PM',
+    '03/ 8/2016'
+  ],
+  'where' => 'UC Ballroom',
+  'budget' => {
+    'requested' => {
+      'Set-up' => '185.00',
+      'Total' => '7163.2',
+      'Ticket Staff' => '75.00',
+      'Audio-Visual' => '285.00',
+      'Marketing' => '200.00',
+      'Contracts' => '5200.00',
+      'Security' => '256.00',
+      'Housekeeping' => '245.00',
+      'Food' => '0.00',
+      'Props' => '60.00',
+      'Promo T-Shirts' => '657.20'
+    },
+    'approved' => {
+      'Ticket Staff' => '75.00',
+      'Audio-Visual' => '285.00',
+      'Set-up' => '185.00',
+      'Total' => '6287.38',
+      'Contracts' => '5000.00',
+      'Marketing' => '200.00',
+      'Food' => '0.00',
+      'Security' => '256.00',
+      'Housekeeping' => '245.00',
+      'Promo T-Shirts' => '0.00',
+      'Props' => '41.38'
+    }
+  },
+  'type' => 'On Campus'
+};
+$VAR1 = {
+  'id' => '467',
+  'approval' => '11/20/2015',
+  'budget' => {
+    'requested' => {
+      'Audio-Visual' => '770.00',
+      'Total' => '3921',
+      'Housekeeping' => '245.00',
+      'Food' => '1500.00',
+      'Ticket Staff' => '105.00',
+      'Traditional Wear/ Costumes' => '450.00',
+      'Security' => '264.00',
+      'Set-up' => '387.00',
+      'Marketing' => '200.00'
+    },
+    'approved' => {
+      'Utensils/Drinks/ Costumes/Tablecloths/Stage Supplies' => '769.70',
+      'Total' => '3820.7',
+      'Housekeeping' => '245.00',
+      'Food' => '1080.00',
+      'Audio-Visual' => '770.00',
+      'Security' => '264.00',
+      'Ticket Staff' => '105.00',
+      'Marketing' => '200.00',
+      'Set-up' => '387.00'
+    }
+  },
+  'preTotal' => '3921',
+  'eventName' => 'Vietnamese Student Association Culture Show',
+  'where' => 'University Center Ballroom',
+  'cosponsor' => [],
+  'legislation' => {
+    'id' => '82-1516',
+    'abstaining' => '0',
+    'voted' => 'December 1st, 2015',
+    'opposed' => '0',
+    'author' => 'Trent Bae',
+    'for' => '5',
+    'introduced' => 'December 1st, 2015',
+    'absent' => '2'
+  },
+  'from' => [
+    '12:00 PM',
+    '04/30/2016'
+  ],
+  'officer' => {
+    'position' => 'Treasurer',
+    'phone' => '410-660-6133',
+    'name' => 'Anthony Huynh',
+    'email' => 'st33486@umbc.edu'
+  },
+  'charge' => {
+    'other' => '5',
+    'umbc' => '0'
+  },
+  'attendees' => {
+    'umbc' => 150,
+    'other' => 150
+  },
+  'type' => 'On Campus',
+  'outsideFunding' => 'yes',
+  'description' => '   The culture show is primarily done to showcase Vietnamese Culture to the UMBC community and keep up the tradition of the yearly culture show, which started two years ago. Last year, we did not get funding, and it was very difficult to bring the culture show together. Also, there are a large of UMBC VSA alumni who would want to come and watch the Vietnamese Student Association has progressed.
+
+',
+  'to' => [
+    '10:00 PM',
+    '04/30/2016'
+  ]
+};
+$VAR1 = {
+  'eventName' => 'Hotline Bling',
+  'budget' => {
+    'requested' => {
+      '5 Chairs' => '2.50',
+      '1 Roll Raffle Tickets' => '3.07',
+      '4 Bottles White Paint' => '11.96',
+      'Total' => '67.05',
+      '1 Pipe and Drape' => '10.00',
+      '2 Trifolds' => '11.98',
+      '1 Table' => '2.00',
+      '2 Bottles Blue and Red Paint' => '1.58',
+      '4 Rolls Pink Paper' => '23.96'
+    },
+    'approved' => {
+      '5 Chairs' => '2.50',
+      '1 Roll Raffle Tickets' => '3.07',
+      '1 Pipe and Drape' => '10.00',
+      '2 Trifolds' => '11.98',
+      '4 Bottles White Paint' => '11.96',
+      'Total' => '67.05',
+      '2 Bottles Blue and Red Paint' => '1.58',
+      '4 Rolls Pink Paper' => '23.96',
+      '1 Table' => '2.00'
+    }
+  },
+  'attendees' => {
+    'other' => 0,
+    'umbc' => 35
+  },
+  'cosponsor' => [],
+  'from' => [
+    '12:00 PM',
+    '12/ 4/2015'
+  ],
+  'preTotal' => '67.05',
+  'id' => '465',
+  'officer' => {
+    'position' => 'Treasurer',
+    'name' => 'Mai-Han Trinh',
+    'email' => 'maihan1@umbc.edu',
+    'phone' => '4102920270'
+  },
+  'firstTime' => 'yes',
+  'outsideFunding' => 'maybe',
+  'type' => 'On Campus',
+  'description' => '   We are requesting funds to rent a pipe/drape, table, and chairs for our Syrian refugee activism event. We would like one trifold to create an informative poster; raffle tickets for a prize drawing; and the other trifold, paper, and paint for decorations. The pipe and drape and paper will be used to create a backdrop (As incentive for students to participate, we will take their photo against this backdrop and give them the free Polaroid photo, which we hope to fund through bake sale money).
+
+',
+  'charge' => {
+    'other' => '0',
+    'umbc' => '0'
+  },
+  'to' => [
+    '2:00 PM',
+    '12/ 4/2'
+  ],
+  'legislation' => {
+    'abstaining' => '0',
+    'voted' => 'November 24th, 2015',
+    'for' => '4',
+    'author' => 'Trent Bae',
+    'id' => '80-1516',
+    'opposed' => '0',
+    'absent' => '3',
+    'introduced' => 'November 24th, 2015'
+  },
+  'where' => 'Main Street',
+  'approval' => '11/19/2015'
+};
+$VAR1 = {
+  'attendees' => {
+    'other' => 15,
+    'umbc' => 60
+  },
+  'cosponsor' => [],
+  'charge' => {
+    'umbc' => '0',
+    'other' => '0'
+  },
+  'from' => [
+    '6:00 PM',
+    '12/ 4/2015'
+  ],
+  'where' => 'ENGR 027',
+  'type' => 'On Campus',
+  'outsideFunding' => 'yes',
+  'approval' => '11/17/2015',
+  'officer' => {
+    'position' => 'Treasurer',
+    'email' => 'yudew1@umbc.edu',
+    'phone' => '410-294-8802',
+    'name' => 'Yu-Dean Wang'
+  },
+  'to' => [
+    '6:00 PM',
+    '12/ 5/2015'
+  ],
+  'legislation' => {
+    'for' => '4',
+    'absent' => '3',
+    'abstaining' => '0',
+    'opposed' => '0',
+    'author' => 'Trent Bae',
+    'voted' => 'November 24th, 2015',
+    'introduced' => 'November 24th, 2015',
+    'id' => '79-1516'
+  },
+  'description' => '   This is the 24 hours of Anime, which had already been approved by the Finance board, but due to new circumstances, must now require a Student Marshal for safety over the time period of 1:00 to 8:00 AM.
+
+',
+  'eventName' => '24 hours of Anime- Student Marshal',
+  'preTotal' => '112',
+  'id' => '462',
+  'budget' => {
+    'requested' => {
+      'Total' => '112',
+      'Student Marshal' => '112.00'
+    },
+    'approved' => {
+      'Student Marshal' => '112.00',
+      'Total' => '112'
+    }
+  }
+};
+$VAR1 = {
+  'id' => '461',
+  'cosponsor' => [],
+  'budget' => {
+    'approved' => {
+      'Album Frame + Hardware' => '0.00',
+      'Total' => '0'
+    },
+    'requested' => {
+      'Album Frame + Hardware' => '77.82',
+      'Total' => '77.82'
+    }
+  },
+  'firstTime' => 'yes',
+  'outsideFunding' => 'no',
+  'where' => 'Commons Gallery',
+  'charge' => {
+    'other' => '0',
+    'umbc' => '0'
+  },
+  'description' => '   UMBC Vinyl Spinners wants to share out love for vinyl with the UMBC community. We want to display 5 of the best album art covers in commons for 10 days. The albums were selected by members of the club and voted on by UMBC students. The fund request is to cover the cost of the frames to encase the LPs. I have already coordinated with the person that controls the gallery, Dwayne Butcher.
+
+',
+  'officer' => {
+    'position' => 'President',
+    'name' => 'Uchenna Osuala',
+    'email' => 'u8@umbc.edu',
+    'phone' => '3012339104'
+  },
+  'attendees' => {
+    'umbc' => 1,
+    'other' => 0
+  },
+  'legislation' => {
+    'opposed' => '3',
+    'absent' => '1',
+    'introduced' => 'November 17th, 2015',
+    'for' => '3',
+    'voted' => 'November 17th, 2015',
+    'author' => 'Trent Bae',
+    'abstaining' => '0',
+    'id' => '75-1516'
+  },
+  'from' => [
+    '12:00 AM',
+    '11/26/2015'
+  ],
+  'to' => [
+    '11:59 PM',
+    '12/16/2015'
+  ],
+  'preTotal' => '77.82',
+  'type' => 'On Campus',
+  'approval' => '11/12/2015',
+  'eventName' => 'Album Art Gallery'
+};
+$VAR1 = {
+  'to' => [
+    '10:30 PM',
+    '03/ 3/2016'
+  ],
+  'where' => 'Harbor MPR',
+  'officer' => {
+    'name' => 'Yeerfan Tuerdi',
+    'position' => 'Treasurer',
+    'phone' => '7034756540',
+    'email' => 'ytuerd50217@umbc.edu'
+  },
+  'outsideFunding' => 'no',
+  'id' => '433',
+  'description' => '   Japanese Student Association is hosting an event to introduce the beautiful art of bonsai making to UMBC students. From participation, students will learn to identify bonsai tree, cutting techniques for stylish appearance, nourish and maintenance, and have a new insight into Japanese culture. In order for our club and students to practice art of Bonsai, we need to make purchase of pre-grown bonsai trees and work together with students to bring the tree into a natural scenery in a small pot.
+
+',
+  'type' => 'On Campus',
+  'budget' => {
+    'approved' => {
+      'Bonsai Tree and Supplies' => '1522.60',
+      'Total' => '1757.14',
+      'Shipping Cost' => '234.54'
+    },
+    'requested' => {
+      'Bonsai Tree and Supplies' => '1403.60',
+      'Total' => '1638.14',
+      'Shipping Cost' => '234.54'
+    }
+  },
+  'approval' => '11/10/2015',
+  'charge' => {
+    'umbc' => '0',
+    'other' => '0'
+  },
+  'attendees' => {
+    'other' => 10,
+    'umbc' => 190
+  },
+  'cosponsor' => [],
+  'preTotal' => '1638.14',
+  'from' => [
+    '6:00 PM',
+    '03/ 3/2016'
+  ],
+  'legislation' => {
+    'abstaining' => '0',
+    'absent' => '1',
+    'author' => 'Trent Bae',
+    'for' => '6',
+    'id' => '77-1516',
+    'opposed' => '0',
+    'voted' => 'November 17th, 2015',
+    'introduced' => 'November 17th, 2015'
+  },
+  'eventName' => 'Art of Bonsai Making'
+};
+$VAR1 = {
+  'budget' => {
+    'requested' => {
+      'Total' => '925',
+      'Reproduction' => '200.00',
+      'Security' => '75.00',
+      'Live Sound' => '650.00'
+    },
+    'approved' => {
+      'Reproduction' => '200.00',
+      'Total' => '925',
+      'Live Sound' => '650.00',
+      'Security' => '75.00'
+    }
+  },
+  'type' => 'On Campus',
+  'outsideFunding' => 'no',
+  'approval' => '11/ 5/2015',
+  'to' => [
+    '11:30 PM',
+    '12/ 1/2015'
+  ],
+  'preTotal' => '925',
+  'where' => 'Meyr 003',
+  'legislation' => {
+    'author' => 'Trent Bae',
+    'abstaining' => '0',
+    'introduced' => 'November 10th, 2015',
+    'for' => '6',
+    'opposed' => '0',
+    'voted' => 'November 10th, 2015',
+    'absent' => '1',
+    'id' => '73-1516'
+  },
+  'from' => [
+    '6:30 PM',
+    '12/ 1/2015'
+  ],
+  'cosponsor' => [],
+  'eventName' => 'UMBC Mama\'s Boys Winter Concert',
+  'charge' => {
+    'umbc' => '0',
+    'other' => '0'
+  },
+  'id' => '457',
+  'description' => '   To fund our winter concert in regards to sound, promotion (flyers, posters), and security
+
+',
+  'attendees' => {
+    'total' => '0',
+    'umbc' => '0'
+  },
+  'officer' => {
+    'position' => 'Treasurer',
+    'name' => 'Daniel Glasser',
+    'email' => 'glasser3@umbc.edu',
+    'phone' => '443-834-3249'
+  }
+};
+$VAR1 = {
+  'description' => '   Debate at Fordham Unviersity
+
+',
+  'preTotal' => '375',
+  'where' => 'Fordham University',
+  'budget' => {
+    'approved' => {
+      'Registration' => '0.00',
+      'Total' => '0'
+    },
+    'requested' => {
+      'Total' => '375',
+      'Registration' => '375.00'
+    }
+  },
+  'type' => 'Off Campus',
+  'cosponsor' => [],
+  'outsideFunding' => 'no',
+  'charge' => {
+    'other' => '120',
+    'umbc' => '0'
+  },
+  'legislation' => {
+    'author' => '375',
+    'introduced' => 'November 3rd, 2015',
+    'for' => '1',
+    'id' => '70-1516',
+    'abstaining' => '0',
+    'voted' => 'November 3rd, 2015',
+    'opposed' => '3',
+    'absent' => '3'
+  },
+  'eventName' => 'Fordham Debate',
+  'id' => '455',
+  'officer' => {
+    'email' => 'jtash1@umbc.edu',
+    'name' => 'Julian Tash',
+    'phone' => '301-525-3879',
+    'position' => 'Treasurer'
+  },
+  'to' => [
+    '6:00 PM',
+    '11/21/2015'
+  ],
+  'attendees' => {
+    'umbc' => 6,
+    'other' => 114
+  },
+  'approval' => '11/ 3/2015',
+  'from' => [
+    '4:00 PM',
+    '11/20/2015'
+  ]
+};
+$VAR1 = {
+  'type' => 'On Campus',
+  'cosponsor' => [],
+  'description' => '   NAMI hosting an event titled "Winter Wonderland." This is an event where students can come and relax by taking part in de-stressing activities during finals week. We will also be informing students about the importance of mental health and why it is important to take care of oneself during college. Mental Health is one of America\'s largest public health issues and this is something we want to address on campus. Speakers from UHS and Counseling Center will also help to raise awareness.
+
+',
+  'approval' => '11/ 3/2015',
+  'budget' => {
+    'approved' => {
+      'Decorations' => '500.38',
+      'Total' => '1418.85',
+      'Sound/Technology' => '85.00',
+      'Utensils' => '46.72',
+      'Activities' => '257.19',
+      'Food' => '189.56',
+      'Advertising' => '340.00'
+    },
+    'requested' => {
+      'Advertising' => '340.00',
+      'Food' => '189.56',
+      'Utensils' => '46.72',
+      'Activities' => '292.55',
+      'Total' => '1454.21',
+      'Decorations' => '500.38',
+      'Sound/Technology' => '85.00'
+    }
+  },
+  'attendees' => {
+    'umbc' => 150,
+    'other' => 0
+  },
+  'outsideFunding' => 'no',
+  'id' => '454',
+  'officer' => {
+    'email' => 'ruba1@umbc.edu',
+    'phone' => '4436170790',
+    'position' => 'President',
+    'name' => 'Ruba Mateen'
+  },
+  'charge' => {
+    'umbc' => '0',
+    'other' => '0'
+  },
+  'legislation' => {
+    'id' => '74-1516',
+    'abstaining' => '0',
+    'introduced' => 'November 10th, 2015',
+    'author' => 'Trent Bae',
+    'voted' => 'November 10th, 2015',
+    'opposed' => '0',
+    'absent' => '1',
+    'for' => '6'
+  }
+};
+$VAR1 = {
+  'attendees' => {
+    'other' => 485,
+    'umbc' => 15
+  },
+  'charge' => {
+    'other' => '35',
+    'umbc' => '30'
+  },
+  'approval' => '10/28/2015',
+  'id' => '451',
+  'budget' => {
+    'requested' => {
+      'Conference Registration' => '0.00',
+      'Total' => '992',
+      'Gas & Tolls' => '342.00',
+      'Lodging' => '650.00'
+    },
+    'approved' => {}
+  },
+  'legislation' => {
+    'voted' => 'November 10th, 2015',
+    'id' => '71-1516',
+    'abstaining' => '0',
+    'opposed' => '0',
+    'author' => 'Trent Bae',
+    'for' => '6',
+    'absent' => '1',
+    'introduced' => 'November 10th, 2015'
+  },
+  'outsideFunding' => 'no',
+  'officer' => {
+    'phone' => '623-208-9348',
+    'name' => 'Angela Saguros',
+    'position' => 'Treasurer',
+    'email' => 'sangela1@umbc.edu'
+  },
+  'type' => 'On Campus',
+  'cosponsor' => [],
+  'description' => '   In order to give a once-a-year experience to our beloved members of FASA, it is of upmost importance that we attend FIND (The Filipino Intercollegiate Networking Dialogue). This is considered one of the most important meeting that our district holds within the year, besides our yearly cultural events placed at UMBC. This event allows better insight to the Filipino-American culture with many inspiring talk hosts to encourage our students to make connections and realize their potentials. In order
+
+'
+};
+$VAR1 = {
+  'where' => 'University of Maryland College Park',
+  'preTotal' => '360',
+  'attendees' => {
+    'umbc' => 6,
+    'other' => 114
+  },
+  'type' => 'Off Campus',
+  'legislation' => {
+    'opposed' => '0',
+    'abstaining' => '0',
+    'introduced' => 'November 3rd, 2015',
+    'author' => 'Trent',
+    'id' => '63-1516',
+    'absent' => '3',
+    'for' => '4',
+    'voted' => 'November 3rd, 2015'
+  },
+  'approval' => '10/27/2015',
+  'officer' => {
+    'email' => 'jtash1@umbc.edu',
+    'name' => 'Julian Tash'
+  },
+  'to' => [
+    '10:00 AM',
+    '11/14/2015'
+  ],
+  'cosponsor' => [],
+  'firstTime' => 'yes',
+  'eventName' => 'UMCP Debate',
+  'id' => '440',
+  'charge' => {
+    'umbc' => '0',
+    'other' => '60'
+  },
+  'budget' => {
+    'requested' => {
+      'Total' => '360',
+      'Registration' => '360.00'
+    },
+    'approved' => {
+      'Total' => '360',
+      'Registration' => '360.00'
+    }
+  },
+  'from' => [
+    '4:00 AM',
+    '11/13/2015'
+  ],
+  'outsideFunding' => 'no'
+};
+$VAR1 = {
+  'type' => 'Off Campus',
+  'description' => '   Rutgers Debate Tournament
+
+',
+  'eventName' => 'Rutgers Debate',
+  'preTotal' => '360',
+  'budget' => {
+    'requested' => {
+      'Registration' => '360.00',
+      'Total' => '360'
+    },
+    'approved' => {
+      'Registration' => '360.00',
+      'Total' => '360'
+    }
+  },
+  'officer' => {
+    'name' => 'Julian Tash',
+    'position' => 'Treasurer',
+    'email' => 'jtash1@umbc.edu',
+    'phone' => '301-525-3879'
+  },
+  'to' => [
+    '6:00 AM',
+    '02/ 6/2016'
+  ],
+  'attendees' => {
+    'umbc' => 6,
+    'other' => 114
+  },
+  'outsideFunding' => 'no',
+  'charge' => {
+    'umbc' => '0',
+    'other' => '0'
+  },
+  'cosponsor' => [],
+  'approval' => '10/27/2015',
+  'from' => [
+    '4:00 AM',
+    '02/ 5/2016'
+  ],
+  'legislation' => {
+    'abstaining' => '0',
+    'id' => '65-1516',
+    'for' => '4',
+    'opposed' => '0',
+    'introduced' => 'November 3rd, 2015',
+    'author' => 'Trent',
+    'voted' => 'November 3rd, 2015',
+    'absent' => '3'
+  },
+  'where' => 'Rutgers University',
+  'id' => '442'
+};
+$VAR1 = {
+  'outsideFunding' => 'no',
+  'from' => [
+    '4:00 AM',
+    '04/ 1/2016'
+  ],
+  'officer' => {
+    'position' => 'Treasurer',
+    'phone' => '301-525-3879',
+    'email' => 'jtash1@umbc.edu',
+    'name' => 'Julian Tash'
+  },
+  'eventName' => 'Princeton Tournament',
+  'cosponsor' => [],
+  'preTotal' => '360',
+  'budget' => {
+    'requested' => {
+      'Registration' => '360.00',
+      'Total' => '360'
+    },
+    'approved' => {
+      'Registration' => '360.00',
+      'Total' => '360'
+    }
+  },
+  'attendees' => {
+    'other' => 244,
+    'umbc' => 6
+  },
+  'where' => 'Princeton University ',
+  'description' => '   Princeton Tournament
+
+',
+  'charge' => {
+    'other' => '60',
+    'umbc' => '0'
+  },
+  'to' => [
+    '8:00 AM',
+    '04/ 2/2016'
+  ],
+  'type' => 'Off Campus',
+  'approval' => '10/27/2015',
+  'id' => '444',
+  'legislation' => {
+    'voted' => 'November 3rd, 2015',
+    'for' => '4',
+    'introduced' => 'November 3rd, 2015',
+    'absent' => '3',
+    'abstaining' => '0',
+    'id' => '66-1516',
+    'opposed' => '0',
+    'author' => 'Trent'
+  }
+};
+$VAR1 = {
+  'legislation' => {
+    'id' => '67-1516',
+    'absent' => '3',
+    'author' => 'Trent',
+    'opposed' => '0',
+    'for' => '4',
+    'introduced' => 'November 3rd, 2015',
+    'abstaining' => '0',
+    'voted' => 'November 3rd, 2015'
+  },
+  'approval' => '10/27/2015',
+  'attendees' => {
+    'other' => 114,
+    'umbc' => 6
+  },
+  'from' => [
+    '4:00 AM',
+    '03/25/2016'
+  ],
+  'eventName' => 'UVA Tournament',
+  'charge' => {
+    'umbc' => '0',
+    'other' => '0'
+  },
+  'id' => '445',
+  'to' => [
+    '10:00 AM',
+    '03/26/2016'
+  ],
+  'description' => '   UVA Tournament
+
+',
+  'where' => 'University of Virginia',
+  'budget' => {
+    'requested' => {
+      'Registration' => '360.00',
+      'Total' => '360'
+    },
+    'approved' => {
+      'Total' => '360',
+      'Registration' => '360.00'
+    }
+  },
+  'preTotal' => '360',
+  'cosponsor' => [],
+  'outsideFunding' => 'no',
+  'officer' => {
+    'name' => 'Julian Tash',
+    'position' => 'Treasurer',
+    'phone' => '301-525-3879',
+    'email' => 'jtash1@umbc.edu'
+  },
+  'type' => 'Off Campus'
+};
+$VAR1 = {
+  'preTotal' => '360',
+  'officer' => {
+    'email' => 'jtash1@umbc.edu',
+    'position' => 'Treasurer',
+    'name' => 'Julian Tash',
+    'phone' => '301-525-3879'
+  },
+  'attendees' => {
+    'umbc' => 6,
+    'other' => 114
+  },
+  'budget' => {
+    'requested' => {
+      'Registration' => '360.00',
+      'Total' => '360'
+    },
+    'approved' => {
+      'Total' => '360',
+      'Registration' => '360.00'
+    }
+  },
+  'eventName' => 'William and Mary Debate',
+  'approval' => '10/27/2015',
+  'from' => [
+    '4:00 AM',
+    '04/ 8/2016'
+  ],
+  'id' => '446',
+  'to' => [
+    '5:00 AM',
+    '04/ 9/2016'
+  ],
+  'firstTime' => 'yes',
+  'outsideFunding' => 'no',
+  'description' => '   William and Mary Debate
+
+',
+  'legislation' => {
+    'for' => '3',
+    'voted' => 'November 3rd, 2015',
+    'author' => 'Trent',
+    'absent' => '3',
+    'id' => '68-1516',
+    'abstaining' => '0',
+    'introduced' => 'November 3rd, 2015',
+    'opposed' => '1'
+  },
+  'charge' => {
+    'umbc' => '0',
+    'other' => '60'
+  },
+  'where' => 'William and Mary',
+  'type' => 'Off Campus',
+  'cosponsor' => []
+};
+$VAR1 = {
+  'approval' => '10/27/2015',
+  'type' => 'Off Campus',
+  'outsideFunding' => 'no',
+  'from' => [
+    '4:00 AM',
+    '03/18/2016'
+  ],
+  'to' => [
+    '9:00 AM',
+    '03/19/2016'
+  ],
+  'officer' => {
+    'email' => 'jtash1@umbc.edu',
+    'name' => 'Julian Tash',
+    'phone' => '301-525-3879',
+    'position' => 'Treasurer'
+  },
+  'legislation' => {
+    'voted' => 'November 3rd, 2015',
+    'author' => 'Trent',
+    'opposed' => '3',
+    'absent' => '3',
+    'abstaining' => '0',
+    'id' => '69-1516',
+    'introduced' => 'November 3rd, 2015',
+    'for' => '1'
+  },
+  'eventName' => 'Georgetown Debate',
+  'id' => '448',
+  'where' => 'Georgetown University',
+  'charge' => {
+    'umbc' => '0',
+    'other' => '65'
+  },
+  'preTotal' => '390',
+  'budget' => {
+    'requested' => {
+      'Total' => '390',
+      'Registration' => '390.00'
+    },
+    'approved' => {
+      'Registration' => '0.00',
+      'Total' => '0'
+    }
+  },
+  'attendees' => {
+    'other' => 114,
+    'umbc' => 6
+  },
+  'description' => '   Georgetown Debate
+
+',
+  'cosponsor' => []
+};
+$VAR1 = {
+  'from' => [
+    '6:00 PM',
+    '11/19/2015'
+  ],
+  'preTotal' => '155',
+  'outsideFunding' => 'no',
+  'cosponsor' => [],
+  'eventName' => 'Turkey Trap',
+  'attendees' => {
+    'umbc' => 60,
+    'other' => 0
+  },
+  'officer' => {
+    'name' => 'Drew Spera',
+    'position' => 'Treasurer',
+    'email' => 'dre2@umbc.edu',
+    'phone' => '(443) 789-9064'
+  },
+  'where' => 'Lower Flat Tuesdays',
+  'charge' => {
+    'umbc' => '0',
+    'other' => '0'
+  },
+  'firstTime' => 'yes',
+  'description' => '   This is for dance party lighting and technician for lower Flat Tuesdays.
+
+',
+  'type' => 'On Campus',
+  'budget' => {
+    'requested' => {
+      'Dance party lighting (through UMBC commons)' => '155.00',
+      'Total' => '155'
+    },
+    'approved' => {
+      'Dance party lighting (through UMBC commons)' => '155.00',
+      'Total' => '155'
+    }
+  },
+  'approval' => '10/27/2015',
+  'to' => [
+    '12:00 AM',
+    '11/20/2015'
+  ],
+  'legislation' => {
+    'abstaining' => '0',
+    'id' => '62-1516',
+    'for' => '5',
+    'voted' => 'November 3rd, 2015',
+    'absent' => '2',
+    'opposed' => '0',
+    'author' => 'Trent',
+    'introduced' => 'November 3rd, 2015'
+  },
+  'id' => '449'
+};
+$VAR1 = {
+  'attendees' => {
+    'total' => '0',
+    'umbc' => '0'
+  },
+  'id' => '436',
+  'outsideFunding' => 'no',
+  'description' => '   At the Finance Board\'s request, we are submitting all the tournaments we would like to attend for the academic year 2015-2016.
+
+',
+  'budget' => {
+    'approved' => {
+      'American University Feb 25-26' => '0.00',
+      'American Nov.6-7' => '360.00',
+      'Total' => '360',
+      'UVA March 25-26' => '0.00',
+      'Fordham Nov 20-21' => '0.00',
+      'Rutgers Feb. 5-6' => '0.00',
+      'UMD Debate Nov 13-14' => '0.00',
+      'Princeton April 1-2' => '0.00',
+      'Geargetown March 18-19' => '0.00',
+      'William and Mary April 8-9' => '0.00'
+    },
+    'requested' => {
+      'American Nov.6-7' => '360.00',
+      'American University Feb 25-26' => '360.00',
+      'Rutgers Feb. 5-6' => '360.00',
+      'UMD Debate Nov 13-14' => '360.00',
+      'Fordham Nov 20-21' => '375.00',
+      'UVA March 25-26' => '360.00',
+      'Total' => '3285',
+      'Geargetown March 18-19' => '390.00',
+      'Princeton April 1-2' => '360.00',
+      'William and Mary April 8-9' => '360.00'
+    }
+  },
+  'charge' => {
+    'umbc' => '0',
+    'other' => '120'
+  },
+  'where' => 'Multiple Locations (The East Coast)',
+  'preTotal' => '3285',
+  'eventName' => 'All Debate Tournaments for the year 2015-2016',
+  'cosponsor' => [],
+  'from' => [
+    '4:00 PM',
+    '11/ 6/2015'
+  ],
+  'officer' => {
+    'phone' => '3016938609',
+    'email' => 'amariam1@umbc.edu',
+    'name' => 'Asfiya Mariam',
+    'position' => 'President'
+  },
+  'approval' => '10/22/2015',
+  'legislation' => {
+    'absent' => '3',
+    'abstaining' => '0',
+    'id' => '64-1516',
+    'opposed' => '0',
+    'voted' => 'November 3rd, 2015',
+    'author' => 'Trent',
+    'for' => '4',
+    'introduced' => 'November 3rd, 2015'
+  },
+  'firstTime' => 'yes',
+  'type' => 'Off Campus',
+  'to' => [
+    '11:30 PM',
+    '04/19/2016'
+  ]
+};
+$VAR1 = {
+  'legislation' => {
+    'id' => '53-1516',
+    'author' => 'Trent Bae',
+    'introduced' => 'October 27th, 2015'
+  },
+  'firstTime' => 'yes',
+  'eventName' => 'Moot Court Competition Funding Request',
+  'charge' => {
+    'umbc' => '0',
+    'other' => '0'
+  },
+  'to' => [
+    '12:00 AM',
+    '11/ 8/2015'
+  ],
+  'where' => 'Virginia Beach, VA',
+  'attendees' => {
+    'umbc' => 8,
+    'other' => 1
+  },
+  'outsideFunding' => 'maybe',
+  'cosponsor' => [],
+  'id' => '428',
+  'officer' => {
+    'position' => 'Treasurer',
+    'email' => 'mvepa1@umbc.edu',
+    'name' => 'Manisha Vepa',
+    'phone' => '443-285-9868'
+  },
+  'preTotal' => '1841.48',
+  'description' => '   The newly formed Moot Court team has been preparing for our first regional competition at Regents University, We will take three or four teams to the event to compete against other midwestern colleges for a spot in the National Moot Court Competition. We are requesting funds from SGA to cover the cost of team registration and lodging for the two nights we will be attending the competition.
+
+',
+  'type' => 'On Campus',
+  'budget' => {
+    'requested' => {
+      'Lodging' => '1241.48',
+      'Total' => '1841.48',
+      'Conference/Competition Registration' => '600.00'
+    },
+    'approved' => {
+      'Conference/Competition Registration' => '450.00',
+      'Total' => '875.46',
+      'Lodging' => '425.46'
+    }
+  },
+  'from' => [
+    '12:00 AM',
+    '11/ 7/2015'
+  ],
+  'approval' => '10/19/2015'
+};
+$VAR1 = {
+  'legislation' => {
+    'author' => 'Trent Bae',
+    'abstaining' => '0',
+    'voted' => 'December 1st, 2015',
+    'opposed' => '0',
+    'for' => '5',
+    'id' => '85-1516',
+    'absent' => '2',
+    'introduced' => 'December 1st, 2015'
+  },
+  'budget' => {
+    'requested' => {
+      'Food for Participants' => '1848.00',
+      'Transportation' => '556.50',
+      'Conference Registration' => '1300.00',
+      'Lodging' => '5772.00',
+      'Total' => '9476.5'
+    },
+    'approved' => {
+      'Food for Participants' => '0.00',
+      'Transportation' => '556.50',
+      'Lodging' => '0.00',
+      'Conference Registration' => '1300.00',
+      'Total' => '1856.5'
+    }
+  },
+  'firstTime' => 'yes',
+  'from' => [
+    '7:00 AM',
+    '02/17/2016'
+  ],
+  'charge' => {
+    'umbc' => '0',
+    'other' => '0'
+  },
+  'where' => 'Washington, D.C.',
+  'description' => '   The Model African Union is essentially a simulation of the proceedings of the African Union, augmented by pre-conference study at home institutions and Embassy briefings in Washington, D.C. It provides a unique opportunity for university and college students to study the role, structure and activities of the African Union as well as the economic, social, and political-security issues facing African countries.
+
+',
+  'approval' => '10/19/2015',
+  'eventName' => 'National Model African Union Summit',
+  'to' => [
+    '4:00 PM',
+    '02/21/2'
+  ],
+  'type' => 'On Campus',
+  'attendees' => {
+    'umbc' => 21,
+    'other' => 0
+  },
+  'cosponsor' => [],
+  'outsideFunding' => 'no',
+  'preTotal' => '9476.5',
+  'id' => '430',
+  'officer' => {
+    'name' => 'Danielle McGrogan',
+    'position' => 'President',
+    'email' => 'dmcg1@umbc.edu',
+    'phone' => '4105283003'
+  }
+};
+$VAR1 = {
+  'eventName' => 'NMUN New York Conference',
+  'charge' => {
+    'umbc' => '0',
+    'other' => '0'
+  },
+  'description' => '   Model United Nations will be taking 37 delegates to represent India and Chad during the 2016 NMUN NY Conference and request the necessary funds in order to do so.
+
+',
+  'type' => 'On Campus',
+  'officer' => {
+    'phone' => '(301) 704-7448',
+    'name' => 'Sara Kim',
+    'email' => 'ak15050@umbc.edu',
+    'position' => 'Treasurer'
+  },
+  'where' => 'Sheraton New York Times Square',
+  'attendees' => {
+    'umbc' => 37,
+    'other' => 0
+  },
+  'cosponsor' => [],
+  'from' => [
+    '1:00 PM',
+    '03/27/2016'
+  ],
+  'approval' => '10/19/2015',
+  'outsideFunding' => 'yes',
+  'to' => [
+    '12:00 PM',
+    '04/ 1/2016'
+  ],
+  'legislation' => {
+    'opposed' => '0',
+    'absent' => '1',
+    'voted' => 'November 10th, 2015',
+    'id' => '72-1516',
+    'abstaining' => '0',
+    'for' => '6',
+    'author' => 'Trent Bae',
+    'introduced' => 'November 10th, 2015'
+  },
+  'budget' => {
+    'requested' => {
+      'Hotel Room Fees' => '15950.00',
+      'Delegate Fees' => '4995.00',
+      'Porterage Fees' => '407.00',
+      'Total' => '21352'
+    },
+    'approved' => {
+      'Porterage Fees' => '0.00',
+      'Total' => '3626',
+      'Delegate Fees' => '3626.00',
+      'Hotel Room Fees' => '0.00'
+    }
+  },
+  'id' => '419',
+  'preTotal' => '21352'
+};
+$VAR1 = {
+  'from' => [
+    '7:00 PM',
+    '11/ 3/2015'
+  ],
+  'to' => [
+    '9:00 PM',
+    '11/ 3/2'
+  ],
+  'description' => '   The purpose of this event is to have greek life and national societies help provide an atmosphere of community among the UMBC students and those involved in these organizations. This is also an opportunity for singing talents of the student body and the communities beyond to be celebrated.
+
+',
+  'charge' => {
+    'other' => '0',
+    'umbc' => '0'
+  },
+  'outsideFunding' => 'no',
+  'officer' => {
+    'email' => 'kqueen2@umbc.edu',
+    'phone' => '2406065259',
+    'position' => 'Treasurer',
+    'name' => 'Kendall Queen'
+  },
+  'attendees' => {
+    'other' => 45,
+    'umbc' => 5
+  },
+  'budget' => {
+    'requested' => {
+      'Total' => '394.86',
+      'Karaoke Machine' => '274.86',
+      'Lower Flat Tuesdays Floor Rearrangement' => '40.00',
+      'Food' => '40.00',
+      'Marketing Package' => '40.00'
+    },
+    'approved' => {
+      'Karaoke Machine' => '125.00',
+      'Total' => '326.25',
+      'Setup' => '127.50',
+      'Food' => '44.00',
+      'Marketing Package' => '29.75'
+    }
+  },
+  'cosponsor' => [
+    'Alpha Kappa Alpha Lambda Phi Chapter Sorority Inc.'
+  ],
+  'id' => '427',
+  'approval' => '10/18/2015',
+  'legislation' => {
+    'id' => '56-1516',
+    'introduced' => 'October 27th, 2015',
+    'author' => 'Trent Bae'
+  },
+  'where' => 'Lower Flat Tuesdays',
+  'eventName' => 'Karaoke Night',
+  'preTotal' => '394.86',
+  'type' => 'Equipment'
+};
+$VAR1 = {
+  'preTotal' => '250',
+  'description' => '   Expecting a big event to watch the Final\'s for a world-wide event! The final\'s is expecting almost 8 million viewers and so we want to get UMBC together in order to watch together and enjoy the games!
+
+',
+  'cosponsor' => [],
+  'from' => [
+    '8:00 AM',
+    '10/31/2015'
+  ],
+  'legislation' => {
+    'author' => 'Trent Bae',
+    'introduced' => 'October 20th, 2015',
+    'id' => '48-1516'
+  },
+  'charge' => {
+    'umbc' => '0',
+    'other' => '0'
+  },
+  'type' => 'Equipment',
+  'where' => 'PUP 105',
+  'approval' => '10/16/2015',
+  'officer' => {
+    'email' => 'amolb1@umbc.edu',
+    'position' => 'President',
+    'phone' => '4437569185',
+    'name' => 'Amol Bhatia'
+  },
+  'outsideFunding' => 'no',
+  'to' => [
+    '4:00 PM',
+    '10/31/2015'
+  ],
+  'budget' => {
+    'requested' => {
+      'Total' => '250',
+      'Audio-Visual' => '30.00',
+      'Decorations' => '40.00',
+      'Marketing' => '10.00',
+      'Food' => '170.00'
+    },
+    'approved' => {
+      'Food' => '170.00',
+      'Marketing' => '10.00',
+      'Decorations' => '0.00',
+      'Audio-Visual' => '30.00',
+      'Total' => '210'
+    }
+  },
+  'eventName' => 'UMBC League of Legends World\'s Final viewing party',
+  'attendees' => {
+    'other' => 20,
+    'umbc' => 70
+  },
+  'id' => '424'
+};
+$VAR1 = {
+  'officer' => {
+    'position' => 'President',
+    'phone' => '4436553933',
+    'email' => 'valp1@umbc.edu',
+    'name' => 'Valerie Pasquale'
+  },
+  'description' => '   This will be the Stilettos end-of-semester concert. It will be open to all students for free, as well as feature and promote other UMBC organizations. PS-sorry this request is so late- we were waiting on an invoice from our sound guy but we got it! :D
+
+',
+  'approval' => '10/15/2015',
+  'id' => '418',
+  'charge' => {
+    'umbc' => '0',
+    'other' => '0'
+  },
+  'where' => 'ITE 104',
+  'budget' => {
+    'requested' => {
+      'Marketing' => '200.00',
+      'Ticket Staff' => '75.00',
+      'Security' => '112.50',
+      'Contracts(sound)' => '540.00',
+      'Audio-Visual' => '30.00',
+      'Total' => '1202.5',
+      'Housekeeping' => '245.00'
+    },
+    'approved' => {
+      'Security' => '112.50',
+      'Ticket Staff' => '75.00',
+      'Contracts(sound)' => '450.00',
+      'Audio-Visual' => '30.00',
+      'Total' => '1112.5',
+      'Housekeeping' => '245.00',
+      'Marketing' => '200.00'
+    }
+  },
+  'to' => [
+    '9:30 PM',
+    '11/21/2015'
+  ],
+  'outsideFunding' => 'no',
+  'from' => [
+    '7:00 PM',
+    '11/21/2015'
+  ],
+  'type' => 'Equipment',
+  'attendees' => {
+    'other' => 50,
+    'umbc' => 100
+  },
+  'legislation' => {
+    'introduced' => 'November 3rd, 2015',
+    'opposed' => '0',
+    'abstaining' => '0',
+    'author' => 'Trent',
+    'for' => '5',
+    'absent' => '2',
+    'voted' => 'November 3rd, 2015',
+    'id' => '59-1516'
+  },
+  'preTotal' => '1202.5',
+  'eventName' => 'Stilettos Fall Concert',
+  'cosponsor' => []
+};
+$VAR1 = {
+  'legislation' => {
+    'id' => '60-1516',
+    'abstaining' => '0',
+    'for' => '5',
+    'author' => 'Trent',
+    'opposed' => '0',
+    'voted' => 'November 3rd, 2015',
+    'absent' => '2',
+    'introduced' => 'November 3rd, 2015'
+  },
+  'to' => [
+    '9:00 PM',
+    '11/ 5/2015'
+  ],
+  'eventName' => 'Hispanic/Latino & Persian Night',
+  'where' => 'Skylight Lounge',
+  'outsideFunding' => 'no',
+  'budget' => {
+    'approved' => {
+      'Food' => '103.73',
+      'Audio-Visual' => '185.00',
+      'Set-up' => '125.00',
+      'Total' => '413.73'
+    },
+    'requested' => {
+      'Food' => '103.73',
+      'Audio-Visual' => '185.00',
+      'Total' => '413.73',
+      'Set-up' => '125.00'
+    }
+  },
+  'preTotal' => '413.73',
+  'from' => [
+    '7:00 PM',
+    '11/ 5/2015'
+  ],
+  'type' => 'Equipment',
+  'charge' => {
+    'other' => '0',
+    'umbc' => '0'
+  },
+  'id' => '421',
+  'officer' => {
+    'position' => 'President',
+    'email' => 'hanagu1@umbc.edu',
+    'name' => 'Hanan Guzman',
+    'phone' => '2405652701'
+  },
+  'description' => '   To provide funds to support a collaborative event between two student organizations on campus (PSA & HLSU). This event will have a social aspect that include karaoke and dancing. The dancing will be from both cultures while the karaoke will just be standard music on the karaoke machine provided by Ops. This event serves the purpose to introduce and intergrate two cultures in one setting to facilitate multiculturalism within the UMBC community.
+
+',
+  'firstTime' => 'yes',
+  'attendees' => {
+    'umbc' => 50,
+    'other' => 0
+  },
+  'cosponsor' => [
+    'Persian Student Association'
+  ],
+  'approval' => '10/15/2015'
+};
+$VAR1 = {
+  'where' => 'Sheraton Cleveland Airport Hotel',
+  'charge' => {
+    'other' => '0',
+    'umbc' => '0'
+  },
+  'to' => [
+    '12:00 AM',
+    '12/30/2015'
+  ],
+  'officer' => {
+    'position' => 'President',
+    'phone' => '240 772 4179',
+    'email' => 'mustdio1@umbc.edu',
+    'name' => 'Mustapha Diomande'
+  },
+  'preTotal' => '2140',
+  'legislation' => {
+    'author' => 'Trent Bae',
+    'id' => '52-1516',
+    'introduced' => 'October 27th, 2015'
+  },
+  'from' => [
+    '12:00 AM',
+    '12/26/2015'
+  ],
+  'eventName' => '2015 Pan-American Intercollegiate Chess Championships',
+  'approval' => '10/15/2015',
+  'description' => '   UMBC has been one of the best chess college teams, winning multiple Pan American Intercollegiate Team Chess Championships for the past two decades. Unfortunately chess from other schools has become more competitive in recent years and UMBC is attracting fewer chess players. In order to allow local players to participate in UMBC chess and restore chess pride back in the greater UMBC community, the Chess Club is requesting help from SGA to fund a team to compete in the Pan Ams.
+
+',
+  'outsideFunding' => 'no',
+  'attendees' => {
+    'umbc' => 4,
+    'other' => 0
+  },
+  'id' => '423',
+  'budget' => {
+    'approved' => {
+      'Lodging Doc 2' => '0.00',
+      'Transportation (Tickets or Rentals)' => '0.00',
+      'Food' => '0.00',
+      'Lodging' => '620.00',
+      'Conference/Competition Registration' => '200.00',
+      'Total' => '820',
+      'Transportation Doc 2' => '0.00'
+    },
+    'requested' => {
+      'Transportation Doc 2' => '0.00',
+      'Total' => '2140',
+      'Lodging Doc 2' => '0.00',
+      'Transportation (Tickets or Rentals)' => '1200.00',
+      'Food' => '120.00',
+      'Lodging' => '620.00',
+      'Conference/Competition Registration' => '200.00'
+    }
+  },
+  'type' => 'Equipment',
+  'cosponsor' => []
+};
+$VAR1 = {
+  'id' => '417',
+  'preTotal' => '851',
+  'type' => 'Equipment',
+  'charge' => {
+    'umbc' => '0',
+    'other' => '0'
+  },
+  'description' => '   United worship night is a public event that is designed to bring together all the Christian organizations on campus for a night of worship, spoken word, and a message from a speaker. It has successfully been put on 2 times, in Spring 2014 and 2015.
+
+',
+  'approval' => '10/14/2015',
+  'where' => 'MEYR 030',
+  'officer' => {
+    'phone' => '2403941161',
+    'name' => 'Justin Wright',
+    'position' => 'Treasurer',
+    'email' => 'jwright6@umbc.edu'
+  },
+  'eventName' => 'United Worship Night',
+  'cosponsor' => [],
+  'to' => [
+    '10:30 PM',
+    '11/12/2015'
+  ],
+  'outsideFunding' => 'no',
+  'from' => [
+    '7:30 PM',
+    '11/12/2015'
+  ],
+  'legislation' => {
+    'author' => 'Trent Bae',
+    'id' => '55-1516',
+    'introduced' => 'October 27th, 2015'
+  },
+  'budget' => {
+    'approved' => {
+      'Housekeeping' => '245.00',
+      'Total' => '557',
+      'Marketing' => '200.00',
+      'Security' => '112.00'
+    },
+    'requested' => {
+      'Set-up' => '300.00',
+      'Marketing Package' => '200.00',
+      'Total' => '851',
+      'Security & Housekeeping' => '351.00'
+    }
+  },
+  'attendees' => {
+    'other' => 0,
+    'umbc' => 200
+  }
+};
+$VAR1 = {
+  'outsideFunding' => 'no',
+  'id' => '411',
+  'from' => [
+    '8:00 PM',
+    '12/ 7/2015'
+  ],
+  'where' => 'UC Ballroom',
+  'description' => '   To fund our annual Bashment event which spreads awareness of the Caribbean culture and gives all students the opportunity to share in our culture.
+
+',
+  'legislation' => {
+    'for' => '6',
+    'abstaining' => '0',
+    'author' => 'Trent Bae',
+    'voted' => 'November 17th, 2015',
+    'introduced' => 'November 17th, 2015',
+    'id' => '78-1516',
+    'absent' => '1',
+    'opposed' => '0'
+  },
+  'budget' => {
+    'requested' => {
+      'Total' => '4177.5',
+      'Security' => '592.50',
+      'Set-up' => '205.00',
+      'Audio-Visual' => '770.00',
+      'Contracts' => '500.00',
+      'Marketing' => '200.00',
+      'Ticket Staff' => '165.00',
+      'Food' => '1500.00',
+      'Housekeeping' => '245.00'
+    },
+    'approved' => {
+      'Food' => '1000.00',
+      'Housekeeping' => '245.00',
+      'Ticket Staff' => '110.00',
+      'Contracts' => '0.00',
+      'Marketing' => '200.00',
+      'Audio-Visual' => '570.00',
+      'Set-up' => '205.00',
+      'Security' => '472.50',
+      'Total' => '2802.5'
+    }
+  },
+  'type' => 'Equipment',
+  'attendees' => {
+    'umbc' => 300,
+    'other' => 50
+  },
+  'eventName' => '6th Annual X-Mas bashment',
+  'officer' => {
+    'phone' => '240-543-1631',
+    'position' => 'Treasurer',
+    'name' => 'Shaneka Hannam',
+    'email' => 'hanna6@umbc.edu'
+  },
+  'approval' => '10/14/2015',
+  'preTotal' => '4177.5',
+  'to' => [
+    '12:00 AM',
+    '12/ 8/2015'
+  ],
+  'cosponsor' => [],
+  'charge' => {
+    'other' => '0',
+    'umbc' => '0'
+  }
+};
+$VAR1 = {
+  'legislation' => {
+    'author' => 'Trent Bae',
+    'id' => '50-1516',
+    'introduced' => 'October 20th, 2015'
+  },
+  'from' => [
+    '6:00 PM',
+    '11/18/2015'
+  ],
+  'to' => [
+    '9:00 PM',
+    '11/18/2015'
+  ],
+  'officer' => {
+    'email' => 'mariyum1@umbc.edu',
+    'position' => 'Treasurer',
+    'name' => 'Mariyum Mahmood'
+  },
+  'eventName' => 'The Magnidute of Gratitude',
+  'id' => '416',
+  'description' => '   An interactive lecture based event focused on integrating gratefulness in our lives.
+
+',
+  'attendees' => {
+    'umbc' => 150,
+    'other' => 150
+  },
+  'charge' => {
+    'umbc' => '0',
+    'other' => '5'
+  },
+  'preTotal' => '2942.5',
+  'outsideFunding' => 'no',
+  'type' => 'Equipment',
+  'where' => 'Ballroom',
+  'cosponsor' => [],
+  'approval' => '10/13/2015',
+  'budget' => {
+    'approved' => {
+      'Ticket Staff' => '135.00',
+      'Speaker' => '1900.00',
+      'Security' => '180.00',
+      'Housekeeping' => '245.00',
+      'Total' => '2942.5',
+      'Set-up' => '142.50',
+      'Audio-Visual' => '140.00',
+      'Marketing' => '200.00'
+    },
+    'requested' => {
+      'Ticket Staff' => '135.00',
+      'Speaker' => '1900.00',
+      'Security' => '180.00',
+      'Housekeeping' => '245.00',
+      'Total' => '2942.5',
+      'Set-up' => '142.50',
+      'Audio-Visual' => '140.00',
+      'Marketing' => '200.00'
+    }
+  }
+};
+$VAR1 = {
+  'legislation' => {
+    'abstaining' => '0',
+    'absent' => '2',
+    'id' => '57-1516',
+    'opposed' => '0',
+    'author' => 'Trent',
+    'introduced' => 'November 3rd, 2015',
+    'for' => '5',
+    'voted' => 'November 3rd, 2015'
+  },
+  'description' => '   We request funds to cover the expenses associated with hosting a concert which include but are not limited to sound equipment, room costs, and sound crew.
+
+',
+  'budget' => {
+    'requested' => {
+      'Marketing' => '200.00',
+      'Total' => '1013',
+      'Security' => '120.00',
+      'Contract' => '450.00',
+      'Housekeeping' => '243.00'
+    },
+    'approved' => {
+      'Total' => '1013',
+      'Security' => '120.00',
+      'Contract' => '450.00',
+      'Housekeeping' => '243.00',
+      'Marketing' => '200.00'
+    }
+  },
+  'type' => 'Equipment',
+  'from' => [
+    '8:00 PM',
+    '11/20/2015'
+  ],
+  'attendees' => {
+    'umbc' => 35,
+    'other' => 65
+  },
+  'officer' => {
+    'email' => 'vg46337@umbc.edu',
+    'phone' => '443-825-1120',
+    'name' => 'Alex Crone',
+    'position' => 'Treasurer'
+  },
+  'id' => '415',
+  'to' => [
+    '10:00 PM',
+    '11/20/2015'
+  ],
+  'preTotal' => '1013',
+  'charge' => {
+    'umbc' => '0',
+    'other' => '0'
+  },
+  'eventName' => 'Fall Concert',
+  'where' => 'ITE 104',
+  'cosponsor' => [],
+  'outsideFunding' => 'no',
+  'approval' => '10/13/2015'
+};
+$VAR1 = {
+  'preTotal' => '369.75',
+  'cosponsor' => [],
+  'type' => 'Equipment',
+  'id' => '413',
+  'legislation' => {
+    'id' => '45-1516',
+    'introduced' => 'October 13th, 2015',
+    'author' => 'Trent Bae'
+  },
+  'officer' => {
+    'name' => 'Jay Gordon',
+    'position' => 'Treasurer',
+    'email' => 'gordon7@umbc.edu',
+    'phone' => '4438780776'
+  },
+  'outsideFunding' => 'no',
+  'approval' => '10/ 8/2015',
+  'attendees' => {
+    'umbc' => 40,
+    'other' => 10
+  },
+  'charge' => {
+    'umbc' => '0',
+    'other' => '0'
+  },
+  'budget' => {
+    'approved' => {
+      'Food' => '0.00',
+      'Gameroom' => '260.00',
+      'Total' => '260'
+    },
+    'requested' => {
+      'Food' => '109.75',
+      'Gameroom' => '260.00',
+      'Total' => '369.75'
+    }
+  },
+  'description' => '   UMBC Humans verse Zombies is looking to host our anual zombie bash. This is a halloween style event were our members dress-up in costumes, play games, and we hold one of our missions. Since, this is an open event we have had several alumni visit in the past. We are requestion funding in order to rent out the gameroom and for food in order to feed the people at the event.
+
+',
+  'eventName' => 'Zombie Bash'
+};
+$VAR1 = {
+  'firstTime' => 'yes',
+  'id' => '412',
+  'cosponsor' => [
+    'Young Americans for Liberty'
+  ],
+  'outsideFunding' => 'maybe',
+  'charge' => {
+    'other' => '0',
+    'umbc' => '0'
+  },
+  'description' => '   The purpose of the event is to allow for students to come together to discuss and decide on which candidate they believe should be the Republican candidate in the 2016 presidential election. Millennials are a rising demographic in electoral politics with issues that affect them in particular such as internet regulation, college affordability, government debt and the future of entitlement programs.
+
+',
+  'eventName' => 'Debate Watch Party',
+  'attendees' => {
+    'umbc' => 50,
+    'other' => 0
+  },
+  'from' => [
+    '8:00 PM',
+    '10/28/2015'
+  ],
+  'type' => 'Equipment',
+  'officer' => {
+    'email' => 'tjacobs1@umbc.edu',
+    'name' => 'Timothy Jacobs',
+    'position' => 'Treasurer',
+    'phone' => '410-499-7511'
+  },
+  'budget' => {
+    'approved' => {
+      'Total' => '88',
+      'LCD Projector' => '0.00',
+      'Pepperoni Pizza (4 Count, Large)' => '32.00',
+      'Cheese Pizza (8 Count, Large)' => '56.00'
+    },
+    'requested' => {
+      'Cheese Pizza (8 Count, Large)' => '102.00',
+      'Pepperoni Pizza (4 Count, Large)' => '58.00',
+      'LCD Projector' => '20.00',
+      'Total' => '180'
+    }
+  },
+  'legislation' => {
+    'introduced' => 'October 13th, 2015',
+    'author' => 'Trent Bae',
+    'id' => '44-1516'
+  },
+  'to' => [
+    '10:00 PM',
+    '10/28/2'
+  ],
+  'preTotal' => '180',
+  'where' => 'Physics 101 (Lecture Hall)',
+  'approval' => '10/ 8/2015'
+};
+$VAR1 = {
+  'to' => [
+    '10:00 PM',
+    '11/14/2015'
+  ],
+  'eventName' => 'CSA Cultural Banquet',
+  'cosponsor' => [],
+  'description' => '   Promote the importance of leadership and civic engagement while balancing the identity of being a Chinese American. We want to foster the right environment in order to really make an impact on each individual; we feel like we can accomplish this through a banquet format with speakers, networking activities and performances to highlight the night. This will inspire our peers to find a threshold in not only the AAPI community but wherever they can, including UMBC.
+
+',
+  'id' => '410',
+  'approval' => '10/ 8/2015',
+  'firstTime' => 'yes',
+  'budget' => {
+    'requested' => {
+      'Total' => '2793.47',
+      'Food' => '1997.50',
+      'Marketing' => '200.00',
+      'Set-up' => '225.50',
+      'Decorations' => '47.97',
+      'Ticket Staff' => '55.00',
+      'Security' => '82.50',
+      'Contracts' => '100.00',
+      'Audio-Visual' => '85.00'
+    },
+    'approved' => {
+      'Total' => '1888.22',
+      'Food' => '987.74',
+      'Marketing' => '200.00',
+      'Decorations' => '252.48',
+      'Set-up' => '225.50',
+      'Ticket Staff' => '55.00',
+      'Security' => '82.50',
+      'Contracts' => '0.00',
+      'Audio-Visual' => '85.00'
+    }
+  },
+  'preTotal' => '2793.47',
+  'from' => [
+    '6:00 PM',
+    '11/14/2015'
+  ],
+  'attendees' => {
+    'umbc' => 50,
+    'other' => 30
+  },
+  'officer' => {
+    'position' => 'President',
+    'name' => 'Valerie Yu',
+    'phone' => '2403885538',
+    'email' => 'valyu1@umbc.edu'
+  },
+  'where' => 'Skylight Room',
+  'outsideFunding' => 'no',
+  'legislation' => {
+    'id' => '51-1516',
+    'introduced' => 'October 27th, 2015',
+    'author' => 'Trent Bae'
+  },
+  'charge' => {
+    'umbc' => '0',
+    'other' => '0'
+  },
+  'type' => 'Equipment'
+};
+$VAR1 = {
+  'outsideFunding' => 'yes',
+  'type' => 'Equipment',
+  'legislation' => {
+    'introduced' => 'October 20th, 2015',
+    'id' => '49-1516',
+    'author' => 'Trent Bae'
+  },
+  'charge' => {
+    'other' => '0',
+    'umbc' => '0'
+  },
+  'eventName' => 'Pumpkin Carving and Seed Saving with the Garden',
+  'attendees' => {
+    'umbc' => 35,
+    'other' => 0
+  },
+  'firstTime' => 'yes',
+  'from' => [
+    '4:30 PM',
+    '10/28/2015'
+  ],
+  'to' => [
+    '7:00 PM',
+    '10/28/2015'
+  ],
+  'id' => '409',
+  'budget' => {
+    'approved' => {
+      'Pumpkins' => '59.00',
+      'Total' => '59'
+    },
+    'requested' => {
+      'Total' => '0',
+      'Pumpkins' => '0.00',
+      ' ' => '0.00'
+    }
+  },
+  'description' => '   We are requesting $100 to buy pumpkins from a local farm for a pumpkin carving event.
+
+',
+  'approval' => '10/ 6/2015',
+  'preTotal' => '0',
+  'officer' => {
+    'position' => 'Treasurer',
+    'phone' => '4436142935',
+    'email' => 'maurs1@umbc.edu',
+    'name' => 'Maura Smith'
+  },
+  'cosponsor' => [],
+  'where' => 'Commons Mainstreet'
+};
+$VAR1 = {
+  'legislation' => {
+    'id' => '42-1516',
+    'author' => 'Trent Bae',
+    'introduced' => 'October 13th, 2015'
+  },
+  'attendees' => {
+    'other' => 100,
+    'umbc' => 300
+  },
+  'cosponsor' => [],
+  'outsideFunding' => 'yes',
+  'to' => [
+    '12:00 AM',
+    '12/ 6/2015'
+  ],
+  'description' => '   We are requesting to get funded for an event that will showcase Pakistani culture to UMBC through cultural performances.
+
+',
+  'type' => 'Equipment',
+  'where' => 'University Center Ballroom',
+  'charge' => {
+    'other' => '20',
+    'umbc' => '0'
+  },
+  'preTotal' => '8526',
+  'approval' => '10/ 6/2015',
+  'budget' => {
+    'requested' => {
+      'DJ' => '250.00',
+      'Marketing' => '200.00',
+      'Housekeeping' => '250.00',
+      'Audio-Visual' => '860.00',
+      'Set-Up' => '46.00',
+      'Security' => '720.00',
+      'Total' => '8526',
+      'Performance from Arjun' => '6000.00',
+      'Ticket Staff' => '200.00'
+    },
+    'approved' => {
+      'Set-Up' => '46.00',
+      'Ticket Staff' => '200.00',
+      'Security' => '720.00',
+      'Performance from Arjun' => '6000.00',
+      'Total' => '8526',
+      'Marketing' => '200.00',
+      'DJ' => '250.00',
+      'Housekeeping' => '250.00',
+      'Audio-Visual' => '860.00'
+    }
+  },
+  'id' => '408',
+  'firstTime' => 'yes',
+  'officer' => {
+    'phone' => '734 358 3833',
+    'position' => 'President',
+    'email' => 'aqsa1@umbc.edu',
+    'name' => 'Aqsa Ulhaq'
+  },
+  'eventName' => 'PakSA Night',
+  'from' => [
+    '8:00 PM',
+    '12/ 6/2015'
+  ]
+};
+$VAR1 = {
+  'officer' => {
+    'email' => 'paulchoi1@umbc.edu',
+    'phone' => '240-274-3290',
+    'position' => 'President',
+    'name' => 'Paul Choi'
+  },
+  'description' => '   UMBC\'s Next Top Model finale runway show to announce the winner and contestants.
+
+',
+  'firstTime' => 'yes',
+  'approval' => '10/ 6/2015',
+  'cosponsor' => [],
+  'charge' => {
+    'umbc' => '0',
+    'other' => '0'
+  },
+  'outsideFunding' => 'no',
+  'type' => 'Equipment',
+  'attendees' => {
+    'umbc' => 75,
+    'other' => 0
+  },
+  'legislation' => {
+    'id' => '46-1516',
+    'author' => 'Trent Bae',
+    'introduced' => 'October 13th, 2015'
+  },
+  'budget' => {
+    'approved' => {},
+    'requested' => {
+      'Gift Bag for Winner' => '100.00',
+      'Flyers' => '45.00',
+      'Angel Wings' => '57.80',
+      'Breast Cancer Ribbons' => '25.00',
+      'Total' => '284.52',
+      'Party Streamers' => '3.78',
+      'Balloons' => '11.94',
+      'Rent' => '41.00'
+    }
+  },
+  'id' => '407'
+};
+$VAR1 = {
+  'outsideFunding' => 'no',
+  'legislation' => {
+    'introduced' => 'February 2nd, 2016',
+    'for' => '6',
+    'abstaining' => '0',
+    'voted' => 'February 2nd, 2016',
+    'opposed' => '0',
+    'id' => '91-1516',
+    'author' => 'Trent Bae',
+    'absent' => '0'
+  },
+  'firstTime' => 'yes',
+  'description' => '   We have some very broken and outdated equipment here at WMBC. Some things are non-working or unreliable (ex: power amplifier, record cartridge) while others are entirely broken (ex: microphone stand). With the equipment described in this request, we could greatly improve the functionality and student appeal of WMBC radio.
+
+',
+  'from' => [
+    '12:00 AM',
+    '11/10/2015'
+  ],
+  'attendees' => {
+    'other' => 0,
+    'umbc' => 50
+  },
+  'to' => [
+    '12:00 AM',
+    '11/10/2015'
+  ],
+  'type' => 'Equipment',
+  'cosponsor' => [],
+  'budget' => {
+    'requested' => {
+      'Yamaha MX49 Synthesizer' => '499.99',
+      'Sound Blaster Audigy Sound Card' => '28.99',
+      'Audio-Technica Conical Cartridge' => '28.64',
+      'Sennheiser HD650 Headphones' => '499.95',
+      'Pioneer XDJ-RX DJ Controller' => '1499.00',
+      'EV Tour X Series 12” 500W Speaker' => '1760.00',
+      'Strat-STD-HSH Electric Guitar' => '499.99',
+      'Shure SM81 Condensor Microphone' => '349.00',
+      'Orange “Crush” Series Guitar Amplifier' => '259.00',
+      'Vu Tripod Speaker Stand (x2)' => '100.00',
+      'D36- DST Auralex Roominator Kit' => '189.99',
+      'Mackie Profxv2 16-channel mixer' => '499.99',
+      'Sales Tax' => '404.02',
+      'Vu Tripod Microphone Stand (x2)' => '80.00',
+      'Total' => '7137.56',
+      'Art SLA4 Power Amplifier' => '439.00'
+    },
+    'approved' => {
+      'Total' => '3062.85'
+    }
+  },
+  'eventName' => 'Equipment Request',
+  'officer' => {
+    'position' => 'Treasurer',
+    'phone' => '(443) 789-9064',
+    'email' => 'dre2@umbc.edu',
+    'name' => 'Drew Spera'
+  },
+  'preTotal' => '7137.56',
+  'where' => 'In the WMBC station (UC 101)',
+  'charge' => {
+    'umbc' => '0',
+    'other' => '0'
+  },
+  'id' => '405',
+  'approval' => '10/ 5/2015'
+};
+$VAR1 = {
+  'eventName' => 'Monongahela Camping Trip',
+  'outsideFunding' => 'no',
+  'preTotal' => '999',
+  'to' => [
+    '5:30 PM',
+    '10/ 5/2015'
+  ],
+  'where' => 'Spruce Knob Lake Campground, Whitmer, WV 26296',
+  'from' => [
+    '1:30 PM',
+    '10/23/2015'
+  ],
+  'legislation' => {
+    'id' => '40-1516',
+    'author' => 'Trent Bae',
+    'introduced' => 'October 13th, 2015'
+  },
+  'officer' => {
+    'phone' => '(443)-797-2481',
+    'email' => 'bro7@umbc.edu',
+    'position' => 'Treasurer',
+    'name' => 'Bradley Olver'
+  },
+  'charge' => {
+    'umbc' => '0',
+    'other' => '0'
+  },
+  'budget' => {
+    'requested' => {
+      'Lodging' => '84.00',
+      'Total' => '999',
+      'Gas' => '915.00'
+    },
+    'approved' => {
+      'Gas' => '300.00',
+      'Total' => '384',
+      'Lodging' => '84.00'
+    }
+  },
+  'cosponsor' => [],
+  'id' => '394',
+  'type' => 'On Campus',
+  'description' => '   Spruce Knob Lake Campground is tucked in a beautiful hardwood forest less than a mile from Spruce Knob Lake. The campground provides a peaceful setting with easy access to boating on the lake and hiking through the mountainous region. Sixty miles of picturesque hiking trails crisscross the region, and the campground provides direct access to the pleasant 1-mile Big Bend River Loop. The purpose of this camping trip is to create a a memorable and stress-free trip for outdoor enthusiasts.
+
+',
+  'attendees' => {
+    'umbc' => 18,
+    'other' => 0
+  },
+  'approval' => '10/ 4/2015'
+};
+$VAR1 = {
+  'to' => [
+    '6:00 PM',
+    '12/ 5/2015'
+  ],
+  'charge' => {
+    'other' => '0',
+    'umbc' => '0'
+  },
+  'attendees' => {
+    'umbc' => 55,
+    'other' => 15
+  },
+  'cosponsor' => [],
+  'outsideFunding' => 'no',
+  'description' => '   Anime Society\'s semi-annual 24-hour marathon. Where we provide students with a place to de-stress before finals and appreciate Japanese culture among friends.
+
+',
+  'officer' => {
+    'email' => 'rachel28@umbc.edu',
+    'position' => 'President',
+    'name' => 'Rachel Crane',
+    'phone' => '443-769-4860'
+  },
+  'where' => 'Engineering 027',
+  'approval' => '10/ 2/2015',
+  'from' => [
+    '6:00 PM',
+    '12/ 4/2015'
+  ],
+  'preTotal' => '50',
+  'budget' => {
+    'approved' => {
+      'Total' => '50',
+      'A/V contract (projector use)' => '50.00'
+    },
+    'requested' => {
+      'Total' => '50',
+      'A/V contract (projector use)' => '50.00'
+    }
+  },
+  'id' => '385',
+  'eventName' => '24 Hours of Anime',
+  'type' => 'Equipment',
+  'legislation' => {
+    'author' => 'Trent Bae',
+    'opposed' => '0',
+    'absent' => '0',
+    'abstaining' => '0',
+    'introduced' => 'October 6th, 2015',
+    'voted' => 'October 6th, 2015',
+    'for' => '6',
+    'id' => '35-1516'
+  }
+};
+$VAR1 = {
+  'preTotal' => '2804',
+  'attendees' => {
+    'umbc' => 150,
+    'other' => 50
+  },
+  'where' => 'Third Floor of the Commons and Game Room',
+  'from' => [
+    '10:00 AM',
+    '11/ 7/2015'
+  ],
+  'budget' => {
+    'requested' => {
+      'Food' => '1334.00',
+      'Decorations' => '0.00',
+      'Audio-Visual' => '465.00',
+      'Ticket Staff' => '60.00',
+      'Contracts' => '100.00',
+      'Set-up' => '585.00',
+      'Housekeeping' => '0.00',
+      'Security' => '60.00',
+      'Marketing' => '200.00',
+      'Total' => '2804'
+    },
+    'approved' => {
+      'Set-up' => '585.00',
+      'Contracts' => '100.00',
+      'Audio-Visual' => '465.00',
+      'Food' => '1334.00',
+      'Decorations' => '0.00',
+      'Ticket Staff' => '60.00',
+      'Security' => '60.00',
+      'Total' => '2804',
+      'Marketing' => '200.00',
+      'Housekeeping' => '0.00'
+    }
+  },
+  'cosponsor' => [],
+  'legislation' => {
+    'opposed' => '0',
+    'for' => '5',
+    'introduced' => 'October 6th, 2015',
+    'id' => '36-1516',
+    'author' => 'Trent Bae',
+    'abstaining' => '1',
+    'absent' => '0',
+    'voted' => 'October 6th, 2015'
+  },
+  'charge' => {
+    'other' => '0',
+    'umbc' => '0'
+  },
+  'officer' => {
+    'email' => 'rachel28@umbc.edu',
+    'name' => 'Rachel Crane',
+    'phone' => '443-769-4860',
+    'position' => 'President'
+  },
+  'eventName' => 'RetrieverCon',
+  'type' => 'Equipment',
+  'to' => [
+    '7:00 PM',
+    '11/ 7/2015'
+  ],
+  'approval' => '10/ 2/2015',
+  'description' => '   UMBC\'s third annual anime convention. The goal of the event is to bring more visibility to UMBC as well as its clubs (including Cosplay coalition, JSA, and more) and students. The event includes a cosplay contest and magic the gathering tournament, student run panels, and showings of new and popular anime.
+
+',
+  'outsideFunding' => 'no',
+  'id' => '388'
+};
+$VAR1 = {
+  'budget' => {
+    'approved' => {
+      'Dinner (Friday' => '250.00',
+      'Lunch (Sat.)' => '0.00',
+      'Total' => '1554',
+      'Breakfast (Sat.)' => '414.00',
+      'Misc. Fees' => '890.00'
+    },
+    'requested' => {
+      'Total' => '3506',
+      'Breakfast (Sat.)' => '414.00',
+      'Lunch (Sat.)' => '1740.00',
+      'Dinner (Friday' => '462.00',
+      'Misc. Fees' => '890.00'
+    }
+  },
+  'officer' => {
+    'position' => 'President',
+    'email' => 'amariam1@umbc.edu',
+    'name' => 'Asfiya Mariam',
+    'phone' => '3016938609'
+  },
+  'eventName' => 'Asfiya Mariam',
+  'legislation' => {
+    'author' => 'Trent Bae',
+    'id' => '54-1516',
+    'introduced' => 'October 27th, 2015'
+  },
+  'outsideFunding' => 'yes',
+  'where' => 'Across several bldgs across campus',
+  'description' => '   In order to provide our debaters experience and elevate our esteem on our circuit, we plan to host a debate tournament. The tournament will consist of 60 teams from other universities
+
+',
+  'approval' => '10/ 2/2015',
+  'preTotal' => '3506',
+  'charge' => {
+    'umbc' => '0',
+    'other' => '55'
+  },
+  'cosponsor' => [],
+  'to' => [
+    '6:00 PM',
+    '12/ 5/2015'
+  ],
+  'attendees' => {
+    'other' => 110,
+    'umbc' => 10
+  },
+  'type' => 'Equipment',
+  'firstTime' => 'yes',
+  'id' => '403',
+  'from' => [
+    '3:00 PM',
+    '12/ 4/2015'
+  ]
+};
+$VAR1 = {
+  'preTotal' => '200',
+  'firstTime' => 'yes',
+  'id' => '402',
+  'where' => 'Commons Mainstreet',
+  'eventName' => 'INDS CoM Pumpkin Event',
+  'charge' => {
+    'umbc' => '0',
+    'other' => '0'
+  },
+  'description' => '   This is a community building event which INDS CoM have been doing for the past few years. Students will decorate pumpkins in the spirit of Halloween. This event has been well attended in the past.
+
+',
+  'approval' => '10/ 1/2015',
+  'attendees' => {
+    'other' => 0,
+    'umbc' => 60
+  },
+  'from' => [
+    '11:30 AM',
+    '10/28/2015'
+  ],
+  'legislation' => {
+    'introduced' => 'October 13th, 2015',
+    'author' => 'Trent Bae',
+    'id' => '41-1516'
+  },
+  'cosponsor' => [],
+  'budget' => {
+    'requested' => {
+      'Pumpkins (60 ct)' => '150.00',
+      'Total' => '200',
+      'Decorations' => '50.00'
+    },
+    'approved' => {}
+  },
+  'outsideFunding' => 'no',
+  'to' => [
+    '1:30 PM',
+    '10/28/2015'
+  ],
+  'type' => 'Equipment',
+  'officer' => {
+    'phone' => '410-292-3873',
+    'name' => 'Maniraj Jeyaraju',
+    'email' => 'maniraj1@umbc.edu',
+    'position' => 'President'
+  }
+};
+$VAR1 = {
+  'description' => '   The officers of INDS CoM will be meeting for event planning purposes. We have been using carryover money for these meetings until now. With low balance now, we would like to have food at these meetings.
+
+',
+  'budget' => {
+    'approved' => {},
+    'requested' => {
+      'Food - Chicken Tenders/Salad/Desert/Drinks' => '80.00',
+      'Total' => '80'
+    }
+  },
+  'where' => 'FA 015',
+  'cosponsor' => [],
+  'officer' => {
+    'phone' => '410-292-3873',
+    'name' => 'Maniraj Jeyaraju',
+    'position' => 'President',
+    'email' => 'maniraj1@umbc.edu'
+  },
+  'id' => '401',
+  'outsideFunding' => 'no',
+  'eventName' => 'INDS CoM Officer Meeting',
+  'attendees' => {
+    'umbc' => 8,
+    'other' => 0
+  },
+  'legislation' => {
+    'for' => '0',
+    'abstaining' => '0',
+    'id' => '39-1516',
+    'author' => 'Trent Bae',
+    'voted' => 'October 6th, 2015',
+    'opposed' => '6',
+    'absent' => '0',
+    'introduced' => 'October 6th, 2015'
+  },
+  'to' => [
+    '1:00 PM',
+    '10/21/2'
+  ],
+  'charge' => {
+    'other' => '0',
+    'umbc' => '0'
+  },
+  'approval' => '10/ 1/2015',
+  'type' => 'Equipment',
+  'preTotal' => '80',
+  'from' => [
+    '12:00 PM',
+    '10/21/2015'
+  ]
+};
+$VAR1 = {
+  'charge' => {
+    'other' => '0',
+    'umbc' => '0'
+  },
+  'budget' => {
+    'approved' => {
+      'Set-up' => '52.00',
+      'Ticket Staff' => '0.00',
+      'Total' => '997',
+      'Security' => '120.00',
+      'Audio-Visual' => '575.00',
+      'Housekeeping' => '250.00'
+    },
+    'requested' => {
+      'Housekeeping' => '250.00',
+      'Total' => '997',
+      'Security' => '120.00',
+      'Audio-Visual' => '575.00',
+      'Ticket Staff' => '0.00',
+      'Set-up' => '52.00'
+    }
+  },
+  'officer' => {
+    'email' => 'kkin1@umbc.edu',
+    'name' => 'Kevin Kinyanjui',
+    'phone' => '410-428-9259',
+    'position' => 'Mens Fellowship'
+  },
+  'cosponsor' => [],
+  'preTotal' => '997',
+  'outsideFunding' => 'no',
+  'approval' => '09/30/2015',
+  'where' => 'University center Ballroom ',
+  'attendees' => {
+    'other' => 50,
+    'umbc' => 200
+  },
+  'to' => [
+    '10:00 PM',
+    '10/22/2015'
+  ],
+  'from' => [
+    '6:30 PM',
+    '10/22/2015'
+  ],
+  'legislation' => {
+    'introduced' => 'September 6th, 2015',
+    'abstaining' => '0',
+    'opposed' => '0',
+    'id' => '38-1516',
+    'voted' => 'October 6th, 2015',
+    'for' => '6',
+    'absent' => '0',
+    'author' => 'Trent Bae'
+  },
+  'id' => '398',
+  'description' => '   We are requesting for funds to hold our annual Marvelous Encounter. This event has been attracting UMBC students for more than 7 years.
+
+',
+  'eventName' => 'Marvelous Encounter',
+  'type' => 'Equipment'
+};
+$VAR1 = {
+  'attendees' => {
+    'umbc' => 83,
+    'other' => 17
+  },
+  'preTotal' => '9960',
+  'budget' => {
+    'approved' => {
+      'Transportation (Tickets or Rentals)' => '0.00',
+      'Total' => '5810',
+      'Registration' => '5810.00',
+      'support documents' => '0.00',
+      'Support Document (Flyer)' => '0.00',
+      'Support Document (flyer)' => '0.00'
+    },
+    'requested' => {
+      'Support Document (Flyer)' => '0.00',
+      'Support Document (flyer)' => '0.00',
+      'Total' => '9960',
+      'Transportation (Tickets or Rentals)' => '4150.00',
+      'Registration' => '5810.00',
+      'support documents' => '0.00'
+    }
+  },
+  'description' => '   We are requesting funds to help partially sponsor students to attend our annual national conference.
+
+',
+  'eventName' => 'Bethel Campus Fellowship National Conference 2016',
+  'type' => 'On Campus',
+  'approval' => '09/30/2015',
+  'id' => '396',
+  'where' => 'Asheville, North Carolina',
+  'from' => [
+    '8:00 AM',
+    '02/12/2016'
+  ],
+  'to' => [
+    '11:00 AM',
+    '02/14/2016'
+  ],
+  'cosponsor' => [],
+  'outsideFunding' => 'no',
+  'officer' => {
+    'name' => 'Chimdiya Onwukwe',
+    'phone' => '3012195657',
+    'position' => 'Treasurer',
+    'email' => 'chimdiy1@umbc.edu'
+  },
+  'legislation' => {
+    'for' => '6',
+    'introduced' => 'November 17th, 2015',
+    'opposed' => '0',
+    'abstaining' => '0',
+    'id' => '76-1516',
+    'voted' => 'November 17th, 2015',
+    'absent' => '1',
+    'author' => 'Trent Bae'
+  },
+  'charge' => {
+    'umbc' => '130',
+    'other' => '250'
+  }
+};
+$VAR1 = {
+  'preTotal' => '50',
+  'legislation' => {
+    'id' => '37-1516',
+    'voted' => 'October 6th, 2015',
+    'author' => 'Tret Bae',
+    'abstaining' => '0',
+    'opposed' => '0',
+    'introduced' => 'October 6th, 2015',
+    'absent' => '0',
+    'for' => '6'
+  },
+  'officer' => {
+    'position' => 'President',
+    'phone' => '4437878811',
+    'name' => 'Crystal Yim',
+    'email' => 'cyim1@umbc.edu'
+  },
+  'from' => [
+    '5:00 PM',
+    '10/13/2015'
+  ],
+  'eventName' => 'UMBC alpha Kappa Delta Phi\'s Sweetest Guy Male Pageant for BCA (Breast Cancer Awareness)',
+  'description' => '   The purpose of the request is to provide funding for light and sound for our UMBC Sweetest Guy BCA male pageant event.
+
+',
+  'to' => [
+    '7:00 PM',
+    '10/13/2015'
+  ],
+  'type' => 'Equipment',
+  'cosponsor' => [],
+  'where' => 'Commons Sports Zone',
+  'charge' => {
+    'other' => '0',
+    'umbc' => '0'
+  },
+  'id' => '393',
+  'budget' => {
+    'approved' => {
+      'Total' => '50',
+      'Light' => '25.00',
+      'Sound' => '25.00'
+    },
+    'requested' => {
+      'Sound' => '25.00',
+      'Total' => '50',
+      'Light' => '25.00'
+    }
+  },
+  'approval' => '09/29/2015',
+  'attendees' => {
+    'other' => 10,
+    'umbc' => 50
+  },
+  'outsideFunding' => 'maybe'
+};
+$VAR1 = {
+  'budget' => {
+    'requested' => {
+      'Audio-Visual' => '550.00',
+      'Total' => '2927.4',
+      'Food' => '650.00',
+      'Set-up' => '383.00',
+      'Ticket Staff' => '220.00',
+      'Decorations' => '184.40',
+      'Housekeeping' => '245.00',
+      'Marketing' => '200.00',
+      'Security' => '495.00'
+    },
+    'approved' => {
+      'Security' => '495.00',
+      'Marketing' => '200.00',
+      'Set-up' => '383.00',
+      'Food' => '0.00',
+      'Audio-Visual' => '550.00',
+      'Total' => '2093',
+      'Ticket Staff' => '220.00',
+      'Housekeeping' => '245.00',
+      'Decorations' => '0.00'
+    }
+  },
+  'approval' => '09/28/2015',
+  'where' => 'UC Ballroom',
+  'attendees' => {
+    'other' => 100,
+    'umbc' => 350
+  },
+  'legislation' => {
+    'for' => '4',
+    'id' => '34-1516',
+    'absent' => '0',
+    'author' => 'Trent Bae',
+    'abstaining' => '0',
+    'introduced' => 'October 6th, 2015',
+    'opposed' => '2',
+    'voted' => 'October 6th, 2015'
+  },
+  'description' => '   For renting/purchasing the ballroom, equipment, decorations, and food for a cultural show to display South Asian culture to the UMBC student body.
+
+',
+  'preTotal' => '2927.4',
+  'to' => [
+    '10:00 PM',
+    '10/24/2015'
+  ],
+  'outsideFunding' => 'no',
+  'cosponsor' => [],
+  'id' => '387',
+  'from' => [
+    '6:30 PM',
+    '10/24/2015'
+  ],
+  'type' => 'Equipment',
+  'eventName' => 'Ajooba',
+  'charge' => {
+    'umbc' => '0',
+    'other' => '5'
+  },
+  'officer' => {
+    'position' => 'Events Coordinator',
+    'email' => 'mhaque3@umbc.edu',
+    'phone' => '3018146336',
+    'name' => 'Meem Haque'
+  }
+};
+$VAR1 = {
+  'from' => [
+    '7:00 PM',
+    '12/ 5/2015'
+  ],
+  'id' => '389',
+  'approval' => '09/25/2015',
+  'outsideFunding' => 'no',
+  'where' => 'UC Ballroom',
+  'cosponsor' => [],
+  'charge' => {
+    'umbc' => '0',
+    'other' => '15'
+  },
+  'to' => [
+    '11:59 PM',
+    '12/ 5/2015'
+  ],
+  'eventName' => 'Yalda Night',
+  'officer' => {
+    'phone' => '4435151176',
+    'email' => 'm.azimi@umbc.edu',
+    'name' => 'Mohammad Azimi',
+    'position' => 'Treasurer'
+  },
+  'description' => '   The purpose of this request is to accommodate the necessary funds needed to have a successful seventh annual Yalda Night celebration. Such a celebration will not only serve to be gathering for the Persian community of both UMBC and the Washington DC- Baltimore metropolitan area, but also encourage cultural diversity within the UMBC community.
+
+',
+  'preTotal' => '8416',
+  'legislation' => {
+    'id' => '43-1516',
+    'introduced' => 'October 13th, 2015',
+    'author' => 'Trent Bae'
+  },
+  'attendees' => {
+    'umbc' => 300,
+    'other' => 50
+  },
+  'budget' => {
+    'requested' => {
+      'Contracts' => '700.00',
+      'UMBC Event Planning' => '0.00',
+      'Master File' => '0.00',
+      'Ticket Staff' => '260.00',
+      'Decorations' => '143.00',
+      'Marketing' => '374.00',
+      'Food' => '4400.00',
+      'Total' => '8416',
+      'Audio-Visual' => '1070.00',
+      'Costume' => '150.00',
+      'Security' => '705.00',
+      'Set-up' => '369.00',
+      'Housekeeping' => '245.00'
+    },
+    'approved' => {
+      'Total' => '7866',
+      'Costume' => '150.00',
+      'Security' => '705.00',
+      'Audio-Visual' => '1070.00',
+      'Set-up' => '369.00',
+      'Housekeeping' => '245.00',
+      'UMBC Event Planning' => '0.00',
+      'Master File' => '0.00',
+      'Contracts' => '650.00',
+      'Ticket Staff' => '260.00',
+      'Decorations' => '143.00',
+      'Marketing' => '374.00',
+      'Food' => '3900.00'
+    }
+  },
+  'type' => 'Equipment'
+};
+$VAR1 = {
+  'charge' => {
+    'umbc' => '0',
+    'other' => '10'
+  },
+  'from' => [
+    '6:30 PM',
+    '11/21/2015'
+  ],
+  'type' => 'Equipment',
+  'preTotal' => '8770',
+  'where' => 'UC Ballroom ',
+  'eventName' => 'AIDS Banquet Funding Request',
+  'outsideFunding' => 'no',
+  'budget' => {
+    'approved' => {},
+    'requested' => {
+      'Ticket Staff' => '180.00',
+      'Housekeeping' => '240.00',
+      'Marketing' => '220.00',
+      'Decorations' => '1000.00',
+      'Set-up' => '300.00',
+      'Total' => '8770',
+      'Contracts' => '4000.00',
+      'Food' => '2500.00',
+      'Security' => '330.00'
+    }
+  },
+  'legislation' => {
+    'author' => 'Trent',
+    'abstaining' => '1',
+    'for' => '3',
+    'absent' => '2',
+    'introduced' => 'November 3rd, 2015',
+    'id' => '61-1516',
+    'voted' => 'November 3rd, 2015',
+    'opposed' => '1'
+  },
+  'id' => '386',
+  'officer' => {
+    'phone' => '301-448-5958',
+    'name' => 'Anwar Gebremichael',
+    'email' => 'ag10@umbc.edu',
+    'position' => 'Treasurer'
+  },
+  'cosponsor' => [],
+  'description' => '   To get funding for our annual banquet to raise awareness for AIDS to the UMBC community.
+
+',
+  'approval' => '09/22/2015',
+  'attendees' => {
+    'other' => 50,
+    'umbc' => 250
+  },
+  'to' => [
+    '10:00 PM',
+    '11/21/2015'
+  ]
+};
+$VAR1 = {
+  'outsideFunding' => 'no',
+  'firstTime' => 'yes',
+  'eventName' => 'Funding Request for American Dental Association National Conference',
+  'description' => '   The Pre-Dental Society is asking for funding to have19 of its members attend the American Dental Association National Conference being held this year in Washington,DC. The society\'s goal is to best prepare and encourage student for dental school, build a stronger dental community, and work to diminish the opportunity gap faced in higher education. We believe that the conference supports our mission and will provide a rare opportunity for exposure to the field.
+
+',
+  'where' => 'Washington,DC',
+  'preTotal' => '950',
+  'attendees' => {
+    'umbc' => '19',
+    'total' => '0'
+  },
+  'to' => [
+    '12:00 AM',
+    '10/ 9/2015'
+  ],
+  'legislation' => {
+    'abstaining' => '0',
+    'for' => '5',
+    'opposed' => '0',
+    'id' => '32-1516',
+    'voted' => 'September 29th, 2015',
+    'introduced' => 'September 29th, 2015',
+    'author' => 'Trent Bae',
+    'absent' => '1'
+  },
+  'approval' => '09/21/2015',
+  'charge' => {
+    'other' => '0',
+    'umbc' => '0'
+  },
+  'id' => '384',
+  'cosponsor' => [],
+  'officer' => {
+    'email' => 'bhorne1@umbc.edu',
+    'name' => 'Bri\'Anna Horne',
+    'position' => 'Treasurer',
+    'phone' => '443-882-8502'
+  },
+  'from' => [
+    '11:00 PM',
+    '10/ 9/2015'
+  ],
+  'budget' => {
+    'approved' => {
+      'Total' => '950',
+      'Conference Registration (19 people)' => '950.00'
+    },
+    'requested' => {
+      'Total' => '950',
+      'Conference Registration (19 people)' => '950.00'
+    }
+  },
+  'type' => 'On Campus'
+};
+$VAR1 = {
+  'description' => '   In order to provide more experiences to the UMBC Climbing Community, we are requesting funds for crash pads, a set of portable padding used to boulder outside. Because of the shorter height, bouldering provides students with more opportunities to climb in a short time period of time. There is also a large set of RCC members who predominately boulder and do not climb high walls so we are addressing the need for certain equipment for our members to boulder outside.
+
+',
+  'legislation' => {
+    'voted' => 'November 3rd, 2015',
+    'absent' => '2',
+    'author' => 'Trent',
+    'introduced' => 'November 3rd, 2015',
+    'abstaining' => '0',
+    'opposed' => '0',
+    'for' => '5',
+    'id' => '58-1516'
+  },
+  'attendees' => {
+    'total' => '0',
+    'umbc' => '0'
+  },
+  'charge' => {
+    'other' => '0',
+    'umbc' => '0'
+  },
+  'outsideFunding' => 'yes',
+  'where' => 'Student Org Cabinet (if it will fit). If not, then our equipment manager will be responsible for their storage. ',
+  'to' => [
+    '12:00 AM',
+    '11/29/2015'
+  ],
+  'type' => 'Equipment',
+  'cosponsor' => [],
+  'approval' => '09/21/2015',
+  'firstTime' => 'yes',
+  'officer' => {
+    'position' => 'Treasuruer',
+    'phone' => '4436902021',
+    'email' => 'sam30@umbc.edu',
+    'name' => 'Samantha McDonald'
+  },
+  'budget' => {
+    'requested' => {
+      'R3 Crash Pad (X2)' => '300.00',
+      'Magnum Crash Pad (X2)' => '520.00',
+      'Boss Hogs Crash Pad (X2)' => '430.00',
+      'Total' => '1250'
+    },
+    'approved' => {
+      'Total' => '950',
+      'Boss Hogs Crash Pad (X2)' => '430.00',
+      'Magnum Crash Pad (X2)' => '520.00',
+      'R3 Crash Pad (X2)' => '0.00'
+    }
+  },
+  'preTotal' => '1250',
+  'eventName' => 'Request for Bouldering Crash Pads',
+  'id' => '383',
+  'from' => [
+    '12:00 AM',
+    '11/27/2015'
+  ]
+};
+$VAR1 = {
+  'from' => [
+    '7:00 PM',
+    '10/17/2015'
+  ],
+  'outsideFunding' => 'no',
+  'type' => 'Equipment',
+  'budget' => {
+    'approved' => {
+      'Ticket Staff' => '120.00',
+      'Total' => '3738',
+      'Security' => '150.00',
+      'Marketing' => '200.00',
+      'Food' => '2500.00',
+      'Housekeeping' => '250.00',
+      'Decorations' => '200.00',
+      'Audio-Visual' => '235.00',
+      'Set-Up' => '83.00'
+    },
+    'requested' => {
+      'Audio-Visual' => '235.00',
+      'Set-Up' => '83.00',
+      'Security' => '150.00',
+      'Total' => '3738',
+      'Marketing' => '200.00',
+      'Food' => '2500.00',
+      'Decorations' => '200.00',
+      'Housekeeping' => '250.00',
+      'Ticket Staff' => '120.00'
+    }
+  },
+  'eventName' => 'Delta Phi Epsilon Cystic Fibrosis Benefit Gala',
+  'approval' => '09/17/2015',
+  'preTotal' => '3738',
+  'cosponsor' => [],
+  'id' => '380',
+  'attendees' => {
+    'other' => 25,
+    'umbc' => 225
+  },
+  'to' => [
+    '10:30 PM',
+    '10/17/2015'
+  ],
+  'description' => '   Throwing a benefit gala to raise money and awareness for our national philanthropy, The Cystic Fibrosis Foundation.
+
+',
+  'where' => 'University Center Ballroom',
+  'officer' => {
+    'name' => 'Nidhi Dheman',
+    'position' => 'Vice President of Operations',
+    'email' => 'ndheman1@umbc.edu',
+    'phone' => '301-273-8255'
+  },
+  'charge' => {
+    'other' => '0',
+    'umbc' => '0'
+  },
+  'legislation' => {
+    'id' => '24-1516',
+    'introduced' => 'September 22nd, 2015',
+    'author' => 'Trent Bae'
+  }
+};
+$VAR1 = {
+  'from' => [
+    '12:00 AM',
+    '09/15/2015'
+  ],
+  'cosponsor' => [],
+  'legislation' => {
+    'id' => '25-1516',
+    'introduced' => 'September 22nd, 2015',
+    'author' => 'Trent Bae'
+  },
+  'attendees' => {
+    'total' => '0',
+    'umbc' => '0'
+  },
+  'type' => 'Equipment',
+  'approval' => '09/15/2015',
+  'id' => '378',
+  'budget' => {
+    'requested' => {
+      'Ping Pong Balls' => '101.94',
+      'NCTTA Tournament Fees' => '250.00',
+      'Game Room Fees' => '576.00',
+      'Total' => '927.94'
+    },
+    'approved' => {
+      'Game Room Fees' => '576.00',
+      'NCTTA Tournament Fees' => '250.00',
+      'Total' => '927.94',
+      'Ping Pong Balls' => '101.94'
+    }
+  },
+  'officer' => {
+    'email' => 'bnat1@umbc.edu',
+    'phone' => '301-379-9389',
+    'position' => 'Treasurer',
+    'name' => 'Nathaniel Baylon'
+  },
+  'description' => '   We would like funding for ping pong balls/paddles to last us through the semester, game room expenses, as well as funding for registration for an off-campus tournament (open to all UMBC undergrads)
+
+',
+  'outsideFunding' => 'no',
+  'where' => 'Game Room',
+  'charge' => {
+    'other' => '0',
+    'umbc' => '0'
+  },
+  'preTotal' => '927.94',
+  'to' => [
+    '12:00 AM',
+    '09/15/2'
+  ],
+  'eventName' => 'Table Tennis Funding',
+  'firstTime' => 'yes'
+};
+$VAR1 = {
+  'outsideFunding' => 'no',
+  'budget' => {
+    'requested' => {
+      'Tie Dye Kit' => '60.00',
+      'Total' => '272',
+      'Tie Dye Shirt' => '212.00'
+    },
+    'approved' => {}
+  },
+  'id' => '381',
+  'eventName' => 'INDS Tie Dye',
+  'approval' => '09/15/2015',
+  'charge' => {
+    'umbc' => '0',
+    'other' => '0'
+  },
+  'where' => 'Commons Mainstreet',
+  'to' => [
+    '1:00 PM',
+    '09/30/2015'
+  ],
+  'legislation' => {
+    'voted' => 'September 29th, 2015',
+    'abstaining' => '0',
+    'absent' => '1',
+    'id' => '26-1516',
+    'introduced' => 'September 29th, 2015',
+    'for' => '5',
+    'opposed' => '0',
+    'author' => 'Trent Bae'
+  },
+  'type' => 'Equipment',
+  'firstTime' => 'yes',
+  'attendees' => {
+    'other' => 0,
+    'umbc' => 100
+  },
+  'cosponsor' => [],
+  'preTotal' => '272',
+  'officer' => {
+    'phone' => '410-292-3873',
+    'position' => 'President',
+    'email' => 'maniraj1@umbc.edu',
+    'name' => 'Maniraj Jeyaraju'
+  },
+  'from' => [
+    '11:00 AM',
+    '09/30/2015'
+  ],
+  'description' => '   We want to have a social event to promote interaction among all UMBC students. This event is for community building between the INDS CoM and UMBC students. This is our first community building event in a few years. Due to our increased participation in our CoM, this seems like a perfect time to strengthen the networks
+
+'
+};
+$VAR1 = {
+  'eventName' => 'National Model United Nations DC Conference',
+  'from' => [
+    '9:00 AM',
+    '10/30/2015'
+  ],
+  'preTotal' => '1520',
+  'budget' => {
+    'requested' => {
+      'Delegate Fees' => '1520.00',
+      'Total' => '1520'
+    },
+    'approved' => {
+      'Total' => '1520',
+      'Delegate Fees' => '1520.00'
+    }
+  },
+  'officer' => {
+    'position' => 'President',
+    'name' => 'Hanna Dasoo',
+    'email' => 'hanna9@umbc.edu',
+    'phone' => '4104402757'
+  },
+  'where' => 'Washington Marriott Wardman Park Hotel (Washington, DC)',
+  'charge' => {
+    'umbc' => '0',
+    'other' => '0'
+  },
+  'approval' => '09/14/2015',
+  'id' => '377',
+  'outsideFunding' => 'yes',
+  'description' => '   Model UN would like to request funds to help pay for our upcoming conference in Washington, DC.
+
+',
+  'type' => 'On Campus',
+  'legislation' => {
+    'introduced' => 'September 15th, 2015',
+    'absent' => '2',
+    'for' => '4',
+    'author' => 'Trent Bae',
+    'opposed' => '0',
+    'abstaining' => '0',
+    'voted' => 'September 15th, 2015',
+    'id' => '20-1516'
+  },
+  'cosponsor' => [],
+  'to' => [
+    '9:00 PM',
+    '11/ 1/2015'
+  ],
+  'attendees' => {
+    'umbc' => 16,
+    'other' => 0
+  }
+};
+$VAR1 = {
+  'to' => [
+    '10:00 PM',
+    '09/29/2015'
+  ],
+  'id' => '376',
+  'attendees' => {
+    'other' => 0,
+    'umbc' => 125
+  },
+  'where' => 'Harbor MPR/Courtyard',
+  'approval' => '09/14/2015',
+  'eventName' => 'Mid-Autumn Festival',
+  'from' => [
+    '6:30 PM',
+    '09/29/2015'
+  ],
+  'officer' => {
+    'phone' => '2403885538',
+    'position' => 'President',
+    'email' => 'valyu1@umbc.edu',
+    'name' => 'Valerie Yu'
+  },
+  'budget' => {
+    'requested' => {
+      'Total' => '861.5',
+      'Tableware' => '45.00',
+      'Commonvision' => '241.50',
+      'Latern Material' => '35.00',
+      'Red Table Cloth' => '10.00',
+      'Fruit' => '40.00',
+      'Egg Rolls' => '160.00',
+      'Drinks (Soda/Water/Milk Tea)' => '30.00',
+      'Moon Cakes' => '150.00',
+      'Dumplings' => '150.00'
+    },
+    'approved' => {
+      'Moon Cakes' => '161.70',
+      'Dumplings' => '0.00',
+      'Drinks (Soda/Water/Milk Tea)' => '30.00',
+      'Commonvision' => '241.50',
+      'Latern Material' => '0.00',
+      'Tableware' => '45.00',
+      'Total' => '576.27',
+      'Fruit' => '40.00',
+      'Red Table Cloth' => '10.00',
+      'Egg tarts' => '48.07'
+    }
+  },
+  'description' => '   We hope to share our culture\'s tradition and practices during the time of the Mid-Autumn Festival in order to educate the UMBC community. We hope to accomplish this through latern making, food tastings, and cultural performers.
+
+',
+  'legislation' => {
+    'author' => 'Trent Bae',
+    'introduced' => 'September 22nd, 2015',
+    'id' => '23-1516'
+  },
+  'cosponsor' => [
+    'Vietnamese Student Association'
+  ],
+  'type' => 'Equipment',
+  'outsideFunding' => 'no',
+  'charge' => {
+    'other' => '0',
+    'umbc' => '0'
+  },
+  'preTotal' => '861.5'
+};
+$VAR1 = {
+  'outsideFunding' => 'no',
+  'cosponsor' => [],
+  'type' => 'On Campus',
+  'attendees' => {
+    'total' => '0',
+    'umbc' => '0'
+  },
+  'eventName' => 'Swarthmore Novice Tournament',
+  'officer' => {
+    'position' => 'Treasurer',
+    'phone' => '301-525-3879',
+    'name' => 'Julian Tash',
+    'email' => 'jtash1@umbc.edu'
+  },
+  'charge' => {
+    'other' => '120',
+    'umbc' => '0'
+  },
+  'from' => [
+    '4:00 AM',
+    '09/25/2015'
+  ],
+  'to' => [
+    '6:00 AM',
+    '09/26/2015'
+  ],
+  'approval' => '09/10/2015',
+  'preTotal' => '240',
+  'firstTime' => 'yes',
+  'id' => '374',
+  'legislation' => {
+    'absent' => '2',
+    'introduced' => 'September 15th, 2015',
+    'for' => '4',
+    'abstaining' => '0',
+    'voted' => 'September 15th, 2015',
+    'id' => '18-1516',
+    'author' => 'Trent Bae',
+    'opposed' => '0'
+  },
+  'where' => '',
+  'budget' => {
+    'approved' => {
+      'Registration' => '240.00',
+      'Total' => '240'
+    },
+    'requested' => {
+      'Registration' => '240.00',
+      'Total' => '240'
+    }
+  }
+};
+$VAR1 = {
+  'type' => 'Equipment',
+  'from' => [
+    '8:00 PM',
+    '10/15/2015'
+  ],
+  'approval' => '09/10/2015',
+  'cosponsor' => [],
+  'where' => 'THAC (Old Theatre)',
+  'attendees' => {
+    'other' => 40,
+    'umbc' => 60
+  },
+  'budget' => {
+    'requested' => {
+      'Security' => '270.00',
+      'Housekeeping' => '365.00',
+      'Total' => '1184.5',
+      'Ticket Staff' => '180.00',
+      'Set-Up' => '19.50',
+      'A/V' => '150.00',
+      'Marketing' => '200.00'
+    },
+    'approved' => {
+      'Security' => '270.00',
+      'Housekeeping' => '365.00',
+      'Set-Up' => '19.50',
+      'Total' => '1184.5',
+      'Ticket Staff' => '180.00',
+      'Marketing' => '200.00',
+      'A/V' => '150.00'
+    }
+  },
+  'outsideFunding' => 'no',
+  'to' => [
+    '9:30 PM',
+    '10/17/2015'
+  ],
+  'officer' => {
+    'phone' => '443-289-0663',
+    'email' => 'xq92614@umbc.edu',
+    'name' => 'Caleb Metcalf',
+    'position' => 'Treasurer'
+  },
+  'preTotal' => '1184.5',
+  'description' => '   New Playwright\'s Festival showcases new student-written, -directed, -acted, and -produced plays, ranging from short to full-length. It is an opportunity for students to display their theatre talents (from acting to writing) without having to be a theatre major at UMBC. This event has been successful in the past. The funds being requested are for tables/chairs, basic sound and lighting, staff for the event, and marketing, all of which are necessary to bring New Playwright\'s to life.
+
+',
+  'charge' => {
+    'other' => '0',
+    'umbc' => '0'
+  },
+  'eventName' => 'New Playwright\'s Festival',
+  'id' => '368',
+  'legislation' => {
+    'introduced' => 'September 29th, 2015',
+    'abstaining' => '0',
+    'for' => '5',
+    'author' => 'Trent Bae',
+    'absent' => '1',
+    'voted' => 'September 29th, 2015',
+    'opposed' => '0',
+    'id' => '30-1516'
+  }
+};
+$VAR1 = {
+  'legislation' => {
+    'for' => '5',
+    'introduced' => 'September 29th, 2015',
+    'author' => 'Trent Bae',
+    'opposed' => '0',
+    'voted' => 'September 29th, 2015',
+    'abstaining' => '0',
+    'absent' => '1',
+    'id' => '29-1516'
+  },
+  'outsideFunding' => 'no',
+  'to' => [
+    '10:00 PM',
+    '11/13/2015'
+  ],
+  'budget' => {
+    'requested' => {
+      'A/V' => '1140.00',
+      'Set-Up' => '100.00',
+      'Total' => '1440',
+      'Marketing' => '200.00'
+    },
+    'approved' => {
+      'Marketing' => '200.00',
+      'Total' => '1440',
+      'Set-Up' => '100.00',
+      'A/V' => '1140.00'
+    }
+  },
+  'description' => '   Friday Night Live is UMBC\'s sketch comedy show, complete with stand-up comic/host and a live band. Sketches are written, directed, acted, and produced by UMBC students. This event has been received very well in the past and become a crowd favorite in just a year since its birth. Funds requested are for mainly A/V, which is crucial to the show\'s format. We are also requesting funds for set-up and marketing.
+
+',
+  'charge' => {
+    'umbc' => '0',
+    'other' => '0'
+  },
+  'officer' => {
+    'email' => 'xq92614@umbc.edu',
+    'phone' => '443-289-0663',
+    'position' => 'Treasurer',
+    'name' => 'Caleb Metcalf'
+  },
+  'attendees' => {
+    'umbc' => 30,
+    'other' => 10
+  },
+  'id' => '369',
+  'cosponsor' => [],
+  'from' => [
+    '6:30 PM',
+    '11/12/2015'
+  ],
+  'where' => 'Lower Flat Tuesday\'s',
+  'preTotal' => '1440',
+  'eventName' => 'Friday Night Live',
+  'type' => 'Equipment',
+  'approval' => '09/10/2015'
+};
+$VAR1 = {
+  'preTotal' => '295',
+  'legislation' => {
+    'author' => 'Trent Bae',
+    'introduced' => 'September 22nd, 2015',
+    'id' => '22-1516'
+  },
+  'attendees' => {
+    'other' => 50,
+    'umbc' => 150
+  },
+  'budget' => {
+    'requested' => {
+      'Security' => '75.00',
+      'Non-ticketed Event Marketing Package' => '200.00',
+      'Total' => '295',
+      'Audio-Visual' => '20.00'
+    },
+    'approved' => {
+      'Total' => '295',
+      'Audio-Visual' => '20.00',
+      'Security' => '75.00',
+      'Non-ticketed Event Marketing Package' => '200.00'
+    }
+  },
+  'to' => [
+    '10:00 PM',
+    '12/ 4/2015'
+  ],
+  'type' => 'Equipment',
+  'cosponsor' => [],
+  'firstTime' => 'yes',
+  'description' => '   The purpose of the funding will be to provide security and marketing for the free improv show that Dog-Collar Comedy holds on campus. We would like to pay for two student marshals at the event as well as the standard non-ticketed event marketing package. There is also a small amount asked for audio-visual assistance because we display our logo during the show and open with a comedic video.
+
+',
+  'eventName' => 'Improv Show',
+  'from' => [
+    '8:00 PM',
+    '12/ 4/2015'
+  ],
+  'id' => '373',
+  'where' => 'ITE 104',
+  'outsideFunding' => 'no',
+  'officer' => {
+    'email' => 'sseiss1@umbc.edu',
+    'name' => 'Scott Seiss'
+  },
+  'approval' => '09/10/2015',
+  'charge' => {
+    'other' => '0',
+    'umbc' => '0'
+  }
+};
+$VAR1 = {
+  'type' => 'Equipment',
+  'legislation' => {
+    'voted' => 'September 29th, 2015',
+    'opposed' => '0',
+    'id' => '27-1516',
+    'absent' => '1',
+    'author' => 'Trent Bae',
+    'for' => '5',
+    'abstaining' => '0',
+    'introduced' => 'September 29th, 2015'
+  },
+  'officer' => {
+    'phone' => '4439292329',
+    'email' => 'aenn1@umbc.edu',
+    'position' => 'President',
+    'name' => 'Albert Ennison'
+  },
+  'budget' => {
+    'approved' => {
+      'Total' => '2999.99',
+      'Ticket Staff' => '150.00',
+      'Security' => '360.00',
+      'Decorations' => '275.00',
+      'Food' => '243.49',
+      'Marketing' => '200.00',
+      'Audio-Visual' => '1010.00',
+      'Contracts' => '300.00',
+      'Housekeeping' => '245.00',
+      'Set-up' => '216.50'
+    },
+    'requested' => {
+      'Security' => '0.00',
+      'Decorations' => '272.00',
+      'Total' => '1272',
+      'Ticket Staff' => '0.00',
+      'Food' => '1000.00',
+      'Marketing' => '0.00',
+      'Contracts' => '0.00',
+      'Housekeeping' => '0.00',
+      'Set-up' => '0.00',
+      'Audio-Visual' => '0.00'
+    }
+  },
+  'from' => [
+    '6:00 PM',
+    '11/15/2015'
+  ],
+  'description' => '   We are Requesting an allocation to support our annual, fall event this year. The cultural event has been the highlight of our fall semester for the past few years. We recently upgraded the event and combined it with the crowning ceremony of our Mr and Miss ASA contestants.
+
+',
+  'to' => [
+    '10:00 PM',
+    '11/15/2015'
+  ],
+  'approval' => '09/ 9/2015',
+  'eventName' => 'Africa Rising: Mr. and Miss ASA',
+  'attendees' => {
+    'umbc' => 250,
+    'other' => 100
+  },
+  'cosponsor' => [],
+  'outsideFunding' => 'maybe',
+  'charge' => {
+    'umbc' => '0',
+    'other' => '10'
+  },
+  'where' => 'UMBC University Center Ballroom',
+  'id' => '370',
+  'preTotal' => '1272'
+};
+$VAR1 = {
+  'id' => '367',
+  'charge' => {
+    'other' => '0',
+    'umbc' => '0'
+  },
+  'approval' => '09/ 8/2015',
+  'legislation' => {
+    'absent' => '1',
+    'author' => 'Trent Bae',
+    'voted' => 'September 29th, 2015',
+    'abstaining' => '0',
+    'id' => '28-1516',
+    'opposed' => '0',
+    'for' => '5',
+    'introduced' => 'September 29th, 2015'
+  },
+  'outsideFunding' => 'no',
+  'where' => 'THAC (Old Theatre)',
+  'description' => '   New Playwright\'s Festival showcases brand new student-written, -directed, -acted, and -produced plays for fellow UMBC students. Student plays are submitted to, then reviewed by TheatreCOM. Directors and techies are found, and auditions are held for actors, all a month in advance. On the show dates, all of their hard work pays off before a live audience of their peers. It is an exciting experience for all involved.
+
+',
+  'type' => 'Equipment',
+  'officer' => {
+    'name' => 'Caleb Metcalf',
+    'position' => 'Treasurer',
+    'email' => 'xq92614@umbc.edu',
+    'phone' => '443-289-0663'
+  },
+  'preTotal' => '1184.5',
+  'from' => [
+    '8:00 PM',
+    '10/15/2015'
+  ],
+  'budget' => {
+    'approved' => {
+      'Total' => '1184.5',
+      'Security' => '270.00',
+      'Housekeeping' => '365.00',
+      'Tables/chairs' => '19.50',
+      'Ticket staff' => '180.00',
+      'A/V' => '150.00',
+      'Marketing' => '200.00'
+    },
+    'requested' => {
+      'Marketing' => '200.00',
+      'A/V' => '150.00',
+      'Ticket staff' => '180.00',
+      'Tables/chairs' => '19.50',
+      'Total' => '1184.5',
+      'Housekeeping' => '365.00',
+      'Security' => '270.00'
+    }
+  },
+  'attendees' => {
+    'other' => 40,
+    'umbc' => 60
+  },
+  'to' => [
+    '9:30 PM',
+    '10/17/2015'
+  ],
+  'cosponsor' => [],
+  'eventName' => 'New Playwright\'s Festival'
+};
+$VAR1 = {
+  'id' => '366',
+  'type' => 'Equipment',
+  'budget' => {
+    'requested' => {
+      'Conference Registration' => '360.00',
+      'Lodging' => '234.00',
+      'Total' => '862',
+      'Gas' => '100.00',
+      'Food' => '168.00'
+    },
+    'approved' => {
+      'Conference Registration' => '0.00',
+      'Lodging' => '0.00',
+      'Total' => '90',
+      'Food' => '0.00',
+      'Gas' => '90.00'
+    }
+  },
+  'legislation' => {
+    'voted' => 'September 15th, 2015',
+    'for' => '4',
+    'absent' => '2',
+    'id' => '17-1516',
+    'introduced' => 'September 15th, 2015',
+    'abstaining' => '0',
+    'opposed' => '0',
+    'author' => 'Trent Bae'
+  },
+  'approval' => '09/ 8/2015',
+  'charge' => {
+    'umbc' => '0',
+    'other' => '0'
+  },
+  'eventName' => 'Engineers Without Borders Southeast Regional Conference',
+  'attendees' => {
+    'umbc' => 4,
+    'other' => 0
+  },
+  'preTotal' => '862',
+  'outsideFunding' => 'maybe',
+  'officer' => {
+    'email' => 'benoit1@umbc.edu',
+    'name' => 'Joshua Benoit',
+    'phone' => '410-564-6345',
+    'position' => 'Treasurer'
+  },
+  'description' => '   EWB\'s Southeast regional Conference is an opportunity for us as a club to collaborate with a diverse group of problem solvers and thought leaders , and to identify and design appropriate solutions to common obstacles in community-driven development both here at UMBC and in our projects abroad.
+
+',
+  'where' => 'North Carolina State University',
+  'to' => [
+    '12:00 PM',
+    '10/ 4/2015'
+  ],
+  'from' => [
+    '12:00 PM',
+    '10/ 2/2015'
+  ],
+  'cosponsor' => []
+};
+$VAR1 = {
+  'description' => '   To spread awareness of the Middle Eastern culture through a night of dancing, entertainment, and cuisine.
+
+',
+  'outsideFunding' => 'no',
+  'type' => 'Equipment',
+  'to' => [
+    '11:25 PM',
+    '11/ 6/2015'
+  ],
+  'preTotal' => '7523',
+  'legislation' => {
+    'absent' => 'Maryland, Baltimore County, and has received the votes indicated above.',
+    'voted' => '____________________________________ Date: _____________________',
+    'for' => 'September 29th, 2015',
+    'introduced' => 'September 29th, 2015',
+    'opposed' => '',
+    'author' => 'Trent Bae',
+    'abstaining' => 'This document has been presented to the Student Government Association Finance Board of the University of',
+    'id' => '31-1516'
+  },
+  'where' => 'UC Ballroom',
+  'charge' => {
+    'other' => '10',
+    'umbc' => '0'
+  },
+  'cosponsor' => [],
+  'approval' => '09/ 7/2015',
+  'budget' => {
+    'approved' => {
+      'decorations' => '0.00',
+      'Food' => '2520.00',
+      'Comedian' => '2500.00',
+      'ticket staff' => '180.00',
+      'Total' => '7223',
+      'marketing' => '220.00',
+      'henna artist' => '150.00',
+      'Security' => '593.00',
+      'audio visual' => '560.00',
+      'house keeping' => '240.00',
+      'set up' => '260.00'
+    },
+    'requested' => {
+      'decorations' => '300.00',
+      'Food' => '2520.00',
+      'Security' => '593.00',
+      'henna artist' => '150.00',
+      'Total' => '7523',
+      'ticket staff' => '180.00',
+      'marketing' => '220.00',
+      'Comedian' => '2500.00',
+      'set up' => '260.00',
+      'house keeping' => '240.00',
+      'audio visual' => '560.00'
+    }
+  },
+  'attendees' => {
+    'other' => 150,
+    'umbc' => 150
+  },
+  'from' => [
+    '7:00 PM',
+    '11/ 6/2015'
+  ],
+  'officer' => {
+    'phone' => '240-413-9308',
+    'position' => 'Treasurer',
+    'email' => 'jdemirj1@umbc.edu',
+    'name' => 'Jessica Demirji'
+  },
+  'eventName' => 'Night in Arabia',
+  'id' => '363'
+};
+$VAR1 = {
+  'type' => 'On Campus',
+  'charge' => {
+    'other' => '0',
+    'umbc' => '0'
+  },
+  'legislation' => {
+    'introduced' => 'September 15th, 2015',
+    'absent' => '2',
+    'voted' => 'September 15th, 2015',
+    'id' => '19-1516',
+    'for' => '4',
+    'abstaining' => '0',
+    'author' => 'Trent Bae',
+    'opposed' => '0'
+  },
+  'cosponsor' => [],
+  'where' => 'Harvard University',
+  'id' => '360',
+  'eventName' => 'Harvard Debate and APDA Meeting',
+  'preTotal' => '360',
+  'from' => [
+    '4:00 AM',
+    '10/16/2015'
+  ],
+  'description' => '   UMBC would like to participate in a debate at Harvard University. A national APDA meeting is to take place during the tournament.
+
+',
+  'budget' => {
+    'approved' => {
+      'Total' => '360',
+      '3' => '360.00'
+    },
+    'requested' => {
+      'Total' => '360',
+      '3' => '360.00'
+    }
+  },
+  'officer' => {
+    'phone' => '301-525-3879',
+    'name' => 'Julian Tash',
+    'email' => 'jtash1@umbc.edu',
+    'position' => 'Treasurer'
+  },
+  'approval' => '09/ 6/2015',
+  'outsideFunding' => 'no',
+  'attendees' => {
+    'umbc' => 6,
+    'other' => 394
+  },
+  'to' => [
+    '7:00 AM',
+    '10/17/2015'
+  ]
+};
+$VAR1 = {
+  'where' => 'UC Ballroom',
+  'type' => 'Equipment',
+  'officer' => {
+    'phone' => '443-929-4839',
+    'email' => 'shgrier1@umbc.edu',
+    'name' => 'Shanelle Grier',
+    'position' => 'President'
+  },
+  'charge' => {
+    'other' => '0',
+    'umbc' => '0'
+  },
+  'outsideFunding' => 'no',
+  'description' => '   Zeta Sigma Chi\'s is hosting a free haunted house for UMBC students to celebrate Halloween.
+
+',
+  'approval' => '08/27/2015',
+  'eventName' => 'Zeta Sigma Chi\'s Haunted House',
+  'to' => [
+    '11:00 PM',
+    '10/30/2015'
+  ],
+  'cosponsor' => [],
+  'from' => [
+    '7:00 PM',
+    '10/30/2015'
+  ],
+  'budget' => {
+    'approved' => {},
+    'requested' => {
+      'Set-Up' => '330.00',
+      'Housekeeping' => '243.00',
+      'Marketing' => '300.00',
+      'Contracts' => '7000.00',
+      'Ticket Staff' => '100.00',
+      'Security' => '300.00',
+      'Audio Visual' => '25.00',
+      'Total' => '8298'
+    }
+  },
+  'id' => '358',
+  'attendees' => {
+    'umbc' => 300,
+    'other' => 0
+  },
+  'preTotal' => '8298',
+  'legislation' => {
+    'opposed' => '0',
+    'id' => '15-1516',
+    'absent' => '2',
+    'voted' => 'September 15th, 2015',
+    'abstaining' => '0',
+    'introduced' => 'September 15th, 2015',
+    'for' => '4',
+    'author' => 'Trent Bae'
+  }
+};
+$VAR1 = {
+  'preTotal' => '1670',
+  'officer' => {
+    'position' => 'Treasurer',
+    'email' => 'am26@umbc.edu',
+    'name' => 'Ali Mark',
+    'phone' => '609-751-3906'
+  },
+  'charge' => {
+    'umbc' => '0',
+    'other' => '5'
+  },
+  'description' => '   We need funding for our annual showcase. This event is all inclusive (no one who auditions is turned away) and it gives students who do not want to audition the opportunity to watch their peers perform. We need funding for the technical and house keeping services required to make this event possible.
+
+',
+  'to' => [
+    '10:00 PM',
+    '11/ 7/2015'
+  ],
+  'attendees' => {
+    'umbc' => 190,
+    'other' => 150
+  },
+  'id' => '357',
+  'approval' => '08/26/2015',
+  'budget' => {
+    'requested' => {
+      'Security (2 people, 3.5 hours, 3 days)' => '315.00',
+      'Set Up (tables, chairs)' => '20.00',
+      'Marketing (Updated Ticketing Package + extra tickets)' => '241.00',
+      'Total' => '1670',
+      'Housekeeping (Thurs: 1 person, 6-10pm, Fri: 1 person, 6-10pm, Sat: 2 people 6-10pm)' => '494.00',
+      'Ticket Staff (3 ticketing staff, 2 hours, 3 shows)' => '180.00',
+      'Audio-visual (basic sound, basic lighting, 2 wireless handheld mics (Monday-Saturday))' => '420.00'
+    },
+    'approved' => {
+      'Audio-visual (basic sound, basic lighting, 2 wireless handheld mics (Monday-Saturday))' => '420.00',
+      'Total' => '1670',
+      'Ticket Staff (3 ticketing staff, 2 hours, 3 shows)' => '180.00',
+      'Housekeeping (Thurs: 1 person, 6-10pm, Fri: 1 person, 6-10pm, Sat: 2 people 6-10pm)' => '494.00',
+      'Security (2 people, 3.5 hours, 3 days)' => '315.00',
+      'Marketing (Updated Ticketing Package + extra tickets)' => '241.00',
+      'Set Up (tables, chairs)' => '20.00'
+    }
+  },
+  'where' => 'Old Theatre',
+  'from' => [
+    '7:00 PM',
+    '11/ 5/2015'
+  ],
+  'eventName' => 'MTC Showcase',
+  'type' => 'Equipment',
+  'outsideFunding' => 'no',
+  'cosponsor' => [],
+  'legislation' => {
+    'id' => '14-1516',
+    'introduced' => 'September 8th, 2015',
+    'absent' => '1',
+    'abstaining' => '0',
+    'for' => '5',
+    'opposed' => '0',
+    'voted' => 'September 8th, 2015',
+    'author' => 'Trent Bae'
+  }
+};
+$VAR1 = {
+  'where' => 'Baja Shop, located next to Auto shop.',
+  'charge' => {
+    'umbc' => '0',
+    'other' => '0'
+  },
+  'id' => '356',
+  'eventName' => '2016 UMBC Baja Vehicle',
+  'officer' => {
+    'email' => 'pd5@umbc.edu',
+    'phone' => '240-480-5574',
+    'position' => 'President',
+    'name' => 'Paul Darling'
+  },
+  'attendees' => {
+    'umbc' => 35,
+    'other' => 0
+  },
+  'cosponsor' => [],
+  'from' => [
+    '3:00 AM',
+    '09/29/2015'
+  ],
+  'budget' => {
+    'approved' => {
+      'Tooling' => '1860.00',
+      'Raw Materials' => '8391.00',
+      'Total' => '15090',
+      'Testing' => '2072.00',
+      'Design Lab' => '288.00',
+      'Suspension, Tires, Brakes' => '2479.00'
+    },
+    'requested' => {
+      'Design Lab' => '288.00',
+      'Suspension, Tires, Brakes' => '2479.00',
+      'Tooling' => '1860.00',
+      'Raw Materials' => '8391.00',
+      'Total' => '15090',
+      'Testing' => '2072.00'
+    }
+  },
+  'outsideFunding' => 'yes',
+  'type' => 'Equipment',
+  'approval' => '08/26/2015',
+  'legislation' => {
+    'for' => '6',
+    'absent' => '0',
+    'introduced' => 'September 1st, 2015',
+    'id' => '5-1516',
+    'author' => 'Trent Bae',
+    'opposed' => '0',
+    'abstaining' => '0',
+    'voted' => 'September 1st, 2015'
+  },
+  'to' => [
+    '12:00 AM',
+    '06/ 8/2016'
+  ],
+  'description' => '   The purpose of the Society of Automotive Engineers (SAE), is to design, build, and compete in an international collegiate competition called Baja SAE. Students design nearly every aspect of the vehicle, and build it from scratch in the on campus Baja shop. Every year, the vehicle is used in international competition with three races across the US. Students learn valuable real world skills, and the club is open to anyone, regardless of major.
+
+',
+  'preTotal' => '15090'
+};
+$VAR1 = {
+  'cosponsor' => [],
+  'to' => [
+    '8:00 PM',
+    '10/ 2/2015'
+  ],
+  'id' => '355',
+  'officer' => {
+    'position' => 'Treasurer',
+    'name' => 'Matthew Wesloh',
+    'email' => 'wesloh1@umbc.edu',
+    'phone' => '443-821-1333'
+  },
+  'charge' => {
+    'other' => '0',
+    'umbc' => '0'
+  },
+  'outsideFunding' => 'no',
+  'description' => '   We plan to build rockets on October second and launch them on a monthly basis starting on the ninth of October. Usually launches are more popular during the warmer months.
+
+',
+  'preTotal' => '470',
+  'approval' => '08/26/2015',
+  'attendees' => {
+    'other' => 0,
+    'umbc' => 30
+  },
+  'legislation' => {
+    'author' => 'Trent Bae',
+    'opposed' => '0',
+    'for' => '6',
+    'absent' => '0',
+    'id' => '4-1516',
+    'abstaining' => '0',
+    'introduced' => 'September 1st, 2015',
+    'voted' => 'September 1st, 2015'
+  },
+  'budget' => {
+    'approved' => {
+      'Model rocket kits (4 packs of 12)' => '236.00',
+      'Model rocket engines(4 boxes of 24)' => '234.00',
+      'Total' => '470'
+    },
+    'requested' => {
+      'Model rocket engines(4 boxes of 24)' => '234.00',
+      'Total' => '470',
+      'Model rocket kits (4 packs of 12)' => '236.00'
+    }
+  },
+  'from' => [
+    '4:00 PM',
+    '10/ 2/2015'
+  ],
+  'type' => 'Equipment',
+  'where' => '',
+  'eventName' => 'Rocket launch 1'
+};
+$VAR1 = {
+  'legislation' => {
+    'id' => '7-1516',
+    'absent' => '',
+    'abstaining' => 'September 1st, 2015',
+    'voted' => 'This document has been presented to the Student Government Association Finance Board of the University of',
+    'author' => 'Trent Bae',
+    'introduced' => 'September 1st, 2015',
+    'opposed' => '0',
+    'for' => '0'
+  },
+  'id' => '353',
+  'outsideFunding' => 'no',
+  'from' => [
+    '7:30 PM',
+    '10/23/2015'
+  ],
+  'attendees' => {
+    'umbc' => 300,
+    'other' => 150
+  },
+  'to' => [
+    '1:00 AM',
+    '10/24/2015'
+  ],
+  'description' => '   Garba is essentially a form of dance, commonly performed at the festival of Navarati. Garba performances include singing and dancing in a circle. The lively and colorful dance form’s popularity is such that Garba festivals are organized in almost every corner of the country today to grace the occasion of Navarti. Raas N\' Dhol includes Garba in celebration of Navarti and Bhangra for fast pace dancing to end the night.
+
+',
+  'officer' => {
+    'name' => 'Karndeep Singh',
+    'position' => 'Treasurer',
+    'email' => 'ksingh5@umbc.edu',
+    'phone' => '443-835-5820'
+  },
+  'preTotal' => '4695',
+  'budget' => {
+    'requested' => {
+      'Decorations' => '50.00',
+      'Security' => '765.00',
+      'Contract - Band' => '1500.00',
+      'Housekeeping' => '244.00',
+      'Audio-Visual' => '860.00',
+      'Marketing' => '200.00',
+      'Total' => '4695',
+      'Beverage' => '130.00',
+      'Contract- DJ' => '250.00',
+      'Set-up' => '21.00',
+      'Ticket Staff' => '225.00',
+      'Food' => '450.00'
+    },
+    'approved' => {
+      'Food' => '450.00',
+      'Ticket Staff' => '225.00',
+      'Set-up' => '21.00',
+      'Contract- DJ' => '250.00',
+      'Total' => '4695',
+      'Beverage' => '130.00',
+      'Marketing' => '200.00',
+      'Security' => '765.00',
+      'Contract - Band' => '1500.00',
+      'Housekeeping' => '244.00',
+      'Audio-Visual' => '860.00',
+      'Decorations' => '50.00'
+    }
+  },
+  'approval' => '08/24/2015',
+  'eventName' => 'Raas N\' Dhol',
+  'charge' => {
+    'umbc' => '0',
+    'other' => '0'
+  },
+  'cosponsor' => [],
+  'type' => 'Equipment',
+  'where' => 'UC Ballroom'
+};
+$VAR1 = {
+  'charge' => {
+    'other' => '0',
+    'umbc' => '0'
+  },
+  'id' => '352',
+  'where' => 'Main Street in the Commons',
+  'description' => '   Each semester, the Linux Users\' Group runs Installfest, at which seasoned Linux users volunteer to help newbies to either try out or install Linux on their own computers. Our attending members help each other to provide new and potential Linux users the best possible introduction to our favorite operating system. It is our largest club event, and has been traditional for many years.
+
+',
+  'legislation' => {
+    'voted' => 'September 1st, 2015',
+    'opposed' => '0',
+    'introduced' => 'September 1st, 2015',
+    'author' => 'Trent Bae',
+    'for' => '6',
+    'id' => '8-1516',
+    'abstaining' => '0',
+    'absent' => '0'
+  },
+  'cosponsor' => [],
+  'to' => [
+    '6:00 PM',
+    '10/16/2015'
+  ],
+  'officer' => {
+    'position' => 'President',
+    'name' => 'Alexander Bauer',
+    'email' => 'sasha@umbc.edu',
+    'phone' => '443-547-6968'
+  },
+  'attendees' => {
+    'umbc' => 30,
+    'other' => 0
+  },
+  'type' => 'Equipment',
+  'from' => [
+    '12:00 PM',
+    '10/16/2015'
+  ],
+  'preTotal' => '149',
+  'outsideFunding' => 'no',
+  'eventName' => 'Installfest',
+  'budget' => {
+    'requested' => {
+      'Total' => '149',
+      'Tables and chairs' => '24.00',
+      'Choice Event Highlight' => '100.00',
+      'Buttons for Attendees' => '25.00'
+    },
+    'approved' => {
+      'Choice Event Highlight' => '100.00',
+      'Buttons for Attendees' => '0.00',
+      'Tables and chairs' => '24.00',
+      'Total' => '124'
+    }
+  },
+  'approval' => '08/22/2015'
+};
+$VAR1 = {
+  'firstTime' => 'yes',
+  'preTotal' => '999',
+  'charge' => {
+    'umbc' => '0',
+    'other' => '0'
+  },
+  'where' => '',
+  'to' => [
+    '12:00 AM',
+    '12/ 8/2015'
+  ],
+  'attendees' => {
+    'umbc' => 35,
+    'other' => 0
+  },
+  'type' => 'Equipment',
+  'cosponsor' => [],
+  'from' => [
+    '12:00 AM',
+    '09/ 1/2015'
+  ],
+  'id' => '351',
+  'officer' => {
+    'name' => 'Rebecca Haddaway',
+    'email' => 'hadda1@umbc.edu'
+  },
+  'outsideFunding' => 'no',
+  'budget' => {
+    'approved' => {
+      'Book Two' => '0.00',
+      'Book Three' => '0.00',
+      'Book One' => '334.00',
+      'Total' => '334'
+    },
+    'requested' => {
+      'Book Two' => '333.00',
+      'Book One' => '333.00',
+      'Book Three' => '333.00',
+      'Total' => '999'
+    }
+  },
+  'approval' => '08/17/2015',
+  'eventName' => 'Request for Book Funds',
+  'legislation' => {
+    'opposed' => '0',
+    'voted' => 'September 8th, 2015',
+    'absent' => '1',
+    'author' => 'Trent Bae',
+    'introduced' => 'September 8th, 2015',
+    'abstaining' => '0',
+    'id' => '12-1516',
+    'for' => '5'
+  },
+  'description' => '   Our book club is requesting funds to purchase books for the fall semester. We are accounting for thirty-five members, and we are assuming that each member will read three books during the fall semester (one per month). Each book costs between $9 and $10. This amount comes to a little less than $1,000. If we take on more members, we will apply for funding accordingly. If we lose members, remaining funds will be placed towards a field trip in November.
+
+'
+};
+$VAR1 = {
+  'to' => [
+    '8:00 PM',
+    '03/ 3/2'
+  ],
+  'officer' => {
+    'name' => 'Mona Patel',
+    'email' => 'Monpat1@umbc.edu',
+    'position' => 'President',
+    'phone' => '4102005639'
+  },
+  'attendees' => {
+    'other' => 50,
+    'umbc' => 400
+  },
+  'id' => '350',
+  'eventName' => 'Miss America Event',
+  'from' => [
+    '5:30 PM',
+    '03/ 3/2016'
+  ],
+  'type' => 'Equipment',
+  'where' => 'UC Ballroom',
+  'preTotal' => '9563',
+  'outsideFunding' => 'no',
+  'legislation' => {
+    'for' => '4',
+    'abstaining' => '1',
+    'voted' => 'September 8th, 2015',
+    'introduced' => 'September 8th, 2015',
+    'id' => '10-1516',
+    'absent' => '0',
+    'author' => 'Trent Bae',
+    'opposed' => '1'
+  },
+  'cosponsor' => [],
+  'firstTime' => 'yes',
+  'approval' => '08/ 5/2015',
+  'budget' => {
+    'requested' => {
+      'Housekeeping' => '250.00',
+      'Total' => '9563',
+      'Ticket Staff' => '200.00',
+      'Security' => '300.00',
+      'Marketing' => '214.00',
+      'Decorations' => '100.00',
+      'Food' => '547.00',
+      'Set-up' => '207.00',
+      'Contracts' => '7500.00',
+      'Audio-Visual' => '245.00'
+    },
+    'approved' => {
+      'Decorations' => '102.61',
+      'Food' => '547.36',
+      'Marketing' => '214.00',
+      'Security' => '300.00',
+      'Ticket Staff' => '200.00',
+      'Total' => '9565.97',
+      'Housekeeping' => '250.00',
+      'Audio-Visual' => '245.00',
+      'Contracts' => '7500.00',
+      'Set-up' => '207.00'
+    }
+  },
+  'charge' => {
+    'umbc' => '0',
+    'other' => '0'
+  },
+  'description' => '   Promote STEM education and the diversity of engineering throughout my community at school. I\'ve been in contact with Miss America 2014 Nina Davuluri\'s Business Manager to try to plan a appearance at our university. Nina, herself is a speaker and advocate for stem education and culture diversity.
+
+'
+};
+$VAR1 = {
+  'budget' => {
+    'requested' => {
+      'Housekeeping' => '375.00',
+      'Audio-Visual' => '270.00',
+      'Contracts' => '2550.00',
+      'Marketing' => '200.00',
+      'Security' => '150.00',
+      'Tables and Chairs' => '25.00',
+      'Total' => '3570'
+    },
+    'approved' => {
+      'Audio-Visual' => '270.00',
+      'Contracts' => '2550.00',
+      'Housekeeping' => '375.00',
+      'Tables and Chairs' => '25.00',
+      'Total' => '3570',
+      'Security' => '150.00',
+      'Marketing' => '200.00'
+    }
+  },
+  'eventName' => 'Ignite',
+  'preTotal' => '3570',
+  'legislation' => {
+    'absent' => '0',
+    'id' => '6-1516',
+    'abstaining' => '0',
+    'introduced' => 'September 1st, 2015',
+    'author' => 'Trent Bae',
+    'for' => '6',
+    'opposed' => '0',
+    'voted' => 'September 1st, 2015'
+  },
+  'type' => 'Equipment',
+  'approval' => '07/29/2015',
+  'where' => 'The Quad',
+  'charge' => {
+    'other' => '0',
+    'umbc' => '0'
+  },
+  'attendees' => {
+    'umbc' => 150,
+    'other' => 25
+  },
+  'to' => [
+    '10:00 PM',
+    '09/19/2015'
+  ],
+  'id' => '349',
+  'from' => [
+    '7:00 PM',
+    '09/19/2015'
+  ],
+  'officer' => {
+    'position' => 'Treasurer',
+    'phone' => '443-974-6641',
+    'email' => 'ajuante1@umbc.edu',
+    'name' => 'Ajuante Brown'
+  },
+  'cosponsor' => [],
+  'outsideFunding' => 'no'
+};
+$VAR1 = {
+  'eventName' => 'Enkutatash ( Ethiopian New Year)',
+  'outsideFunding' => 'no',
+  'preTotal' => '550',
+  'budget' => {
+    'requested' => {
+      'Tablecloths' => '0.00',
+      'Setup' => '0.00',
+      'Food' => '550.00',
+      'Total' => '550',
+      'Utensils' => '0.00'
+    },
+    'approved' => {}
+  },
+  'legislation' => {
+    'for' => '6',
+    'id' => '3-1516',
+    'voted' => 'September 1st, 2015',
+    'opposed' => '0',
+    'absent' => '0',
+    'introduced' => 'September 1st, 2015',
+    'abstaining' => '0',
+    'author' => 'Trent Bae'
+  },
+  'id' => '348',
+  'cosponsor' => [],
+  'approval' => '07/ 6/2015',
+  'type' => 'Equipment',
+  'from' => [
+    '6:00 PM',
+    '09/24/2015'
+  ],
+  'attendees' => {
+    'umbc' => 95,
+    'other' => 5
+  },
+  'officer' => {
+    'name' => 'Megidelawit Yiferu',
+    'email' => 'megiy1@umbc.edu',
+    'phone' => '2404089846',
+    'position' => 'EESA President'
+  },
+  'charge' => {
+    'other' => '0',
+    'umbc' => '0'
+  },
+  'where' => 'Commons Skylight ',
+  'to' => [
+    '9:00 PM',
+    '09/24/2015'
+  ],
+  'description' => '   September 11th marks Ethiopian New Year. It marks a time where Ethiopian gather to welcome the rainy season by gather together with friends and family. EES a aims to host an event on campus that would
+
+'
+};
+$VAR1 = {
+  'charge' => {
+    'other' => '0',
+    'umbc' => '0'
+  },
+  'approval' => '05/17/2015',
+  'cosponsor' => [],
+  'budget' => {
+    'requested' => {
+      'Food' => '950.00',
+      'Marketing' => '61.00',
+      'Total' => '1283',
+      'Audio/Visual' => '25.00',
+      'Set-up' => '247.00'
+    },
+    'approved' => {
+      'Set-up' => '247.00',
+      'Total' => '333',
+      'Marketing' => '61.00',
+      'Audio/Visual' => '25.00',
+      'Food' => '0.00'
+    }
+  },
+  'type' => 'Equipment',
+  'officer' => {
+    'position' => 'President',
+    'email' => 'nmkrogers@umbc.edu',
+    'name' => 'Nicholas Rogers',
+    'phone' => '443-615-3701'
+  },
+  'attendees' => {
+    'umbc' => 100,
+    'other' => 0
+  },
+  'id' => '347',
+  'outsideFunding' => 'maybe',
+  'description' => '   Want funding to cover room reservation costs, equipment reservation costs and others expenses
+
+',
+  'legislation' => {
+    'opposed' => '0',
+    'for' => '4',
+    'introduced' => 'September 15th, 2015',
+    'abstaining' => '0',
+    'voted' => 'September 15th, 2015',
+    'id' => '16-1516',
+    'author' => 'Trent Bae',
+    'absent' => '2'
+  }
+};
+$VAR1 = {
+  'cosponsor' => [],
+  'attendees' => {
+    'umbc' => 8,
+    'other' => 0
+  },
+  'approval' => '05/15/2015',
+  'budget' => {
+    'approved' => {
+      'Total' => '480',
+      'JHU Debate Tournament' => '480.00'
+    },
+    'requested' => {
+      'Total' => '480',
+      'JHU Debate Tournament' => '480.00'
+    }
+  },
+  'legislation' => {
+    'introduced' => 'September 1st, 2015',
+    'absent' => '0',
+    'author' => 'Trent Bae',
+    'abstaining' => '0',
+    'for' => '6',
+    'voted' => 'September 1st, 2015',
+    'opposed' => '0',
+    'id' => '9-1516'
+  },
+  'where' => 'Johns Hopkins University campus ',
+  'to' => [
+    '7:00 PM',
+    '09/ 6/2015'
+  ],
+  'id' => '346',
+  'officer' => {
+    'email' => 'amariam1@umbc.edu',
+    'name' => 'Asfiya Mariam',
+    'position' => 'President',
+    'phone' => '3016938609'
+  },
+  'type' => 'On Campus',
+  'outsideFunding' => 'no',
+  'description' => '   Registration fees to attend and compete in the JHU Debate tournament.
+
+',
+  'from' => [
+    '3:00 PM',
+    '09/ 5/2015'
+  ],
+  'preTotal' => '480',
+  'charge' => {
+    'umbc' => '0',
+    'other' => '0'
+  },
+  'eventName' => 'Johns Hopkins University (JHU) Debate Tournament'
+};
+$VAR1 = {
+  'from' => [
+    '8:00 PM',
+    '12/ 4/2015'
+  ],
+  'eventName' => 'Improv Show',
+  'outsideFunding' => 'no',
+  'id' => '345',
+  'cosponsor' => [],
+  'charge' => {
+    'umbc' => '0',
+    'other' => '0'
+  },
+  'attendees' => {
+    'other' => 50,
+    'umbc' => 200
+  },
+  'where' => 'ITE 104',
+  'budget' => {
+    'requested' => {
+      'Total' => '295',
+      'Marketing' => '200.00',
+      'Security' => '75.00',
+      'Audio-Visual' => '20.00'
+    },
+    'approved' => {
+      'Total' => '295',
+      'Marketing' => '200.00',
+      'Security' => '75.00',
+      'Audio-Visual' => '20.00'
+    }
+  },
+  'description' => '   The purpose of this request is for a Non-Ticketed Event Marketing Package and the hiring of two Student Marshalls to ensure the safety of the audience. These funds will be used to provide a safe and fun night of improv comedy to students of varying backgrounds.
+
+',
+  'to' => [
+    '9:30 PM',
+    '12/ 4/2015'
+  ],
+  'officer' => {
+    'name' => 'Scott Seiss',
+    'phone' => '410-615-4652',
+    'email' => 'sseiss1@umbc.edu',
+    'position' => 'Treasurer'
+  },
+  'type' => 'Equipment',
+  'approval' => '05/ 8/2015',
+  'preTotal' => '295',
+  'legislation' => {
+    'opposed' => '0',
+    'id' => '13-1516',
+    'abstaining' => '0',
+    'introduced' => 'September 8th, 2015',
+    'author' => 'Trent Bae',
+    'absent' => '1',
+    'voted' => 'September 8th, 2015',
+    'for' => '5'
+  }
+};
+$VAR1 = {
+  'attendees' => {
+    'umbc' => 600,
+    'other' => 200
+  },
+  'approval' => '04/29/2015',
+  'charge' => {
+    'umbc' => '0',
+    'other' => '5'
+  },
+  'description' => '   We are requesting funds to hold Comic Con. the funds will be used to cover the cost of setup for the event, the cost of renting the rooms, and the cost of security services.
+
+',
+  'preTotal' => '4138',
+  'to' => [
+    '7:00 PM',
+    '10/24/2015'
+  ],
+  'outsideFunding' => 'maybe',
+  'where' => 'RAC Recreation Courts 1,2,and 3',
+  'legislation' => {
+    'voted' => '____________________________________ Date: _____________________',
+    'absent' => 'Maryland, Baltimore County, and has received the votes indicated above.',
+    'author' => 'Trent Bae',
+    'abstaining' => 'This document has been presented to the Student Government Association Finance Board of the University of',
+    'opposed' => '',
+    'for' => 'September 8th, 2015',
+    'id' => '11-1516',
+    'introduced' => 'September 8th, 2015'
+  },
+  'from' => [
+    '10:00 AM',
+    '10/24/2015'
+  ],
+  'budget' => {
+    'requested' => {
+      'Ticket Staff' => '0.00',
+      'Housekeeping' => '650.00',
+      ' ' => '0.00',
+      'Set-up' => '2278.00',
+      'Security' => '300.00',
+      'Total' => '4138',
+      'Food' => '0.00',
+      'Marketing' => '200.00',
+      'Contracts' => '0.00',
+      'Audio-Visual' => '710.00',
+      'Decorations' => '0.00'
+    },
+    'approved' => {
+      'Total' => '4138',
+      'Security' => '300.00',
+      'Set-up' => '2278.00',
+      'Housekeeping' => '650.00',
+      'Ticket Staff' => '0.00',
+      'Audio-Visual' => '710.00',
+      'Decorations' => '0.00',
+      'Contracts' => '0.00',
+      'Marketing' => '200.00',
+      'Food' => '0.00'
+    }
+  },
+  'cosponsor' => [
+    'Cosplay Coalition',
+    'Game Developer\'s Club',
+    'Living Poets Socety'
+  ],
+  'officer' => {
+    'phone' => '6123255522',
+    'name' => 'Ahmad Saad',
+    'email' => 'ahmad17@umbc.edu',
+    'position' => 'President'
+  },
+  'id' => '343',
+  'eventName' => 'UMBC\'s Comic Con',
+  'type' => 'Equipment'
+};
+$VAR1 = {
+  'cosponsor' => [],
+  'id' => '342',
+  'charge' => {
+    'umbc' => '0',
+    'other' => '0'
+  },
+  'budget' => {
+    'approved' => {
+      'School Registration Fee' => '450.00',
+      'Total' => '450'
+    },
+    'requested' => {
+      'Total' => '450',
+      'School Registration Fee' => '450.00'
+    }
+  },
+  'eventName' => 'Mock Trial Case Registration',
+  'attendees' => {
+    'other' => 0,
+    'umbc' => 30
+  },
+  'description' => '   This $450 will allow the Mock Trial Team to access the case file for the 2015-16 competitive year. The case file, prepared by the American Mock Trial Association (AMTA) is the most important part of our organization - all competitions, meetings, and auditions use this packet of information. The case file typically becomes available around August 15th, and this has been funded by the Finance Board in the past.
+
+',
+  'from' => [
+    '9:00 AM',
+    '08/15/2015'
+  ],
+  'outsideFunding' => 'no',
+  'legislation' => {
+    'introduced' => 'November 30th, -0001',
+    'id' => '1-1516'
+  },
+  'officer' => {
+    'email' => 'ml07977@umbc.edu',
+    'position' => 'President',
+    'phone' => '2409209016',
+    'name' => 'Cheyenne Smith'
+  },
+  'type' => 'Equipment',
+  'where' => 'This is a digital file, so no storage will be necessary,',
+  'approval' => '04/29/2015',
+  'preTotal' => '450',
+  'to' => [
+    '12:00 PM',
+    '08/15/2015'
+  ]
+};
+$VAR1 = {
+  'type' => 'Equipment',
+  'id' => '340',
+  'cosponsor' => [],
+  'budget' => {
+    'requested' => {
+      'AV' => '250.00',
+      'Total' => '250'
+    },
+    'approved' => {
+      'Total' => '250',
+      'AV' => '250.00'
+    }
+  },
+  'to' => [
+    '11:00 PM',
+    '12/ 4/2015'
+  ],
+  'officer' => {
+    'name' => 'James Glassman',
+    'phone' => '4435643033',
+    'position' => 'Treasurer',
+    'email' => 'jglass2@umbc.edu'
+  },
+  'attendees' => {
+    'other' => 10,
+    'umbc' => 40
+  },
+  'charge' => {
+    'other' => '0',
+    'umbc' => '0'
+  },
+  'approval' => '04/24/2015',
+  'eventName' => 'UMBC Anime Society Weekly Meetings',
+  'legislation' => {
+    'id' => '2-1516',
+    'introduced' => 'November 30th, -0001'
+  },
+  'from' => [
+    '6:00 PM',
+    '09/ 4/2015'
+  ],
+  'preTotal' => '250',
+  'where' => 'Admin 101',
+  'outsideFunding' => 'no',
+  'description' => '   These are the weekly meetings for the Anime Society. We need the funds for an AV contract, which we need in order to serve the primary purpose of our club, watching anime.
+
+'
+};
+$VAR1 = {
+  'id' => '510',
+  'from' => [
+    '11:00 PM',
+    '04/30/2016'
+  ],
+  'budget' => {
+    'approved' => {},
+    'requested' => {
+      'Total' => '1909',
+      'Security' => '384.00',
+      'Tables Plus+ Chairs Contracted' => '1050.00',
+      'Housekeeping' => '275.00',
+      'Marketing' => '200.00'
+    }
+  },
+  'description' => '   This is an event to share with the campus the benefits and fun of veg living and eating. There will be lots of food vendors, non profits, and kid\'s games.
+
+',
+  'charge' => {
+    'umbc' => '0',
+    'other' => '0'
+  },
+  'where' => 'Erickson Field',
+  'preTotal' => '1909',
+  'attendees' => {
+    'other' => 7000,
+    'umbc' => 1000
+  },
+  'approval' => '02/12/2016',
+  'cosponsor' => [],
+  'eventName' => 'Vegfest 2016',
+  'outsideFunding' => 'maybe',
+  'to' => [
+    '4:00 PM',
+    '04/30/2016'
+  ],
+  'type' => 'On Campus',
+  'legislation' => {},
+  'officer' => {
+    'name' => 'Emily Anderson',
+    'position' => 'President',
+    'phone' => '4105334074',
+    'email' => 'ande4@umbc.edu'
+  }
+};
+$VAR1 = {
+  'firstTime' => 'yes',
+  'approval' => '02/ 9/2016',
+  'where' => 'Skylight Room',
+  'from' => [
+    '7:00 PM',
+    '04/30/2016'
+  ],
+  'legislation' => {},
+  'preTotal' => '733',
+  'charge' => {
+    'umbc' => '0',
+    'other' => '5'
+  },
+  'to' => [
+    '11:00 AM',
+    '04/30/2016'
+  ],
+  'id' => '508',
+  'cosponsor' => [],
+  'officer' => {
+    'position' => 'President',
+    'phone' => '2404703625',
+    'email' => 'ikpeze1@umbc.edu',
+    'name' => 'Whitney Ikpeze'
+  },
+  'attendees' => {
+    'other' => 40,
+    'umbc' => 80
+  },
+  'budget' => {
+    'approved' => {},
+    'requested' => {
+      'Decorations' => '0.00',
+      'Ticket Staff' => '100.00',
+      'Food' => '0.00',
+      'Housekeeping' => '0.00',
+      'Security' => '0.00',
+      'Total' => '733',
+      'Audio-Visual' => '350.00',
+      'Set-up' => '83.00',
+      'Contracts' => '0.00',
+      'Marketing' => '200.00'
+    }
+  },
+  'description' => '   A program to honor 6 African-american women ( 3 student 3 faculty) for their service and dedication to the UMBC community.
+
+',
+  'eventName' => 'Black Girls Rock',
+  'outsideFunding' => 'no',
+  'type' => 'On Campus'
+};
+$VAR1 = {
+  'charge' => {
+    'other' => '0',
+    'umbc' => '0'
+  },
+  'type' => 'On Campus',
+  'approval' => '02/ 9/2016',
+  'cosponsor' => [],
+  'legislation' => {},
+  'description' => '   This is a funding request for our anual invitational. We are requesting funding for the lecture hall A/V for the invitational. For this event clubs from all over the east coast come to play HvZ at UMBC. It\'s also a great draw for alumni who want to come a play for one day.
+
+',
+  'budget' => {
+    'approved' => {},
+    'requested' => {
+      'lecture hall A/V' => '220.00',
+      'Total' => '220',
+      ' ' => '0.00'
+    }
+  },
+  'from' => [
+    '7:00 PM',
+    '04/29/2016'
+  ],
+  'to' => [
+    '4:00 PM',
+    '04/30/2016'
+  ],
+  'attendees' => {
+    'umbc' => 85,
+    'other' => 40
+  },
+  'where' => '',
+  'officer' => {
+    'position' => 'Treasurer',
+    'email' => 'gordon7@umbc.edu',
+    'name' => 'Jay Gordon',
+    'phone' => '443-878-0776'
+  },
+  'eventName' => 'Humans verse Zombies Invitational 2016',
+  'outsideFunding' => 'no',
+  'id' => '504',
+  'preTotal' => '220'
+};
+$VAR1 = {
+  'officer' => {
+    'email' => 'aberard1@umbc.edu',
+    'phone' => '3019436404',
+    'name' => 'April Berardi',
+    'position' => 'President'
+  },
+  'type' => 'On Campus',
+  'cosponsor' => [],
+  'from' => [
+    '7:00 PM',
+    '04/28/2016'
+  ],
+  'id' => '507',
+  'where' => 'UC Ballroom',
+  'attendees' => {
+    'other' => 100,
+    'umbc' => 200
+  },
+  'description' => '   The Drag Show is an annual event that Freedom Alliance has hosted for over 10 years. It is a very popular event for both students and non UMBC affiliated people. We will have professional and student performers with an audience walk-off contest.
+
+',
+  'approval' => '02/ 8/2016',
+  'outsideFunding' => 'no',
+  'preTotal' => '2240.65',
+  'legislation' => {},
+  'to' => [
+    '11:30 PM',
+    '04/28/2016'
+  ],
+  'charge' => {
+    'umbc' => '0',
+    'other' => '7'
+  },
+  'budget' => {
+    'approved' => {},
+    'requested' => {
+      'Security' => '540.00',
+      'Total' => '2240.65',
+      'Housekeeping' => '245.00',
+      'Set-up' => '302.00',
+      'Contracts' => '150.00',
+      'Decorations' => '0.00',
+      'Ticket Staff' => '200.00',
+      'Audio-Visual' => '590.00',
+      'Marketing' => '213.65',
+      'Food' => '0.00'
+    }
+  },
+  'eventName' => 'Drag Show'
+};
+$VAR1 = {
+  'outsideFunding' => 'no',
+  'attendees' => {
+    'umbc' => 50,
+    'other' => 50
+  },
+  'legislation' => {},
+  'description' => '   We want to hold Queer Prom again. It will be open to the public and will not have an admittance fee. We will have donations for Project PLASE and a DJ.
+
+',
+  'budget' => {
+    'approved' => {},
+    'requested' => {
+      'Total' => '999',
+      'Food' => '0.00',
+      'Contracts' => '0.00',
+      'Housekeeping' => '245.00',
+      'Marketing' => '0.00',
+      'Set-up' => '83.50',
+      'Ticket Staff' => '0.00',
+      'Security' => '135.00',
+      'Audio-Visual' => '415.00',
+      'Decorations' => '120.50'
+    }
+  },
+  'officer' => {
+    'phone' => '3019436404',
+    'email' => 'aberard1@umbc.edu',
+    'position' => 'President',
+    'name' => 'April Berardi'
+  },
+  'id' => '506',
+  'from' => [
+    '7:30 PM',
+    '03/ 5/2016'
+  ],
+  'where' => 'UC Ballroom',
+  'cosponsor' => [],
+  'preTotal' => '999',
+  'charge' => {
+    'umbc' => '0',
+    'other' => '0'
+  },
+  'eventName' => 'Queer Prom',
+  'approval' => '02/ 8/2016',
+  'to' => [
+    '11:00 PM',
+    '03/ 5/2016'
+  ],
+  'type' => 'On Campus'
+};
+$VAR1 = {
+  'officer' => {
+    'phone' => '4436902021',
+    'email' => 'sam30@umbc.edu',
+    'position' => 'Treasurer',
+    'name' => 'Samantha McDonald'
+  },
+  'where' => 'The Red River Gorge, Kentucky',
+  'attendees' => {
+    'other' => 0,
+    'umbc' => 22
+  },
+  'description' => '   We are requesting funding for our spring break trip to the Red River Gorge in Kentucky, one of the best climbing locations in the country. Funding request will include the cost to rent cabins as a way to reduce the price and make the trip accessible to more students. Cabin owners have agreed to let us rent two adjacent cabins for 22 people with two nights off at a total cost of $3400. Additional cost including gas and food will be covered by students.
+
+',
+  'from' => [
+    '12:00 AM',
+    '03/13/2016'
+  ],
+  'cosponsor' => [],
+  'outsideFunding' => 'yes',
+  'charge' => {
+    'other' => '0',
+    'umbc' => '300'
+  },
+  'type' => 'Off Campus',
+  'budget' => {
+    'requested' => {
+      'Cabins (X2)' => '2999.00',
+      'Total' => '2999'
+    },
+    'approved' => {}
+  },
+  'eventName' => 'Spring Break Trip to the Red River Gorge',
+  'id' => '505',
+  'approval' => '02/ 8/2016',
+  'to' => [
+    '12:00 AM',
+    '03/20/2016'
+  ],
+  'legislation' => {},
+  'preTotal' => '2999'
+};
+$VAR1 = {
+  'to' => [
+    '11:00 PM',
+    '04/10/2016'
+  ],
+  'id' => '502',
+  'type' => 'On Campus',
+  'from' => [
+    '8:00 PM',
+    '04/ 7/2016'
+  ],
+  'officer' => {
+    'name' => 'Ali Mark',
+    'phone' => '609-751-390',
+    'position' => 'Treasurer',
+    'email' => 'am26@umbc.edu'
+  },
+  'charge' => {
+    'other' => '0',
+    'umbc' => '0'
+  },
+  'approval' => '02/ 4/2016',
+  'cosponsor' => [],
+  'attendees' => {
+    'umbc' => 220,
+    'other' => 200
+  },
+  'description' => '   We are requesting these funds in order to be able to pay for the production elements of the show. These include licensing rights, costumes, set, make-up, props, and lighting. This is a large production and we need assistance from the SGA to be able to pay all of the costs.
+
+',
+  'budget' => {
+    'requested' => {
+      'Security' => '512.00',
+      'Total' => '8805.51',
+      'Props' => '406.75',
+      'Makeup/Wigs' => '181.90',
+      'Housekeeping' => '1000.00',
+      'Rights' => '1485.00',
+      'Costumes' => '1220.00',
+      'Ticket Staff' => '240.00',
+      'Audio-visual' => '2450.00',
+      'Set' => '879.06',
+      'Lighting' => '200.00',
+      'Marketing' => '230.80'
+    },
+    'approved' => {}
+  },
+  'preTotal' => '8805.51',
+  'legislation' => {},
+  'eventName' => 'The Addams Family (Spring Musical)',
+  'where' => 'Old Theatre',
+  'outsideFunding' => 'no'
+};
+$VAR1 = {
+  'where' => 'UC 310',
+  'attendees' => {
+    'other' => 0,
+    'umbc' => 50
+  },
+  'charge' => {
+    'other' => '0',
+    'umbc' => '0'
+  },
+  'outsideFunding' => 'no',
+  'officer' => {
+    'position' => 'President',
+    'phone' => '410-292-3873',
+    'name' => 'Maniraj Jeyaraju',
+    'email' => 'maniraj1@umbc.edu'
+  },
+  'eventName' => 'INDS CoM Petrovich Lecture',
+  'approval' => '02/ 3/2016',
+  'to' => [
+    '8:00 PM',
+    '03/ 7/2016'
+  ],
+  'budget' => {
+    'requested' => {
+      'Total' => '1046.5',
+      'Dinner Reception' => '480.00',
+      'UC Setup Cost' => '66.50',
+      'Honararium' => '500.00'
+    },
+    'approved' => {}
+  },
+  'description' => '   To host our annual Petrovich Lecture featuring James Valentine (UMBC Alumni). He is focused on Food and Drug Administration and Policy.
+
+',
+  'legislation' => {},
+  'from' => [
+    '5:30 PM',
+    '03/ 7/2016'
+  ],
+  'preTotal' => '1046.5',
+  'type' => 'On Campus',
+  'id' => '501',
+  'cosponsor' => []
+};
+$VAR1 = {
+  'budget' => {
+    'approved' => {},
+    'requested' => {
+      'Total' => '210',
+      'Food' => '210.00'
+    }
+  },
+  'approval' => '02/ 2/2016',
+  'firstTime' => 'yes',
+  'eventName' => 'ASCOM Faculty Member Dinner',
+  'charge' => {
+    'umbc' => '0',
+    'other' => '0'
+  },
+  'attendees' => {
+    'other' => 3,
+    'umbc' => 12
+  },
+  'description' => '   The event aims to provide students interested in Asian Studies with an environment conducive to a free flow of information and networking. Due to the event being pre-professional in nature and as well as utilizing faculty members, students can expect to be presented with information about new and continuing research and ideas. By having food served at such an event, students will be more relaxed and better able to communicate with the presenters. Housekeeping services would also be necessary.
+
+',
+  'where' => '',
+  'id' => '499',
+  'to' => [
+    '9:00 PM',
+    '04/14/2016'
+  ],
+  'from' => [
+    '6:00 PM',
+    '04/14/2016'
+  ],
+  'legislation' => {},
+  'cosponsor' => [],
+  'preTotal' => '210',
+  'type' => 'On Campus',
+  'officer' => {
+    'position' => 'Treasurer',
+    'phone' => '4437640638',
+    'name' => 'Whitney Phipps',
+    'email' => 'xo87931@umbc.edu'
+  },
+  'outsideFunding' => 'no'
+};
+$VAR1 = {
+  'legislation' => {},
+  'outsideFunding' => 'no',
+  'preTotal' => '207.24',
+  'where' => 'hilltop circle ',
+  'approval' => '02/ 2/2016',
+  'to' => [
+    '2:00 PM',
+    '04/16/2016'
+  ],
+  'charge' => {
+    'other' => '5',
+    'umbc' => '5'
+  },
+  'cosponsor' => [],
+  'description' => '   The purpose of this request is to ultimately raise awareness about sexual assault on our campus. The purpose of this event my organization is trying to hold is create conversation about this hard topic. Although this event focuses on women\'s sexual assault we intend to incorporate both men and women\'s stories. We are asking fr money to cover the cost of having this event on campus. We plan to raise money so we can make a donation to a local safe house.
+
+',
+  'officer' => {
+    'phone' => '301-861-6673',
+    'position' => 'Secertary',
+    'email' => 'meghan8@umbc.edu',
+    'name' => 'Meghan Herring'
+  },
+  'id' => '497',
+  'from' => [
+    '10:00 AM',
+    '04/16/2016'
+  ],
+  'firstTime' => 'yes',
+  'type' => 'On Campus',
+  'budget' => {
+    'approved' => {},
+    'requested' => {
+      'Money for water, snacks, decorations' => '75.00',
+      'Registration fee' => '132.24',
+      'Total' => '207.24'
+    }
+  },
+  'eventName' => 'Walk a Mile in her Shoes',
+  'attendees' => {
+    'other' => 20,
+    'umbc' => 80
+  }
+};
+$VAR1 = {
+  'budget' => {
+    'approved' => {},
+    'requested' => {
+      'Security' => '442.00',
+      'DJ' => '200.00',
+      'decorations' => '300.00',
+      'housekeeping' => '250.00',
+      'director' => '300.00',
+      'marketing' => '200.00',
+      'audio-visual' => '750.00',
+      'Singer/piano player' => '0.00',
+      'Set up' => '283.00',
+      'ticket staff' => '165.00',
+      'Total' => '5610',
+      'Food' => '2520.00',
+      'Henna Artist' => '200.00'
+    }
+  },
+  'charge' => {
+    'other' => '7',
+    'umbc' => '0'
+  },
+  'description' => '   To provide students an experience of the Middle Eastern Culture Henna Artist and Photo Booth outside Ballroom Playing a movie, dance team, live singer Food - Dinner Open Dance Floor Technicians arrive at 2pm and stay until 12
+
+',
+  'id' => '495',
+  'cosponsor' => [],
+  'preTotal' => '5610',
+  'where' => 'UC Ballroom',
+  'legislation' => {},
+  'approval' => '02/ 1/2016',
+  'outsideFunding' => 'no',
+  'officer' => {
+    'phone' => '2404139308',
+    'position' => 'Treasurer',
+    'name' => 'Jessica Demirji',
+    'email' => 'jdemirj1@umbc.edu'
+  },
+  'to' => [
+    '12:00 AM',
+    '04/ 1/2016'
+  ],
+  'type' => 'On Campus',
+  'from' => [
+    '7:30 PM',
+    '04/ 1/2016'
+  ],
+  'eventName' => 'Layaleena',
+  'attendees' => {
+    'umbc' => 250,
+    'other' => 100
+  }
+};
+$VAR1 = {
+  'preTotal' => '8656',
+  'to' => [
+    '12:00 AM',
+    '03/27/2016'
+  ],
+  'description' => '   Norouz is a traditional celebration of the Persian New Year. Like years before, Norouz is one of the most popular events on campus and it is an opportunity for our organization to share the Persian culture with the UMBC community. The culture is exemplified by traditional dance performances, instrument players, poetry, and food. We appreciate your support in our effort to increase the diversity at UMBC.
+
+',
+  'legislation' => {},
+  'id' => '489',
+  'approval' => '01/26/2016',
+  'eventName' => 'Norouz',
+  'outsideFunding' => 'no',
+  'from' => [
+    '7:00 PM',
+    '03/26/2016'
+  ],
+  'officer' => {
+    'phone' => '4102991870',
+    'position' => 'President',
+    'email' => 'amirrez1@umbc.edu',
+    'name' => 'Amirreza Saharkhiz'
+  },
+  'charge' => {
+    'umbc' => '0',
+    'other' => '20'
+  },
+  'attendees' => {
+    'other' => 50,
+    'umbc' => 300
+  },
+  'budget' => {
+    'requested' => {
+      'Security' => '667.50',
+      'Marketing' => '374.00',
+      'Housekeeping' => '250.00',
+      'Finance Sheet' => '0.00',
+      'Contracts' => '1200.00',
+      'Audio-Visual' => '950.00',
+      'Ticket Staff' => '260.00',
+      'Total' => '8656',
+      'Food' => '4500.00',
+      'Set-up' => '454.50'
+    },
+    'approved' => {}
+  },
+  'cosponsor' => [],
+  'type' => 'On Campus',
+  'where' => 'UC Ballroom '
+};
+$VAR1 = {
+  'eventName' => 'UMBC TSA requests funding for ITASA ECC 2016',
+  'from' => [
+    '5:00 PM',
+    '02/11/2016'
+  ],
+  'charge' => {
+    'umbc' => '51',
+    'other' => '51'
+  },
+  'approval' => '12/ 3/2015',
+  'to' => [
+    '11:00 AM',
+    '02/14/2016'
+  ],
+  'type' => 'Off Campus',
+  'preTotal' => '772.35',
+  'attendees' => {
+    'umbc' => 15,
+    'other' => 285
+  },
+  'outsideFunding' => 'no',
+  'cosponsor' => [],
+  'id' => '482',
+  'budget' => {
+    'requested' => {
+      'Total' => '772.35',
+      'Registration Fee' => '772.35'
+    },
+    'approved' => {}
+  },
+  'legislation' => {},
+  'where' => 'University of Maryland, College Park',
+  'description' => '   UMBC TSA would like to request for the funding of registration fees for 15 UMBC (open to all students) students for the annual Intercollegiate Taiwanese American Student Association East Coast Conference that will be held in the spring of 2016 at University of Maryland, College Park.
+
+',
+  'officer' => {
+    'email' => 'melinda5@umbc.edu',
+    'name' => 'Melinda Tung',
+    'position' => 'Treasurer',
+    'phone' => '2408384145'
+  }
+};
+$VAR1 = {
+  'from' => [
+    '8:00 PM',
+    '12/ 4/2015'
+  ],
+  'eventName' => 'Bashment 2015',
+  'to' => [
+    '1:00 AM',
+    '12/ 5/2015'
+  ],
+  'attendees' => {
+    'other' => 50,
+    'umbc' => 300
+  },
+  'where' => 'UC Ballroom',
+  'outsideFunding' => 'yes',
+  'approval' => '12/ 1/2015',
+  'preTotal' => '0',
+  'id' => '477',
+  'budget' => {
+    'requested' => {
+      'Total' => '0',
+      ' ' => '0.00'
+    },
+    'approved' => {}
+  },
+  'legislation' => {},
+  'charge' => {
+    'other' => '10',
+    'umbc' => '0'
+  },
+  'type' => 'On Campus',
+  'cosponsor' => [],
+  'officer' => {
+    'position' => 'Treasurer',
+    'name' => 'Shaneka Hannam',
+    'phone' => '240-543-1631',
+    'email' => 'hanna6@umbc.edu'
+  }
+};
+$VAR1 = {
+  'where' => 'Sondheim 103',
+  'id' => '469',
+  'outsideFunding' => 'no',
+  'eventName' => 'Russian Club Christmas Party',
+  'description' => '   We have planned a Christmas party for our Club. It will be a on-campus celebration of Russian style New Year - food, music, costumes, decorations and etc. We are in need of funds for food and soft beverages and gifts for a best costumes nominations. So far we are expecting 60 people, but this number is going up. We would like to request $500.
+
+',
+  'preTotal' => '500',
+  'approval' => '11/23/2015',
+  'to' => [
+    '1:00 PM',
+    '12/ 2/1'
+  ],
+  'budget' => {
+    'requested' => {
+      'Total' => '500',
+      'Food purchases + gifts' => '500.00'
+    },
+    'approved' => {}
+  },
+  'officer' => {
+    'phone' => '4435279886',
+    'position' => 'Treasurer',
+    'name' => 'Natalea Rostovtseva',
+    'email' => 'natalea1@umbc.edu'
+  },
+  'cosponsor' => [],
+  'attendees' => {
+    'other' => 0,
+    'umbc' => 60
+  },
+  'from' => [
+    '11:00 AM',
+    '12/ 2/2015'
+  ],
+  'charge' => {
+    'other' => '0',
+    'umbc' => '0'
+  },
+  'legislation' => {},
+  'type' => 'On Campus'
+};
+$VAR1 = {
+  'id' => '434',
+  'cosponsor' => [],
+  'description' => '   The purpose of this request is to create a small gym within the garage of the Army ROTC house on campus. This house is located above walker avenue, next to the alumni house and police station. The goal of creating a gym here is to allow easy access to students that are on the opposite side of campus as the RAC, it will be available for all clubs and organizations to reserve, which will also help to cut down on over crowding in the RAC.
+
+',
+  'eventName' => 'Army ROTC Gym Proposal',
+  'firstTime' => 'yes',
+  'outsideFunding' => 'maybe',
+  'preTotal' => '9974.26',
+  'legislation' => {},
+  'charge' => {
+    'other' => '0',
+    'umbc' => '0'
+  },
+  'type' => 'On Campus',
+  'budget' => {
+    'approved' => {},
+    'requested' => {
+      'GoFit ProGym Extreme Workout Kit' => '59.99',
+      'RAGE 50lb Slammer Ball' => '119.99',
+      'SKLZ Medium Pro Resistance Band' => '29.99',
+      'Valor Fitness 6 Pair Dumbbell Rack' => '289.99',
+      'Body Solid 5-50 lb Kettlebell Set' => '499.99',
+      'SKLZ Chrome Plyo Box Set' => '279.99',
+      'TRX Home Fitness Kit' => '199.99',
+      'Fitness Gear Pro Utility Bench (2)' => '359.98',
+      'Body Solid Olympic Shrug Bar' => '199.99',
+      'Marcy Diamond 9010 Smith Cage' => '999.99',
+      'RAGE 12" Wood Stackable Plyo Box' => '119.99',
+      'Fitness Gear Power Band Kit' => '17.99',
+      'Fitness Gear Pro Full Rack' => '499.99',
+      'SuperMats Large Gym Mat (4)' => '359.96',
+      'RAGE 10lb Slammer Ball' => '39.99',
+      'RumbleRoller Foam Massage Roller (4)' => '279.96',
+      'Total' => '9974.26',
+      'Fitness Gear Power Training Belt' => '29.99',
+      'Fitness Gear 7\' Olympic Bar (2)' => '159.98',
+      'Fitness Gear Advanced Power Band Kit' => '19.99',
+      'Bowflex SelectTech 1090 Dumbbells' => '599.99',
+      'Estimated Shipping and Handling' => '2207.13',
+      'SKLZ Extra-Heavy Pro Resistance Band' => '49.99',
+      'Body Solid Rubber Hex 5-50 lb Dumbbel Set' => '999.99',
+      'TRX Xmount Steel Plate Mounting System' => '39.99',
+      'Body Solid VDRA30 Accessory Rack' => '204.99',
+      'RAGE 20lb Slammer Ball' => '59.99',
+      'Fitness Gear 300lb Olympic Weight Set' => '219.99',
+      'Body Solid Olympic Curl Bar (2)' => '125.98',
+      'RAGE 30lb Slammer Ball' => '79.99',
+      'RAGE 40lb Slammer Ball' => '104.99',
+      'Body Solid 500 lb Bumper Set with bar' => '999.99'
+    }
+  },
+  'attendees' => {
+    'umbc' => '0',
+    'total' => '0'
+  },
+  'officer' => {
+    'name' => 'Garrett Anthony',
+    'position' => 'President',
+    'phone' => '(443)752-5258',
+    'email' => 'gar4@umbc.edu'
+  },
+  'approval' => '10/23/2015'
+};
+$VAR1 = {
+  'description' => '   We would like a small allocation to provide candy and other small food items to provide to WMBC members and other UMBC students during meetings and WMBC-related events.
+
+',
+  'outsideFunding' => 'no',
+  'legislation' => {},
+  'budget' => {
+    'approved' => {},
+    'requested' => {
+      'Total' => '150',
+      'Food/Candy fund' => '150.00'
+    }
+  },
+  'attendees' => {
+    'other' => 0,
+    'umbc' => 118
+  },
+  'id' => '426',
+  'approval' => '10/16/2015',
+  'firstTime' => 'yes',
+  'charge' => {
+    'other' => '0',
+    'umbc' => '0'
+  },
+  'to' => [
+    '12:00 AM',
+    '11/ 1/2015'
+  ],
+  'officer' => {
+    'phone' => '(443) 789-9064',
+    'position' => 'Treasurer',
+    'email' => 'dre2@umbc.edu',
+    'name' => 'Drew Spera'
+  },
+  'type' => 'Equipment',
+  'preTotal' => '150',
+  'cosponsor' => [],
+  'eventName' => 'WMBC Food/Candy Fund',
+  'where' => 'WMBC Station',
+  'from' => [
+    '12:00 AM',
+    '11/ 1/2015'
+  ]
+};
+$VAR1 = {
+  'officer' => {
+    'name' => 'Maniraj Jeyaraju',
+    'email' => 'maniraj1@umbc.edu',
+    'position' => 'President',
+    'phone' => '410-292-3873'
+  },
+  'attendees' => {
+    'umbc' => 15,
+    'other' => 0
+  },
+  'legislation' => {},
+  'eventName' => 'INDS General CoM Meeting - Badminton Social',
+  'from' => [
+    '12:00 PM',
+    '10/14/2015'
+  ],
+  'type' => 'Equipment',
+  'firstTime' => 'yes',
+  'to' => [
+    '1:00 PM',
+    '10/14/2015'
+  ],
+  'outsideFunding' => 'no',
+  'description' => '   We are hosting a badminton social open to the UMBC community. We would like to request badminton materials and food for the event. Recently, we made a badminton net out of recycled materials and students have been frequently playing outside Fine Arts. We often have students from the community joining us, and we would like to host a community building event. We would like to have food at this social too.
+
+',
+  'id' => '400',
+  'preTotal' => '157.69',
+  'where' => 'FA 015',
+  'charge' => {
+    'other' => '0',
+    'umbc' => '0'
+  },
+  'approval' => '10/ 1/2015',
+  'cosponsor' => [],
+  'budget' => {
+    'approved' => {},
+    'requested' => {
+      'Badminton Birdies' => '11.69',
+      'Total' => '157.69',
+      'Badminton Racquet' => '66.00',
+      'Pizza + Soda + Delivery' => '80.00',
+      ' ' => '0.00'
+    }
+  }
+};
+$VAR1 = {
+  'budget' => {
+    'approved' => {},
+    'requested' => {
+      'Fans' => '20.00',
+      'Paint' => '9.00',
+      'Total' => '57',
+      'Markers' => '17.00',
+      'Brushes' => '11.00'
+    }
+  },
+  'approval' => '11/12/2015',
+  'from' => [
+    '6:00 PM',
+    '11/17/2015'
+  ],
+  'where' => 'Admin 711',
+  'type' => 'Equipment',
+  'eventName' => 'DIY Fan Night',
+  'legislation' => {},
+  'id' => '429',
+  'description' => '   This event is geared towards bringing the UMBC community through a hands-on activity. The craft will not only create an environment for students to work together but it also sets the stage for our calligraphy event. ASCOM wants to nurture cultural literacy and a sense of well-being and community. The request will cover costs of fans, markers and food.
+
+',
+  'firstTime' => 'yes',
+  'officer' => {
+    'phone' => '4437640638',
+    'position' => 'Treasurer',
+    'email' => 'xo87931@umbc.edu',
+    'name' => 'Whitney Phipps'
+  },
+  'charge' => {
+    'other' => '0',
+    'umbc' => '0'
+  },
+  'preTotal' => '57',
+  'to' => [
+    '8:30 PM',
+    '11/17/2015'
+  ],
+  'outsideFunding' => 'no',
+  'attendees' => {
+    'umbc' => 20,
+    'other' => 0
+  },
+  'cosponsor' => []
+};
+$VAR1 = {
+  'type' => 'On Campus',
+  'id' => '460',
+  'eventName' => 'VEX Robotics 3D Printer & Laptop',
+  'legislation' => {},
+  'budget' => {
+    'approved' => {},
+    'requested' => {
+      'HICTOP Desktop 3D Printer' => '418.95',
+      'HP Stream 11.6 Inch Laptop' => '207.99',
+      'Total' => '718.86',
+      'White 3D Printer Filament' => '22.98',
+      'Blue 3D Printer Filament' => '22.98',
+      'Yellow 3D Printer Filament' => '22.98',
+      'Red 3D Printer Filament' => '22.98'
+    }
+  },
+  'charge' => {
+    'umbc' => '0',
+    'other' => '0'
+  },
+  'description' => '   We wish to purchase a laptop for the club on which we can install RobotC and store programs for the VEX competition and other projects. We also wish to purchase a 3D printer to make parts for the VEX competition and ornaments for our regular 3D printed ornament fundraiser, together with a starting supply of filament.
+
+',
+  'attendees' => {
+    'umbc' => 12,
+    'other' => 0
+  },
+  'where' => 'In Engineering 117, where our organization\'s existing equipment is stored.',
+  'cosponsor' => [],
+  'to' => [
+    '12:00 AM',
+    '02/ 5/2016'
+  ],
+  'from' => [
+    '12:00 AM',
+    '11/30/2015'
+  ],
+  'approval' => '11/11/2015',
+  'outsideFunding' => 'maybe',
+  'officer' => {
+    'phone' => '4437394530',
+    'email' => 'sowen2@umbc.edu',
+    'name' => 'Sean Owen',
+    'position' => 'Treasurer'
+  },
+  'firstTime' => 'yes',
+  'preTotal' => '718.86'
+};
+$VAR1 = {
+  'approval' => '11/ 9/2015',
+  'attendees' => {
+    'umbc' => 50,
+    'other' => 0
+  },
+  'legislation' => {},
+  'cosponsor' => [],
+  'charge' => {
+    'other' => '0',
+    'umbc' => '0'
+  },
+  'type' => 'On Campus',
+  'budget' => {
+    'requested' => {
+      'Balloons' => '14.99',
+      'Total' => '282.82',
+      'Sharpies' => '12.75',
+      'Flyers' => '125.00',
+      'Posterboard' => '8.10',
+      'Streamers' => '3.99',
+      'Tape' => '4.99',
+      'Commons Rental Fees' => '113.00',
+      ' ' => '0.00'
+    },
+    'approved' => {}
+  },
+  'firstTime' => 'yes',
+  'officer' => {
+    'name' => 'Paul Choi',
+    'position' => 'President',
+    'phone' => '240-274-3290',
+    'email' => 'paulchoi1@umbc.edu'
+  },
+  'id' => '459',
+  'description' => '   A celebrity roast event similar to the Comedy Central celebrity roast airings.
+
+',
+  'outsideFunding' => 'no'
+};
+$VAR1 = {
+  'approval' => '11/ 3/2015',
+  'budget' => {
+    'requested' => {
+      'Transportation' => '300.00',
+      'Food for Symposium' => '800.00',
+      'Total' => '2650',
+      'Decorations' => '150.00',
+      'True Grits Lunch' => '400.00',
+      'Teaching Equipment' => '1000.00'
+    },
+    'approved' => {}
+  },
+  'outsideFunding' => 'yes',
+  'firstTime' => 'yes',
+  'charge' => {
+    'other' => '0',
+    'umbc' => '0'
+  },
+  'officer' => {
+    'position' => 'Treasurer',
+    'phone' => '602-332-7362',
+    'name' => 'Brenda Gutierrez',
+    'email' => 'bgutie1@umbc.edu'
+  },
+  'description' => '   We need money to purchase supplies for the science activities we plan out for the fifth-graders at Calvin Rodwell Elementary School and for materials, food, and transportation required for our end of the year symposium.
+
+',
+  'type' => 'On Campus',
+  'attendees' => {
+    'umbc' => 20,
+    'other' => 30
+  },
+  'id' => '456',
+  'cosponsor' => [],
+  'legislation' => {}
+};
+$VAR1 = {
+  'type' => 'On Campus',
+  'approval' => '10/30/2015',
+  'legislation' => {},
+  'budget' => {
+    'approved' => {},
+    'requested' => {
+      'Contract 1' => '1000.00',
+      'Contract 3' => '100.00',
+      'Ticket Staff' => '138.00',
+      'Housekeeping' => '240.00',
+      'Contract 2' => '400.00',
+      'Security' => '146.00',
+      'Marketing' => '220.00',
+      'Setup' => '125.00',
+      'Total' => '2369'
+    }
+  },
+  'preTotal' => '2369',
+  'outsideFunding' => 'no',
+  'charge' => {
+    'umbc' => '0',
+    'other' => '0'
+  },
+  'description' => '   We are requesting funds for out semesterly concert.
+
+',
+  'cosponsor' => [],
+  'eventName' => 'UMBC Gospel Choir Winter Concert',
+  'id' => '453',
+  'from' => [
+    '8:00 PM',
+    '12/ 5/2015'
+  ],
+  'officer' => {
+    'position' => 'President',
+    'phone' => '2406036820',
+    'email' => 'chisom1@umbc.edu',
+    'name' => 'Chisom Nwaneri'
+  },
+  'attendees' => {
+    'other' => 100,
+    'umbc' => 200
+  },
+  'where' => 'PAHB 144',
+  'to' => [
+    '11:00 PM',
+    '12/ 5/2015'
+  ]
+};
+$VAR1 = {
+  'charge' => {
+    'other' => '60',
+    'umbc' => '0'
+  },
+  'officer' => {
+    'phone' => '301-525-3879',
+    'name' => 'Julian Tash',
+    'position' => 'Treasurer',
+    'email' => 'jtash1@umbc.edu'
+  },
+  'attendees' => {
+    'other' => 114,
+    'umbc' => 6
+  },
+  'description' => '   American University Debate
+
+',
+  'preTotal' => '360',
+  'id' => '443',
+  'legislation' => {},
+  'approval' => '10/27/2015',
+  'type' => 'Off Campus',
+  'from' => [
+    '4:00 AM',
+    '02/26/2016'
+  ],
+  'where' => 'American University',
+  'eventName' => 'American University Debate (February Tournament)',
+  'cosponsor' => [],
+  'to' => [
+    '10:00 AM',
+    '02/27/2016'
+  ],
+  'outsideFunding' => 'no',
+  'budget' => {
+    'approved' => {},
+    'requested' => {
+      'Registration' => '360.00',
+      'Total' => '360'
+    }
+  }
+};
+$VAR1 = {
+  'charge' => {
+    'umbc' => '0',
+    'other' => '0'
+  },
+  'outsideFunding' => 'no',
+  'officer' => {
+    'position' => 'President',
+    'email' => 'u8@umbc.edu',
+    'name' => 'Uchenna Osuala',
+    'phone' => '3012339104'
+  },
+  'to' => [
+    '12:00 AM',
+    '11/ 4/2024'
+  ],
+  'preTotal' => '1550.97',
+  'id' => '414',
+  'attendees' => {
+    'umbc' => 14000,
+    'other' => 0
+  },
+  'eventName' => 'Vinyl turntable and sound equipment',
+  'description' => '   This request is for various sound equipment needed for our club\'s meetings and campus-wide events.
+
+',
+  'where' => 'Advisor\'s Office',
+  'approval' => '10/ 9/2015',
+  'from' => [
+    '12:00 AM',
+    '11/ 4/2015'
+  ],
+  'legislation' => {},
+  'budget' => {
+    'approved' => {},
+    'requested' => {
+      'Taxes' => '31.44',
+      'RCA Cables' => '20.37',
+      'Behringer Microphono Amp' => '24.99',
+      'Total' => '1550.97',
+      'KRK Subwoofer' => '399.00',
+      'Storage Cabinet' => '177.17',
+      'Pro Ject Carbon Debut (Turntable)' => '399.00',
+      'KRK Speakers' => '499.00'
+    }
+  },
+  'firstTime' => 'yes',
+  'type' => 'Equipment',
+  'cosponsor' => []
+};
+$VAR1 = {
+  'outsideFunding' => 'yes',
+  'id' => '371',
+  'approval' => '09/ 9/2015',
+  'from' => [
+    '9:00 AM',
+    '10/30/2015'
+  ],
+  'cosponsor' => [],
+  'preTotal' => '0',
+  'attendees' => {
+    'other' => 0,
+    'umbc' => 16
+  },
+  'eventName' => 'NMUN DC Conference',
+  'budget' => {
+    'requested' => {
+      'Delegate Fees' => '0.00',
+      'Total' => '0'
+    },
+    'approved' => {}
+  },
+  'type' => 'Equipment',
+  'charge' => {
+    'umbc' => '0',
+    'other' => '0'
+  },
+  'officer' => {
+    'position' => 'President',
+    'phone' => '4104402757',
+    'name' => 'Hanna Dasoo',
+    'email' => 'hanna9@umbc.edu'
+  },
+  'to' => [
+    '8:00 PM',
+    '11/ 1/2015'
+  ],
+  'description' => '   To decrease the financial burdens for MUN students to attend the national conference in DC.
+
+',
+  'legislation' => {},
+  'where' => 'Washington Marriott Wardman Park Hotel'
+};
+$VAR1 = {
+  'budget' => {
+    'requested' => {
+      'Total' => '360',
+      'Registration' => '360.00'
+    },
+    'approved' => {}
+  },
+  'outsideFunding' => 'no',
+  'legislation' => {},
+  'to' => [
+    '7:00 AM',
+    '10/17/2015'
+  ],
+  'id' => '362',
+  'description' => '   We would like to attend a debate tournament at the University of Pennsylvania.
+
+',
+  'approval' => '09/ 6/2015',
+  'officer' => {
+    'position' => 'Treasurer',
+    'name' => 'Julian Tash',
+    'email' => 'jtash1@umbc.edu',
+    'phone' => '301-525-3879'
+  },
+  'where' => 'University of Pennsylvania ',
+  'attendees' => {
+    'other' => 194,
+    'umbc' => 6
+  },
+  'preTotal' => '360',
+  'type' => 'On Campus',
+  'firstTime' => 'yes',
+  'eventName' => 'Upenn Debate',
+  'cosponsor' => [],
+  'from' => [
+    '4:00 AM',
+    '10/16/2015'
+  ],
+  'charge' => {
+    'other' => '0',
+    'umbc' => '0'
+  }
+};
+$VAR1 = {
+  'type' => 'On Campus',
+  'charge' => {
+    'other' => '0',
+    'umbc' => '0'
+  },
+  'id' => '359',
+  'cosponsor' => [],
+  'attendees' => {
+    'umbc' => 6,
+    'other' => 234
+  },
+  'preTotal' => '300',
+  'eventName' => 'Vassar',
+  'description' => '   The UMBC debate team would like to compete at a tournament at Vassar University.
+
+',
+  'officer' => {
+    'name' => 'Julian Tash',
+    'position' => 'Treasurer',
+    'phone' => '301-525-3879',
+    'email' => 'jtash1@umbc.edu'
+  },
+  'to' => [
+    '7:00 AM',
+    '10/ 3/2015'
+  ],
+  'budget' => {
+    'requested' => {
+      'Total' => '300',
+      'Registration' => '300.00'
+    },
+    'approved' => {}
+  },
+  'legislation' => {},
+  'approval' => '09/ 6/2015',
+  'from' => [
+    '4:00 AM',
+    '10/ 2/2015'
+  ],
+  'where' => 'Vassar University',
+  'outsideFunding' => 'no'
+};
