@@ -5,7 +5,12 @@ use Data::Dumper;
 $Data::Dumper::Indent = 0;
 {$/ = undef; $_ = <STDIN>;}
 $dom = Mojo::DOM->new($_);
-$name = $dom->at(q{div[class="col-lg-9"] > div[class="panel"] > div > h2})->text;
+eval {
+    $name = $dom->at(q{div[class="col-lg-9"] > div[class="panel"] > div > h2})->text;
+};
+
+die $_ if $@ =~ /Can't call method "text" on an undefined value/;
+
 $dom = $dom->at(q{div[class="col-lg-9"] > div[class="panel content"]});
 if ($dom->at(q{div[class="col-lg-12"] > p > a})) {
     $pdf = $dom->at(q{div[class="col-lg-12"] > p > a})->attr("href") ;
@@ -42,7 +47,8 @@ $socPtr = $dom->at(q{div[class="col-lg-6 well"] > *});
         redo;
     }
 }
-$officer = Dumper(\%officer);
+$officer .= "$_: \"$officer{$_}[0]\" <$officer{$_}[1]>, " foreach keys %officer;
+chop $officer && chop $officer;
 @currMed = @currMed{'m','w','f','t','e','b','c'};
 $, =  "\t";
 $" =  "\t";
