@@ -1,10 +1,16 @@
 #!/usr/bin/perl
 use if -d 'perl5', local::lib => 'perl5';
 use DBI;
-my $dbh = DBI->connect("dbi:SQLite:dbname=financeBoard.sqlite","","");
+use Data::Dumper;
+my $dbh = DBI->connect("dbi:SQLite:dbname=osl.sqlite","","");
 
-$dbh->do('CREATE TABLE IF NOT EXISTS request ( id integer PRIMARY KEY ASC, legislation_id text, legislation_introduced date, legislation_author text, abstained integer, favored integer, opposed integer, absent integer, legislation_voted date, name text, date_from date, date_to date, location text, outside_funding text, cosponsor text, approved date, description text, officer_phone text, officer_email text, officer_name text, officer_position text, attendees_other integer, attendees_umbc integer, charge_other integer, charge_umbc integer);');
-$dbh->do('CREATE TABLE IF NOT EXISTS ledger (request_id integer PRIMARY KEY ASC, category text, amount text, approved text);');
+$dbh->do('CREATE TABLE IF NOT EXISTS request ( id integer PRIMARY KEY ASC, legislation_id text, submitted date, organization text, legislation_introduced date, legislation_author text, abstained integer, favored integer, opposed integer, absent integer, legislation_voted date, name text, date_from date, date_to date, location text, outside_funding text, cosponsor text, approved date, description text, officer_phone text, officer_email text, officer_name text, officer_position text, attendees_other integer, attendees_umbc integer, charge_other integer, charge_umbc integer);');
+$dbh->do('CREATE TABLE IF NOT EXISTS ledger (request_id integer, category text, amount text, approved text);');
+
+$dbh->begin_work;
+my $ledger = $dbh->prepare('INSERT OR REPLACE INTO ledger (request_id, category, amount, approved) VALUES (?, ?, ?, ?);');
+$dbh->commit;
+
 my %req = (
     "officer"   => {},
     "attendees" => {},
@@ -189,4 +195,15 @@ while (<STDIN>) {
         next;
     }
 }
-$dbh->do('INSERT OR REPLACE INTO request (id, legislation_id, legislation_introduced, legislation_author, abstained, favored, opposed, absent, legislation_voted, name, date_from, date_to, location, outside_funding, cosponsor, approved, description, officer_phone, officer_email, officer_name, officer_position, attendees_other, attendees_umbc, charge_other, charge_umbc) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?,?, ?, ?, ?, ?, ?, ?, ?, ?, ?)', undef, $req{"id"}, $req{"legislation"}{"id"}, $req{"legislation"}{"introduced"}, $req{"legislation"}{"author"}, $req{"legislation"}{"abstaining"}, $req{"legislation"}{"for"}, $req{"legislation"}{"opposed"}, $req{"legislation"}{"absent"}, $req{"legislation"}{"voted"}, $req{"eventName"}, join(',', @{$req{"from"}}), join(',', @{$req{"to"}}), $req{"where"}, $req{"outsideFunding"}, join(',', @{$req{"cosponsor"}}), $req{"approval"}, $req{"description"}, $req{"officer"}{"phone"}, $req{"officer"}{"email"}, $req{"officer"}{"name"}, $req{"officer"}{"position"}, $req{"attendees"}{"other"}, $req{"attendees"}{"umbc"}, $req{"charge"}{"other"}, $req{"charge"}{"umbc"});
+
+$dbh->begin_work;
+$dbh->do('UPDATE request SET legislation_id = ?, legislation_introduced = ?, legislation_author = ?, abstained = ?, favored = ?, opposed = ?, absent = ?, legislation_voted = ?, name = ?, date_from = ?, date_to = ?, location = ?, outside_funding = ?, cosponsor = ?, approved = ?, description = ?, officer_phone = ?, officer_email = ?, officer_name = ?, officer_position = ?, attendees_other = ?, attendees_umbc = ?, charge_other = ?, charge_umbc = ? WHERE id = ?', undef, $req{"legislation"}{"id"}, $req{"legislation"}{"introduced"}, $req{"legislation"}{"author"}, $req{"legislation"}{"abstaining"}, $req{"legislation"}{"for"}, $req{"legislation"}{"opposed"}, $req{"legislation"}{"absent"}, $req{"legislation"}{"voted"}, $req{"eventName"}, join(',', @{$req{"from"}}), join(',', @{$req{"to"}}), $req{"where"}, $req{"outsideFunding"}, join(',', @{$req{"cosponsor"}}), $req{"approval"}, $req{"description"}, $req{"officer"}{"phone"}, $req{"officer"}{"email"}, $req{"officer"}{"name"}, $req{"officer"}{"position"}, $req{"attendees"}{"other"}, $req{"attendees"}{"umbc"}, $req{"charge"}{"other"}, $req{"charge"}{"umbc"}, $req{"id"});
+
+$dbh->do('DELETE FROM ledger WHERE request_id = ?', undef, $req{"id"});
+
+$ledger->execute($req{"id"}, $_, $req{"budget"}{"requested"}{$_}, 0) foreach keys %{$req{"budget"}{"requested"}};
+$ledger->execute($req{"id"}, $_, $req{"budget"}{"approved"}{$_}, 1)  foreach keys %{$req{"budget"}{"approved"}};
+$dbh->commit;
+$dbh->{AutoCommit} = 1;
+
+print Dumper(\%req);
