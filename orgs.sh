@@ -1,6 +1,6 @@
 #!/bin/sh
-sh orgListGen.sh > orgList.tsv
-sh singleOrg.sh
+sh orgs-1.sh > orgList.tsv
+sh orgs-2.sh
 join -t '	' orgList.tsv orgList2.tsv > combined.tsv
 echo 'CREATE TABLE IF NOT EXISTS organizations_canonical (id INTEGER PRIMARY KEY ASC, name TEXT, category TEXT, description TEXT, organization_group TEXT, website TEXT, facebook TEXT, twitter TEXT, email TEXT, mailbox TEXT, cabinet TEXT);' | sqlite3 osl.sqlite -batch
 echo 'CREATE TABLE IF NOT EXISTS officers (organization_id INTEGER, name TEXT, position TEXT, email TEXT);' | sqlite3 osl.sqlite -batch
