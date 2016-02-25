@@ -1,1 +1,7 @@
 Generates sqlite database of all UMBC SGA Finance Board Requests (sga-fb.sh) and all UMBC OSL Organization Information (orgs.sh).
+
+Depends on elinks and pdftotext for Finance Board requests.
+
+Depends on Mojo::DOM for OSL information.
+
+To install perl dependencies locally, simply use the wonderful local::lib in ./perl5/.
