@@ -1,6 +1,6 @@
 Generates sqlite database of all UMBC SGA Finance Board Requests (sga-fb.sh) and all UMBC OSL Organization Information (orgs.sh).
 
-Depends on elinks and pdftotext for Finance Board requests.
+Depends on elinks and pdftotext (poppler) for Finance Board requests.
 
 Depends on Mojo::DOM for OSL information.
 
