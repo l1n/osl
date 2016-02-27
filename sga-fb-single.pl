@@ -128,7 +128,7 @@ while (<STDIN>) {
         next;
     }
     if ($pdf && m[\Q$pdf\E\. file://(.*)]) {
-        open PDF, '-|', 'curl http://osl.umbc.edu'.$1.' | pdftotext - -';
+        open PDF, '-|', 'curl -s http://osl.umbc.edu'.$1.' | pdftotext - -';
         while (<PDF>) {
             if (/FBL ([\d-]+)$/) {
                 $req{"legislation"}{"id"} = $1;
