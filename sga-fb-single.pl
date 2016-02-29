@@ -142,7 +142,7 @@ while (<STDIN>) {
                 $req{"legislation"}{"author"} = $1;
                 next;
             }
-            if (/, for the purpose requested/) {
+            if (/requested:$/) {
                 while (<PDF>) {
                     if (/^Total \$([\d.]+)$/) {
                         $req{"budget"}{"approved"}{"Total"} = $1;
