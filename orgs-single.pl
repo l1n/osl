@@ -18,9 +18,13 @@ if ($dom->at(q{div[class="col-lg-12"] > p > a})) {
 }
 $id = $ARGV[0] || $1;
 $desc = $dom->at(q{div[class="col-lg-12"] > p})->text if $dom->at(q{div[class="col-lg-12"] > p});
-$_ = $dom->at(q{div[class="col-lg-6"] > h4 ~ h4 + p})->to_string;
-/>\s*(.*?)<br>.*E-mail: .*"mailto:(.*)"/ms;
-$officer{Advisor} = [$1, $2];
+if ($dom->at(q{div[class="col-lg-6"] > h4 ~ h4 + p})) {
+	$_ = $dom->at(q{div[class="col-lg-6"] > h4 ~ h4 + p})->to_string;
+	/>\s*(.*?)<br>.*E-mail: .*"mailto:(.*)"/ms;
+	$officer{Advisor} = [$1, $2];
+} else {
+	$officer{Advisor} = ['Unknown', 'unknown@umbc.edu'];
+}
 $officerPointer = $dom->at(q{div[class="col-lg-6"] > p});
 do {
     if ($officerPointer->matches("p")) {
