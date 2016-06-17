@@ -20,7 +20,7 @@ $id = $ARGV[0] || $1;
 $desc = $dom->at(q{div[class="col-lg-12"] > p})->text if $dom->at(q{div[class="col-lg-12"] > p});
 if ($dom->at(q{div[class="col-lg-6"] > h4 ~ h4 + p})) {
 	$_ = $dom->at(q{div[class="col-lg-6"] > h4 ~ h4 + p})->to_string;
-	/>\s*(.*?)<br>.*E-mail: .*"mailto:(.*)"/ms;
+	/>\s*(.*?)<br>.*E-mail: .*"mailto:\s*(.*?)\s*"/gms;
 	$officer{Advisor} = [$1, $2];
 } else {
 	$officer{Advisor} = ['Unknown', 'unknown@umbc.edu'];
@@ -29,7 +29,7 @@ $officerPointer = $dom->at(q{div[class="col-lg-6"] > p});
 do {
     if ($officerPointer->matches("p")) {
         $_ = $officerPointer->to_string;
-        />\s*(.*?): (.*?)<br>.*E-mail: .*"mailto:(.*)"/ms;
+        />\s*(.*?): (.*?)<br>.*E-mail: .*"mailto:\s*(.*?)\s*"/gms;
         $officer{$1} = [$2, $3];
     } else { $officerPointer = undef; }
 } while ($officerPointer && ($officerPointer = $officerPointer->next));
