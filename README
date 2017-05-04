@@ -5,3 +5,5 @@ Depends on elinks and pdftotext (poppler) for Finance Board requests.
 Depends on Mojo::DOM for OSL information.
 
 To install perl dependencies locally, simply use the wonderful local::lib in ./perl5/.
+
+To run using authenticated requests (required for finance board), generate the jar file using `perl shib-lwp.pl USERNAME PASSWORD`.

@@ -8,19 +8,21 @@ use HTTP::Cookies::Netscape;
 my $browser = WWW::Mechanize->new('autocheck' => 0, 'cookie_jar' => HTTP::Cookies::Netscape->new('file' => 'jar', 'ignore_discard' => "TRUE"));
 
 $browser->get( 'https://osl.umbc.edu/sga/fb/' );
+my $user = shift @ARGV or die 'No username provided';
+my $pass = shift @ARGV or die 'No password provided';
 $browser->submit_form(
     'form_name'   => 'upass',
     'fields'    => {
-        'name'  => shift || die 'No username provided',
-        'password'  => shift || die 'No password provided'
+        'name'  => $user,
+        'password'  => $pass
     });
 $browser->submit_form();
 $browser->get( 'https://osl.umbc.edu/sga/fb/' );
-$browser->dump_headers;
-print $browser->content;
+$browser->dump_headers if $ARGV[0];
+print $browser->content if $ARGV[0];
 
 &save($browser->cookie_jar);
-print $browser->cookie_jar->as_string, "\n";
+print $browser->cookie_jar->as_string, "\n" if $ARGV[0];
 
 sub save($)
 {
