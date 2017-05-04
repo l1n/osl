@@ -52,6 +52,7 @@ $socPtr = $dom->at(q{div[class="col-lg-6 well"] > *});
     }
 }
 $officer .= "$_: \"$officer{$_}[0]\" <$officer{$_}[1]>, " foreach keys %officer;
+$officer =~ s/\n//g;
 chop $officer && chop $officer;
 @currMed = @currMed{'m','w','f','t','e','b','c'};
 $, =  "\t";
