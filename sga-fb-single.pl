@@ -1,5 +1,4 @@
 #!/usr/bin/perl
-use if -d 'perl5', local::lib => 'perl5';
 use DBI;
 use Data::Dumper;
 my $dbh = DBI->connect("dbi:SQLite:dbname=osl.sqlite","","");
@@ -128,7 +127,7 @@ while (<STDIN>) {
         next;
     }
     if ($pdf && m[\Q$pdf\E\. file://(.*)]) {
-        open PDF, '-|', 'curl -sb jar http://osl.umbc.edu'.$1.' | pdftotext - -';
+        open PDF, '-|', 'curl -sb jar https://osl.umbc.edu'.$1.' | pdftotext - -';
         while (<PDF>) {
             if (/FBL ([\d-]+)$/) {
                 $req{"legislation"}{"id"} = $1;
