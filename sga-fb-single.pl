@@ -22,6 +22,9 @@ my %req = (
     "id"        => $ARGV[0],
     "cosponsor" => [],
 );
+
+my $verbose = $ARGV[2];
+
 while (<STDIN>) {
     if (/\s*(.+?)\s+\Q$ARGV[1]\E \$ ([\d.]+)$/) {
         $req{"eventName"} = $1;
@@ -205,4 +208,4 @@ $ledger->execute($req{"id"}, $_, $req{"budget"}{"approved"}{$_}, 1)  foreach key
 $dbh->commit;
 $dbh->{AutoCommit} = 1;
 
-print Dumper(\%req);
+print Dumper(\%req) if $verbose;
