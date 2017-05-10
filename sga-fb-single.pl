@@ -44,7 +44,7 @@ while (<STDIN>) {
         $req{"officer"}{"phone"} = $1;
         next;
     }
-    if (/\[(\d*)\]View Legislation$/) {
+    if (/\[(\d*)\]View Legislation/) {
         $pdf = $1;
         next;
     }
@@ -127,7 +127,7 @@ while (<STDIN>) {
         next;
     }
     if ($pdf && m[\Q$pdf\E\. file://(.*)]) {
-        open PDF, '-|', 'curl -sb jar https://osl.umbc.edu'.$1.' | pdftotext - -';
+        open PDF, '-|', 'curl -s https://osl.umbc.edu'.$1.' | pdftotext - -';
         while (<PDF>) {
             if (/FBL ([\d-]+)$/) {
                 $req{"legislation"}{"id"} = $1;
